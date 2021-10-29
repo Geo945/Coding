@@ -1,0 +1,31 @@
+# Lab 3 Team 3
+
+Sa se scrie un program C care se apelează sub forma următoare:
+
+```
+myfind [-p PAT1] FILE DIR [DIR]
+```
+
+Programul va trebui sa itereze prin directoarele `DIR` și sa caute fișier-ul
+prin fiecare director.
+
+Dacă parametrul `-p` este dat, programul va cauta în toate fișierele găsite
+string-ul dat de `PAT1`. Dacă este găsit măcar o data, calea fișier-ului va fi
+afișata. Dacă parametrul nu este dat, programul va afișa toate fișierele.
+
+**Citirea și scrierea fișier-ului se face eficient**
+
+Indicații:
+
+- Consultați manualul funcțiilor `lseek()`, `open()`, `read()`, `write()`,
+  `opendir()`, `readdir()`, `closedir()`, `close()`.
+
+- Pentru a scrie fișiere eficient, ne putem folosi de `stat()` pentru a afla
+  `st_blksize`
+
+- Atenție la flag-urile date la `open()`
+
+- Totdeauna verificați posibilele erori și mai ntodeauna apelați `perror()`
+  pentru a afișa erori care au fost scrise în `errno`.
+
+- Rezolvați progresiv fiecare cerința.
