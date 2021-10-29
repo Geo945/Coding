@@ -1,0 +1,33 @@
+# Lab 1 Team 3
+
+Să se scrie un shell/bash script care poate fi apelat fără niciun argument, cu
+o expresie sau cu un fișier si o expresie.
+
+1. Dacă script-ul este apelat fără niciun argument, citește linii din standard
+input. Pentru fiecare linie execută expresia ca în cazul (3).
+
+2. Dacă script-ul este apelat cu un fișier si o expresie, execută expresia ca
+   în cazul (3) și scrie rezultatele în fișier, în loc de standard output. Dacă
+   fișier conține date, script-ul va completa la sfârșit-ul fișierului.
+
+3. Dacă script-ul este apelat cu o expresie, execută expresia și scrie
+   rezultatul sub forma: "<expresie> = <rezultat>". Pe anga asta, evaluata
+   operanzi ca pari/impari, rezultatul ca par/impar și afișează pentru fiecare
+   operand un mesaj. Pentru operator, verifica operator-ul cu un `switch` și
+   afișează numele operator-ului.
+
+Dacă nu se dă nici un argument se afișează în terminal un mesaj
+de utilizare.
+
+Script-ul va recunoaște operatorii '+', '-', '/', '*' . Numai numere în
+reprezentare zecimală vor fi acceptate, dacă un argument nu este recunoscut,
+script-ul trebuie să afișeze un mesaj de eroare. Script-ul va primi numai
+expresii de tipul "<numar> <operator> <operand>".
+
+În cazul în care script-ul a calculat un rezultat mai mare decât 5535,
+afișează un mesaj și scrie în script.log. Va face la fel pentru valorile 6000
+și 8000.
+
+theofilos.augoustis@gmail.com
+
+

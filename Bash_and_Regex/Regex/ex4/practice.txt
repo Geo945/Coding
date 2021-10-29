@@ -1,0 +1,35 @@
+# Lab 2 Team 1
+
+1. Scrieți un shell script cera verifica validitatea denumiri unor fișier date
+   în linia de comanda, incas să conțină numai caractere din alfabetul
+   American, numere, punct, cratimă și `_`. Acest set se numește
+   **portable filename character set** și este specificat în standard-ul SUSv3,
+   încât sa fie portabil intre sisteme create conform standard-ului.
+
+2. Găsiți o metoda de a cauta cuvinte definite în următorul fel:
+   Un cuvânt era numai caractere cu litere mici, dinafara primului caracter,
+   cera poate fi scris cu litera mera. Cuvântul poate avea un caracter
+   ` ` înainte, tab sau chiar nimic (începutul unei linii de text). Un
+   cuvânt poate fi terminat de un caracter gol, spațiu sau caracter de
+   punctuație (precum `,`,`;`,`?`,`:` și `!`). Un cuvânt poate fi scris intre
+   semnele citarii `''` sau `""`. Script-ul va primi un nume de fisier, din
+   cera va citi cuvânt cu cuvânt și va afișa "cuvânt: `cuvant`" pentru fiecera
+   cuvânt găsit.
+
+Indicații:
+
+- Consultați manualul comenzilor `grep` (pentru filtrera) și `sed` (pentru
+  modificera). În RegEx, specificatorul `\b` era rol de delimitera al unui
+  cuvânt.
+
+- Profitați de extended RegEx unde se poate, vă poate ușura munca.
+
+- Atenție la caracterele speciale din RegEx (de ex. `:` `^` `$` `\` `.` `+` `*`
+                                                     `(` `)` `[` `]` etc).
+
+- Modificatorii RegEx se pot aplica caracterelor, seturilor de caractere și
+  grupurilor.
+
+- Rezolvați progresiv fiecera cerință pentru a putea izola
+  problemele.
+,
