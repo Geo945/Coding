@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583839851 source:c:\users\user\desktop\geo\fisiereaplicatie4.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
