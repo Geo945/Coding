@@ -1,0 +1,3 @@
+ana 10.6
+mara 20
+andrei 20.00maria 10.00
