@@ -1,0 +1,11 @@
+﻿Build started 27.11.2020 13:02:37.
+     1>Project "D:\MyDesktop\scoala\an2Semestrul1\SDA\Laboratoare\lab liste\labListe\labListe\labListe.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MyDesktop\scoala\an2Semestrul1\SDA\Laboratoare\lab liste\labListe\Debug\labListe.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\MyDesktop\scoala\an2Semestrul1\SDA\Laboratoare\lab liste\labListe\Debug\labListe.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MyDesktop\scoala\an2Semestrul1\SDA\Laboratoare\lab liste\labListe\Debug\labListe.lib" /MACHINE:X86 Debug\ListeVPl.obj
+     1>ListeVPl.obj : error LNK2019: unresolved external symbol _adaugaInceput referenced in function _main
+     1>D:\MyDesktop\scoala\an2Semestrul1\SDA\Laboratoare\lab liste\labListe\Debug\labListe.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "D:\MyDesktop\scoala\an2Semestrul1\SDA\Laboratoare\lab liste\labListe\labListe\labListe.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.38

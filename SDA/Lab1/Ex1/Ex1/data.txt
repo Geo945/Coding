@@ -1,0 +1,13 @@
+Bublesort: N1=10000 , 0.411000
+Bublesort: N2=20000 , 1.701000
+Bublesort: N3=30000 , 3.876000
+Bublesort: N4=40000 , 6.928000
+Bublesort: N5=50000 , 10.899000
+
+
+
+Shakersort: N1=10000 , 0.798000
+Shakersort: N2=20000 , 3.213000
+Shakersort: N3=30000 , 7.279000
+Shakersort: N4=40000 , 12.931000
+Shakersort: N5=50000 , 20.381000

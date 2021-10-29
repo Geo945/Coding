@@ -1,0 +1,17 @@
+﻿Build started 12.10.2020 17:53:22.
+     1>Project "D:\MyDesktop\scoala\an2Semestrul1\SDA\Laboratoare\Lab2\Lab2Ex2\Lab2Ex2\Lab2Ex2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Lab2Ex2.c
+         Lab2Ex2.c
+     1>d:\mydesktop\scoala\an2semestrul1\sda\laboratoare\lab2\lab2ex2\lab2ex2\lab2ex2.c(61): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\mydesktop\scoala\an2semestrul1\sda\laboratoare\lab2\lab2ex2\lab2ex2\lab2ex2.c(63): warning C4013: 'isspace' undefined; assuming extern returning int
+     1>d:\mydesktop\scoala\an2semestrul1\sda\laboratoare\lab2\lab2ex2\lab2ex2\lab2ex2.c(70): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\mydesktop\scoala\an2semestrul1\sda\laboratoare\lab2\lab2ex2\lab2ex2\lab2ex2.c(72): warning C4013: 'isdigit' undefined; assuming extern returning int
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MyDesktop\scoala\an2Semestrul1\SDA\Laboratoare\Lab2\Lab2Ex2\Debug\Lab2Ex2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\MyDesktop\scoala\an2Semestrul1\SDA\Laboratoare\Lab2\Lab2Ex2\Debug\Lab2Ex2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MyDesktop\scoala\an2Semestrul1\SDA\Laboratoare\Lab2\Lab2Ex2\Debug\Lab2Ex2.lib" /MACHINE:X86 Debug\Lab2Ex2.obj
+         Lab2Ex2.vcxproj -> D:\MyDesktop\scoala\an2Semestrul1\SDA\Laboratoare\Lab2\Lab2Ex2\Debug\Lab2Ex2.exe
+     1>Done Building Project "D:\MyDesktop\scoala\an2Semestrul1\SDA\Laboratoare\Lab2\Lab2Ex2\Lab2Ex2\Lab2Ex2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.60
