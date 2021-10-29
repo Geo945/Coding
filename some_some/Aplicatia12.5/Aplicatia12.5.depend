@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590154814 source:c:\users\geo\desktop\scoala\an1semestrul2\tp\lab12\aplicatia12.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

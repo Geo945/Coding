@@ -1,0 +1,8 @@
+Andrei,10
+Mihai,5
+Stefan,8
+Robert,10
+Nicol,4
+Geo,7
+Nicu,6
+Denis,9
