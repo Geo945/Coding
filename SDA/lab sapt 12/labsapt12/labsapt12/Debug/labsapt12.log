@@ -1,0 +1,15 @@
+﻿Build started 14.12.2020 17:10:07.
+     1>Project "D:\MyDesktop\scoala\an2Semestrul1\SDA\Laboratoare\lab sapt 12\labsapt12\labsapt12\labsapt12.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Sapt12VPL.c
+         Sapt12VPL.c
+     1>d:\mydesktop\scoala\an2semestrul1\sda\laboratoare\lab sapt 12\labsapt12\labsapt12\sapt12vpl.c(83): warning C4013: 'parola_encode' undefined; assuming extern returning int
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MyDesktop\scoala\an2Semestrul1\SDA\Laboratoare\lab sapt 12\labsapt12\Debug\labsapt12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\MyDesktop\scoala\an2Semestrul1\SDA\Laboratoare\lab sapt 12\labsapt12\Debug\labsapt12.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MyDesktop\scoala\an2Semestrul1\SDA\Laboratoare\lab sapt 12\labsapt12\Debug\labsapt12.lib" /MACHINE:X86 Debug\Sapt12VPL.obj
+     1>Sapt12VPL.obj : error LNK2019: unresolved external symbol _parola_encode referenced in function _main
+     1>D:\MyDesktop\scoala\an2Semestrul1\SDA\Laboratoare\lab sapt 12\labsapt12\Debug\labsapt12.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "D:\MyDesktop\scoala\an2Semestrul1\SDA\Laboratoare\lab sapt 12\labsapt12\labsapt12\labsapt12.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.58

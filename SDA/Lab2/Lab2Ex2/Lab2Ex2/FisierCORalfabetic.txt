@@ -1,0 +1,4240 @@
+1 817207 aburitor pluta
+2 731827 aburitor textile
+3 831204 acar
+4 265201 acompaniator
+5 812216 acoperitor metale
+6 712101 acoperitor-învelitor tigla, azbociment, tabla
+7 731201 acordor acordeoane, armonici
+8 731202 acordor piane, pianine, orga, tambal
+9 265901 acrobat
+10 265501 actor
+11 265502 actor mânuitor de papusi
+12 331404 actuar
+13 212010 actuar (studii superioare
+14 352101 acustician cinematografic
+15 111101 adjunct al procurorului general
+16 515104 administrator
+17 241231 administrator bancar/ produs leasing
+18 252101 administrator baze de date
+19 213237 administrator bunuri agricole
+20 421112 administrator cont
+21 241215 administrator credite
+22 333103 administrator cumparari
+23 242407 administrator de formare
+24 252301 administrator de retea de calculatoare
+25 252302 administrator de retea de telefonie VOIP
+26 241240 administrator de risc
+27 242218 administrator editura
+28 263111 administrator financiar (patrimoniu (studii superioare
+29 431203 administrator financiar (patrimoniu studii medii
+30 141104 administrator hotel
+31 515303 administrator imobile
+32 241219 administrator judiciar
+33 515203 administrator pensiune turistica
+34 515105 administrator piete si târguri
+35 214238 administrator port
+36 242208 administrator public
+37 242211 administrator publicatii
+38 252201 administrator sistem de securitate bancara
+39 351105 administrator sistem documentar
+40 242111 administrator societate comerciala
+41 143115 administrator structuri sportive
+42 751107 afumator carne
+43 213229 agent agricol
+44 431201 agent bursa
+45 241214 agent capital de risc
+46 332401 agent comercial
+47 241235 agent compensare (interbancara
+48 541907 agent conducator câini de serviciu
+49 242212 agent consular
+50 333101 agent contractari si achizitii (broker marfuri
+51 541402 agent control acces
+52 333104 agent cumparari
+53 515302 agent curatenie cladiri si mijloace de transport
+54 432333 agent curier
+55 332101 agent de asigurare
+56 422106 agent de asistenta turistica
+57 242207 agent de dezvoltare
+58 333913 agent de nava
+59 331102 agent de schimb
+60 541401 agent de securitate
+61 315509 agent de securitate aeroportuara
+62 541413 agent de securitate competi?ii sportive
+63 541412 agent de securitate conducator câini de serviciu patrulare
+64 541403 agent de securitate incinta (magazin, hotel, întreprindere etc.
+65 541406 agent de securitate interven?ie
+66 422105 agent de transport international
+67 422104 agent de transport turistic intern
+68 422102 agent de turism
+69 422111 agent de turism pentru circuite tematice
+70 422103 agent de turism tour-operator
+71 332203 agent de vânzari
+72 331105 agent de vânzari directe (produse financiar-bancare
+73 422101 agent de voiaj
+74 516901 agent dezinfectie, deratizare, dezinsectie
+75 516904 agent ecolog
+76 333303 agent evidenta si plata a ajutorului de somaj
+77 432342 agent feroviar marfa
+78 421401 agent fiscal
+79 541404 agent garda de corp
+80 711915 agent hidrotehnic
+81 333401 agent imobiliar (broker imobiliar
+82 333902 agent literar
+83 333107 agent maritim
+84 331107 agent marketing pensii private
+85 333305 agent ocupare
+86 333302 agent orientare profesionala a somerilor/ agent informare privind cariera
+87 331108 agent pentru servicii de investitii financiare
+88 541201 agent politie comunitara
+89 441201 agent postal
+90 341101 agent procedural
+91 333901 agent reclama publicitara
+92 333301 agent repartizare a fortei de munca
+93 315501 agent salvare aeroportuara si instalatii de stins incendii
+94 333907 agent servicii client
+95 432334 agent statie metrou
+96 541407 agent transport valori
+97 432301 agent transporturi
+98 422108 agent transporturi externe
+99 422109 agent transporturi interne
+100 333106 agent tranzit
+101 422107 agent turism de afaceri
+102 332403 agent vânzari standarde si produse conexe
+103 324001 agent veterinar
+104 812121 aglomeratorist
+105 611101 agricultor
+106 613003 agricultor în culturi vegetale si crescator de animale
+107 611105 agricultor pentru culturi de câmp ecologice
+108 818205 ajutor fochist
+109 753104 ajutor maistru croitor
+110 731815 ajutor maistru filator
+111 731818 ajutor maistru tesator, tricoter
+112 315107 ajutor ofiter mecanic fluvial
+113 513101 ajutor ospatar
+114 132301 ajutor sef brigada în constructii
+115 817104 albitor pasta hârtie
+116 812134 alimentator-încalzitor de materiale
+117 711920 alpinist utilitar
+118 421301 amanetar
+119 932101 ambalator manual
+120 111102 ambasador
+121 325802 ambulantier
+122 731101 AMC-ist
+123 251201 analist
+124 351202 analist ajutor
+125 261912 analist armonizare legislativa
+126 241229 analist bancar/ societate de leasing
+127 214131 analist calitate
+128 241241 analist credite
+129 243301 analist cumparari/ consultant furnizori
+130 242224 analist de informatii
+131 263203 analist de mediu
+132 241305 analist financiar
+133 241309 analist financiar bancar
+134 242222 analist informatii de firma
+135 241211 analist investitii
+136 263204 analist în turism
+137 214132 analist masuratori metrologice
+138 242308 analist piata muncii
+139 241220 analist pret de revenire/ costuri
+140 242309 analist recrutare/ integrare salariati
+141 333306 analist resurse umane
+142 243216 analist servicii client
+143 242310 analist sisteme salarizare
+144 214133 analist studiul materialelor
+145 331201 analist tehnic piete financiare
+146 263205 analist teritorial
+147 335503 anchetator politie
+148 516908 animator centre de vacanta
+149 511317 animator de hotel
+150 216602 animator film de animatie (studii medii
+151 265426 animator film de animatie (studii superioare
+152 516907 animator socioeducativ
+153 342301 animator sportiv
+154 522201 anticar
+155 342201 antrenor
+156 612905 antrenor cabaline
+157 342207 antrenor coordonator
+158 342303 antrenor de fitness
+159 342204 antrenor de fotbal profesionist
+160 143101 antrenor federatie sportiva
+161 342220 antrenor na?ional
+162 112032 antreprenor în economia sociala
+163 516301 antreprenor servicii funerare
+164 612301 apicultor
+165 731401 aplicator de detalii la produse din ceramica
+166 962905 aprod
+167 243221 arbitru
+168 342216 arbitru de fotbal
+169 342208 arbitru judecator sportiv
+170 612207 arbitru pentru pasari de rasa
+171 611201 arboricultor
+172 731301 argintar
+173 818111 argintar produse din sticla
+174 263206 arheolog
+175 263601 arhiepiscop
+176 263602 arhiereu-vicar
+177 216101 arhitect cladiri
+178 216201 arhitect peisagistica si amenajarea teritoriului
+179 216103 arhitect restaurari
+180 216402 arhitect urbanism
+181 122301 arhitect-sef
+182 441501 arhivar
+183 341108 arhivar notariat
+184 262101 arhivist
+185 263603 arhondar
+186 818143 armator de izolatori electrici (prelucrator produse electrotehnice
+187 731102 armurier
+188 216609 art director
+189 243101 art director publicitate (studii medii
+190 754201 artificier de mina
+191 754202 artificier la lucrari de suprafata
+192 265503 artist circ
+193 265219 artist instrumentist
+194 265202 artist liric
+195 265223 artist liric opera
+196 265102 artist plastic
+197 263504 art-terapeut
+198 812209 arzator email
+199 818126 arzator produse ceramice
+200 818109 arzator produse din sticla
+201 812225 asamblator elemente si baterii galvanice
+202 752205 asamblator lazi
+203 731836 asamblator-montator articole marochinarie
+204 712407 asamblator-montator profile aluminiu si geam termopan
+205 821903 asamblor articole de sport
+206 821901 asamblor biciclete
+207 821902 asamblor jucarii
+208 722401 ascutitor laminate la cald
+209 722402 ascutitor laminate la rece
+210 722404 ascutitor scule, instrumente medicale si obiecte de uz casnic
+211 722403 ascutitor-calitor garnituri de carde
+212 711904 asfaltator
+213 241307 asistent analist
+214 413207 asistent analist de informatii
+215 241310 asistent bancar
+216 243219 asistent comercial
+217 334304 asistent de cabinet
+218 211112 asistent de cercetare de aeronave
+219 263117 asistent de cercetare economist în economia generala
+220 263115 asistent de cercetare economist în economia mediului
+221 263119 asistent de cercetare economist în economie agroalimentara
+222 263125 asistent de cercetare economist în gestiunea economica
+223 263113 asistent de cercetare economist în management
+224 263121 asistent de cercetare economist în marketing
+225 263123 asistent de cercetare economist în relatii economice internationale
+226 213241 asistent de cercetare în agricultura
+227 213250 asistent de cercetare în agromontanologie
+228 263211 asistent de cercetare în antropologie
+229 213151 asistent de cercetare în antropologie biologica
+230 263215 asistent de cercetare în arheologie
+231 216110 asistent de cercetare în arhitectura
+232 216309 asistent de cercetare în arte plastice - design industrial
+233 216313 asistent de cercetare în arte plastice - sticla, ceramica, metal
+234 216311 asistent de cercetare în arte plastice - textile (tapiserie, contexturi,moda, imprimeuri
+235 263511 asistent de cercetare în asistenta sociala
+236 211109 asistent de cercetare în astronomie
+237 215240 asistent de cercetare în automatica
+238 214474 asistent de cercetare în autovehicule rutiere
+239 226305 asistent de cercetare în bacteriologie, microbiologie, biochimie,farmacologie
+240 211309 asistent de cercetare în biochimie tehnologica
+241 213137 asistent de cercetare în biologie
+242 213141 asistent de cercetare în biologie chimie
+243 213257 asistent de cercetare în biotehnologie pentru agricultura
+244 213143 asistent de cercetare în botanica
+245 215237 asistent de cercetare în calculatoare
+246 214303 asistent de cercetare în centrale hidroelectrice în ingineria mediului
+247 215141 asistent de cercetare în centrale nuclearoelectrice
+248 215138 asistent de cercetare în centrale termoelectrice
+249 211307 asistent de cercetare în chimie
+250 211311 asistent de cercetare în chimie fizica
+251 215228 asistent de cercetare în comunicatii
+252 214930 asistent de cercetare în confectii din piele si înlocuitori
+253 211115 asistent de cercetare în constructii aerospatiale
+254 214217 asistent de cercetare în constructii civile, industriale si agricole
+255 214220 asistent de cercetare în constructii de cai ferate, drumuri si poduri
+256 214471 asistent de cercetare în constructii de masini agricole
+257 214223 asistent de cercetare în constructii hidrotehnice
+258 214227 asistent de cercetare în constructii miniere
+259 214535 asistent de cercetare în controlul calitatii produselor alimentare
+260 214483 asistent de cercetare în creatia tehnica în constructia de masini
+261 212028 asistent de cercetare în demografie
+262 261916 asistent de cercetare în domeniul stiintelor juridice
+263 213145 asistent de cercetare în domeniul zoologic
+264 214462 asistent de cercetare în echipamente de proces
+265 214453 asistent de cercetare în echipamente si instalatii de bord
+266 213147 asistent de cercetare în ecologie si protectia mediului
+267 226910 asistent de cercetare în educatie fizica si sport
+268 215144 asistent de cercetare în electroenergetica
+269 215126 asistent de cercetare în electrofizica
+270 215132 asistent de cercetare în electromecanica
+271 215225 asistent de cercetare în electronica aplicata
+272 215123 asistent de cercetare în electrotehnica
+273 215147 asistent de cercetare în energetica industriala
+274 215149 asistent de cercetare în energetica nasoala
+275 214933 asistent de cercetare în exploatari forestiere
+276 214628 asistent de cercetare în exploatari miniere
+277 214921 asistent de cercetare în filatura-tesatorie
+278 264315 asistent de cercetare în filologie
+279 263306 asistent de cercetare în filozofie
+280 241302 asistent de cercetare în finante-banci
+281 211103 asistent de cercetare în fizica
+282 211107 asistent de cercetare în fizica tehnologica
+283 211105 asistent de cercetare în fizica-chimie
+284 226404 asistent de cercetare în fiziokinetoterapie
+285 211435 asistent de cercetare în geochimie
+286 211440 asistent de cercetare în geodezie
+287 211431 asistent de cercetare în geofizica
+288 263213 asistent de cercetare în geografie
+289 211427 asistent de cercetare în geologie
+290 211437 asistent de cercetare în geologie petroliera
+291 211429 asistent de cercetare în geologie tehnica
+292 241304 asistent de cercetare în gestiune, contabilitate, control financiar
+293 213247 asistent de cercetare în horticultura
+294 214918 asistent de cercetare în informatica
+295 213149 asistent de cercetare în ingineria genetica
+296 214233 asistent de cercetare în ingineria materialelor oxidice
+297 214640 asistent de cercetare în ingineria proceselor siderurgice
+298 214230 asistent de cercetare în instalatii
+299 214657 asistent de cercetare în instalatii si utilaje pentru transportul si depozitarea produselor petroliere
+300 263308 asistent de cercetare în istorie
+301 264313 asistent de cercetare în lingvistica
+302 214459 asistent de cercetare în masini hidraulice si pneumatice
+303 214456 asistent de cercetare în masini si echipamente termice
+304 214486 asistent de cercetare în masini si instalatii mecanice
+305 212016 asistent de cercetare în matematica
+306 212020 asistent de cercetare în matematica aplicata
+307 212022 asistent de cercetare în matematica-fizica
+308 212024 asistent de cercetare în matematica-informatica
+309 212018 asistent de cercetare în matematica-mecanica
+310 214465 asistent de cercetare în mecanica fina
+311 221110 asistent de cercetare în medicina generala
+312 226105 asistent de cercetare în medicina stomatologica
+313 223002 asistent de cercetare în medicina traditionala
+314 225005 asistent de cercetare în medicina veterinara
+315 214643 asistent de cercetare în metalurgia neferoasa
+316 211210 asistent de cercetare în meteorologie
+317 215129 asistent de cercetare în metrologie
+318 213139 asistent de cercetare în microbiologie-bacteriologie
+319 213144 asistent de cercetare în microbiologie-nasoala
+320 211433 asistent de cercetare în mineralogia tehnica si experimentala
+321 235102 asistent de cercetare în pedagogie
+322 213243 asistent de cercetare în pedologie-agrochimie
+323 214128 asistent de cercetare în pescuit si acvacultura
+324 214529 asistent de cercetare în petrochimie si carbochimie
+325 214634 asistent de cercetare în petrol (extractie-prospectiune
+326 214937 asistent de cercetare în prelucrarea lemnului
+327 214649 asistent de cercetare în prelucrari plastice si tratamente termice
+328 214631 asistent de cercetare în prepararea substantelor minerale utile
+329 263416 asistent de cercetare în psihologie
+330 263418 asistent de cercetare în psihopedagogie speciala
+331 213253 asistent de cercetare în silvicultura
+332 214450 asistent de cercetare în sisteme de propulsie
+333 263209 asistent de cercetare în sociologie
+334 212026 asistent de cercetare în statistica
+335 214652 asistent de cercetare în stiinta materialelor
+336 263310 asistent de cercetare în stiintele politice
+337 214943 asistent de cercetare în tehnologia celulozei, hârtiei, poligrafiei si fibrelor
+338 214927 asistent de cercetare în tehnologia chimica a produselor textile, pieii, blanurilor si înlocuitorilor
+339 214532 asistent de cercetare în tehnologia compusilor macromoleculari
+340 214468 asistent de cercetare în tehnologia constructiilor de masini
+341 214125 asistent de cercetare în tehnologia prelucrarii produselor agricole
+342 214523 asistent de cercetare în tehnologia substantelor anorganice
+343 214526 asistent de cercetare în tehnologia substantelor organice
+344 214940 asistent de cercetare în tehnologie si echipamente neconventionale
+345 214655 asistent de cercetare în tehnologii carbochimice
+346 215234 asistent de cercetare în telecomenzi si electronica în transporturi
+347 214637 asistent de cercetare în topografie miniera
+348 214924 asistent de cercetare în tricotaje-confectii textile
+349 214646 asistent de cercetare în turnarea metalelor
+350 214477 asistent de cercetare în utilaje si instalatii portuare
+351 214480 asistent de cercetare în utilaje si tehnologia ambalarii
+352 213255 asistent de cercetare în zootehnie
+353 215135 asistent de cercetare roboti industriali
+354 211445 asistent de cercetare stiintifica în domeniul hidrologiei, hidrogeologiei si gospodaririi apelor
+355 226204 asistent de farmacie licen?iat
+356 325103 asistent de medicina dentara
+357 226501 asistent de nutritie
+358 325102 asistent de profilaxie stomatologica
+359 243217 asistent director/ responsabil de functiune (studii superioare
+360 321301 asistent farmacist
+361 311116 asistent fizica si chimie
+362 261205 asistent judiciar
+363 334303 asistent manager
+364 531201 asistent maternal
+365 226905 asistent medical (studii superioare
+366 226924 asistent medical balneofizioterapie, balneofiziokinetoterapie ?i recuperare
+367 325909 asistent medical balneofizioterapie, balneofiziokinetoterapie ?i recuperare
+368 325301 asistent medical comunitar
+369 325603 asistent medical consiliere HIV/ SIDA
+370 321303 asistent medical de farmacie
+371 325905 asistent medical de pediatrie
+372 325502 asistent medical fizioterapie
+373 222101 asistent medical generalist
+374 325901 asistent medical generalist
+375 226921 asistent medical igiena ?i sanatate publica
+376 325907 asistent medical igiena ?i sanatate publica
+377 226920 asistent medical laborator
+378 325904 asistent medical laborator
+379 226918 asistent medical nutri?ie dietetica
+380 325902 asistent medical nutri?ie dietetica
+381 325906 asistent medical obstretica-ginecologie
+382 226919 asistent medical radiologie
+383 325910 asistent medical radiologie
+384 134201 asistent medical sef
+385 226923 asistent medico-social
+386 325908 asistent medico-social
+387 211206 asistent meteorolog
+388 263509 asistent pentru îngrijirea persoanelor vârstnice
+389 532203 asistent personal al persoanei cu handicap grav
+390 532905 asistent personal de îngrijire
+391 532904 asistent personal profesionist
+392 265429 asistent productie film
+393 341113 asistent registrator
+394 261923 asistent registrator principal
+395 343510 asistent regizor artistic
+396 216606 asistent regizor emisie
+397 216605 asistent regizor studio
+398 333906 asistent relatii publice si comunicare (studii medii
+399 265435 asistent scenograf
+400 263505 asistent social cu competenta în sanatatea mintala
+401 341201 tehnician asisten?a sociala
+402 263501 asistent social
+403 325707 asistent standardizare
+404 231001 asistent universitar
+405 324002 asistent veterinar
+406 322201 asistenta puericultoare
+407 516101 astrolog
+408 111232 atasat diplomatic
+409 226604 audiolog
+410 325703 auditor de mediu
+411 242228 auditor de securitate a aviaíei civile
+412 214952 auditor de siguranta rutiera
+413 325711 auditor de sistem de management pentru sanatate si securitate ocupationala
+414 214138 auditor energetic pentru cladiri
+415 214141 auditor / evaluator sisteme de management de securitate
+416 241107 auditor financiar
+417 241105 auditor intern
+418 241306 auditor intern în sectorul public
+419 214130 auditor în domeniul calitatii
+420 325714 auditor în domeniul sigurantei alimentare
+421 214139 auditor în managementul riscului
+422 242901 auditor responsabilitate sociala
+423 742201 automatist
+424 313111 automatist pentru supraveghere si întretinere cazane
+425 321201 autopsier
+426 324003 autopsier la ecarisaj
+427 432323 avizier cai ferate
+428 261101 avocat
+429 531103 baby sitter
+430 612108 baci montan
+431 213134 bacteriolog
+432 265301 balerin
+433 513201 barman
+434 343402 barman - sef
+435 513202 barman preparator
+436 532101 baies
+437 711401 betonist
+438 262201 bibliograf
+439 441101 bibliotecar (studii medii
+440 262202 bibliotecar (studii superioare
+441 262206 bibliotecar arhivist
+442 731308 bijutier metale comune
+443 731302 bijutier metale pretioase
+444 214512 biochimist
+445 226915 biochimist medical principal
+446 226912 biochimist medical specialist
+447 134202 biochimist sef sectie, laborator
+448 223006 bioenergetician
+449 226904 bioinginer medical
+450 213114 biolog
+451 226916 biolog medical principal
+452 226913 biolog medical specialist
+453 134203 biolog sef sectie, laborator
+454 753110 blanar - confectioner îmbracaminte din blana, dupa comanda
+455 731103 blocator, chituitor, deblocator
+456 741202 bobinator aparataj electric
+457 741207 bobinator condensatori pentru instalatii electrice
+458 741204 bobinator masini electrice rotative
+459 741209 bobinator transformatoare
+460 213116 botanist
+461 325801 brancardier
+462 243207 brand manager
+463 721201 brazor
+464 811201 brichetator carbune
+465 731501 brigadier la fabricarea sticlei
+466 314310 brigadier silvic
+467 753305 broder la gherghef
+468 753301 broder manual
+469 753304 broder manual - mecanic
+470 331104 broker bursa de marfuri
+471 241265 broker de tehnologii
+472 332102 broker în asigurari
+473 722414 brosator
+474 751201 brutar
+475 512001 bucatar
+476 343403 bucatar - sef
+477 512003 bucatar specialist/ vegetarian/ dietetician
+478 524601 bufetier
+479 343201 butafor
+480 515101 cabanier
+481 731809 cablator frânghii
+482 541902 cadru tehnic cu atributii în domeniul prevenirii si stingerii incendiilor
+483 814109 calandror la finisarea cauciucului
+484 331301 calculator devize
+485 431101 calculator pret cost
+486 331101 cambist (broker valori
+487 352131 cameraman
+488 516201 camerista hotel
+489 833205 camionagiu
+490 962301 cantaragiu
+491 265229 cântaret
+492 263608 cântaret bisericesc
+493 711905 cantonier
+494 263604 cantor
+495 421205 cap de masa (cazino
+496 263605 capelan
+497 621002 carbonitor
+498 815109 carbonizator textile
+499 815112 cardator
+500 263606 cardinal
+501 343506 caricaturist (studii medii
+502 265101 caricaturist (studii superioare
+503 751101 carmangier
+504 441202 cartator postal
+505 441203 cartator presa
+506 441204 cartator telegrame
+507 216501 cartograf
+508 814301 cartonagist
+509 265906 cascador
+510 523003 casier
+511 962302 casier încasator
+512 523004 casier metrou
+513 421101 casier tezaur
+514 421107 casier trezorier
+515 421102 casier valuta
+516 731203 caserator si slefuitor de celuloid pentru carcase acordeoane
+517 721308 cazangiu formator
+518 721301 cazangiu recipiente
+519 721307 cazangiu tevar
+520 912101 calcatoreasa lenjerie
+521 812139 calitor prin inductie sau cu flacara
+522 812140 calitor scule
+523 341301 calugar
+524 341302 calugarita
+525 315201 capitan fluvial
+526 315202 capitan port
+527 215219 capitan port (studii superioare
+528 215218 capitan secund
+529 132401 capitan- sef port
+530 933101 caraus
+531 753107 ceaprazar - sepcar
+532 731104 ceasornicar
+533 731105 centrator, debordator piese optice
+534 731106 centrator, finisor aparate optice
+535 241201 cenzor
+536 211110 cercetator de aeronave
+537 263207 cercetator de dezvoltare comunitara
+538 263116 cercetator economist în economia generala
+539 263114 cercetator economist în economia mediului
+540 263118 cercetator economist în economie agroalimentara
+541 263124 cercetator economist în gestiunea economica
+542 263112 cercetator economist în management
+543 263120 cercetator economist în marketing
+544 263122 cercetator economist în relatii economice internationale
+545 213239 cercetator în agricultura
+546 213248 cercetator în agromontanologie
+547 263210 cercetator în antropologie
+548 213150 cercetator în antropologie biologica
+549 263214 cercetator în arheologie
+550 216109 cercetator în arhitectura
+551 216308 cercetator în arte plastice - design industrial
+552 216310 cercetator în arte plastice - textile (tapiserie, contexturi, moda, imprimeuri
+553 216312 cercetator în arte plastice-sticla, ceramica, metal
+554 263510 cercetator în asistenta sociala
+555 211108 cercetator în astronomie
+556 215238 cercetator în automatica
+557 214472 cercetator în autovehicule rutiere
+558 211308 cercetator în biochimie tehnologica
+559 213136 cercetator în biologie
+560 213140 cercetator în biologie chimie
+561 213256 cercetator în biotehnologie pentru agricultura
+562 213142 cercetator în botanica
+563 215235 cercetator în calculatoare
+564 214301 cercetator în centrale hidroelectrice în ingineria mediului
+565 215139 cercetator în centrale nuclearoelectrice
+566 215136 cercetator în centrale termoelectrice
+567 211306 cercetator în chimie
+568 211310 cercetator în chimie fizica
+569 215226 cercetator în comunicatii
+570 214928 cercetator în confectii din piele si înlocuitori
+571 211113 cercetator în constructii aerospatiale
+572 214215 cercetator în constructii civile, industriale si agricole
+573 214218 cercetator în constructii de cai ferate, drumuri si poduri
+574 214469 cercetator în constructii de masini agricole
+575 214221 cercetator în constructii hidrotehnice
+576 214225 cercetator în constructii miniere
+577 214533 cercetator în controlul calitatii produselor alimentare
+578 214481 cercetator în creatia tehnica în constructia de masini
+579 212027 cercetator în demografie
+580 261915 cercetator în domeniul stiintelor juridice
+581 213144 cercetator în domeniul zoologic
+582 214460 cercetator în echipamente de proces
+583 214451 cercetator în echipamente si instalatii de bord
+584 213146 cercetator în ecologie si protectia mediului
+585 226909 cercetator în educatie fizica si sport
+586 215142 cercetator în electroenergetica
+587 215124 cercetator în electrofizica
+588 215130 cercetator în electromecanica
+589 215223 cercetator în electronica aplicata
+590 215121 cercetator în electrotehnica
+591 215145 cercetator în energetica industriala
+592 263216 cercetator în etnologie
+593 214931 cercetator în exploatari forestiere
+594 214626 cercetator în exploatari miniere
+595 214919 cercetator în filatura-tesatorie
+596 264314 cercetator în filologie
+597 263305 cercetator în filozofie
+598 241301 cercetator în finante-banci
+599 211102 cercetator în fizica
+600 211106 cercetator în fizica tehnologica
+601 211104 cercetator în fizica-chimie
+602 226403 cercetator în fiziokinetoterapie
+603 211434 cercetator în geochimie
+604 211438 cercetator în geodezie
+605 211430 cercetator în geofizica
+606 263212 cercetator în geografie
+607 211426 cercetator în geologie
+608 211436 cercetator în geologie petroliera
+609 211428 cercetator în geologie tehnica
+610 241303 cercetator în gestiune, contabilitate, control financiar
+611 213245 cercetator în horticultura
+612 214917 cercetator în informatica
+613 213148 cercetator în ingineria genetica
+614 214638 cercetator în ingineria proceselor siderurgice
+615 214228 cercetator în instalatii
+616 214487 cercetator în instalatii si utilaje pentru transportul si depozitarea produselor petroliere
+617 263307 cercetator în istorie
+618 264312 cercetator în lingvistica
+619 214457 cercetator în masini hidraulice si pneumatice
+620 214454 cercetator în masini si echipamente termice
+621 214484 cercetator în masini si instalatii mecanice
+622 212015 cercetator în matematica
+623 212019 cercetator în matematica aplicata
+624 212023 cercetator în matematica informatica
+625 212017 cercetator în matematica mecanica
+626 212021 cercetator în matematica-fizica
+627 214463 cercetator în mecanica fina
+628 221109 cercetator în medicina generala
+629 226104 cercetator în medicina stomatologica
+630 223001 cercetator în medicina traditionala
+631 225004 cercetator în medicina veterinara
+632 214641 cercetator în metalurgia neferoasa
+633 211209 cercetator în meteorologie
+634 215127 cercetator în metrologie
+635 213138 cercetator în microbiologie-bacteriologie
+636 215229 cercetator în microelectronica
+637 211432 cercetator în mineralogia tehnica si experimentala
+638 235101 cercetator în pedagogie
+639 213244 cercetator în pedologie-agrochimie
+640 214126 cercetator în pescuit si acvacultura
+641 214527 cercetator în petrochimie si carbochimie
+642 214632 cercetator în petrol (extractie-prospectiune
+643 214935 cercetator în prelucrarea lemnului
+644 214647 cercetator în prelucrari plastice si tratamente termice
+645 214629 cercetator în prepararea substantelor minerale utile
+646 263415 cercetator în psihologie
+647 263417 cercetator în psihopedagogie speciala
+648 213251 cercetator în silvicultura
+649 214448 cercetator în sisteme de propulsie
+650 263208 cercetator în sociologie
+651 212025 cercetator în statistica
+652 214650 cercetator în stiinta materialelor
+653 214231 cercetator în stiinta si ingineria materialelor oxidice
+654 263309 cercetator în stiintele politice
+655 214941 cercetator în tehnologia celulozei, hârtiei, poligrafiei si fibrelor
+656 214925 cercetator în tehnologia chimica a produselor textile, pieii, blanurilor si înlocuitorilor
+657 214530 cercetator în tehnologia compusilor macromoleculari
+658 214466 cercetator în tehnologia constructiilor de masini
+659 214123 cercetator în tehnologia prelucrarii produselor agricole
+660 214521 cercetator în tehnologia substantelor anorganice
+661 214524 cercetator în tehnologia substantelor organice
+662 214938 cercetator în tehnologie si echipamente neconventionale
+663 214653 cercetator în tehnologii carbochimice
+664 215232 cercetator în telecomenzi si electronica în transporturi
+665 214635 cercetator în topografie miniera
+666 214922 cercetator în tricotaje-confectii textile
+667 214644 cercetator în turnarea metalelor
+668 214475 cercetator în utilaje si instalatii portuare
+669 214478 cercetator în utilaje si tehnologia ambalarii
+670 213254 cercetator în zootehnie
+671 215133 cercetator roboti industriali
+672 226304 cercetator stiintific în bacteriologie, microbiochimie, farmacologie
+673 211444 cercetator stiintific în domeniul hidrologiei, hidrogeologiei si gospodaririi apelor
+674 731204 ceruitor de piastrine pentru acordeoane
+675 711906 chesonier
+676 111103 chestor Parlament
+677 263607 chevrasames
+678 211301 chimist
+679 214910 chimist în materiale oxidice (sticla, ceramica
+680 226917 chimist medical principal
+681 226914 chimist medical specialist
+682 134204 chimist sef sectie, laborator
+683 815120 cilindror în filaturi
+684 612101 cioban (oier
+685 612109 cioban montan
+686 751102 ciontolitor transator carne
+687 621001 cioplitor în lemn
+688 711301 cioplitor în piatra si marmura
+689 711302 cioplitor-montator piatra, marmura
+690 752314 circularist la taiat lemne de foc
+691 611202 ciupercar
+692 731303 cizelator
+693 731304 cizelator clisee galvanice
+694 753601 cizmar - confectioner încaltaminte, dupa comanda
+695 213235 clasificator carcase
+696 211203 climatolog
+697 265902 clovn
+698 514101 coafor
+699 516402 coafor canin
+700 514103 coafor stilist
+701 812101 cocsar
+702 441301 codificator
+703 751202 cofetar
+704 343404 cofetar - sef
+705 753112 cojocar
+706 732302 colator publicitar
+707 421402 colector (recuperator creante/debite
+708 816010 colector si preparator faina, sânge, carne, oase
+709 816008 colector si sortator par
+710 143102 comandant aeroclub
+711 132403 comandant coordonator grup mare pescuit oceanic
+712 315301 comandant detasament zbor
+713 132434 comandant instructor
+714 315302 comandant însotitor de bord
+715 132402 comandant nave maritime
+716 112002 comandant port, flota
+717 111104 comandant unic aviatie
+718 112001 comandant/ comandant adjunct aviatie
+719 834102 combiner agricol
+720 264201 comentator publicist
+721 264222 comentator radio TV
+722 335904 comisar
+723 241202 comisar Garda Financiara
+724 111105 comisar general
+725 111106 comisar general adjunct
+726 241207 comisar principal
+727 121119 comisar sef divizie Garda Financiara
+728 962103 comisioner
+729 818907 compresorist
+730 811212 concasorist
+731 813115 concentrator-purificator în chimie
+732 214110 conceptor/ conceptor CAO
+733 265203 concert maestru
+734 813143 conditioner finisor produse explozive
+735 816034 conditioner miere
+736 751601 conditioner tutun pentru fabricarea tigaretelor
+737 812114 conditioner-finisor
+738 814126 conditioner-finisor produse din cauciuc
+739 132404 conducator (director si director adjunct Administratia Filiala Dunarea de Jos (AFDJ
+740 132439 conducator activitate de transport rutier
+741 835004 conducator ambarcatiuni agrement pe ape interioare
+742 132303 conducator antrepriza constructii-montaj
+743 263610 conducator arhiepiscopal
+744 831103 conducator autodrezina
+745 834406 conducator autoîncarcator portuar
+746 833204 conducator autospeciala
+747 834405 conducator autotrailer
+748 111405 conducator de asociatii, filiale si organizatii obstesti
+749 133009 conducator de întreprindere mica - patron (girant în informatica
+750 134506 conducator de întreprindere mica - patron (girant în învatamânt
+751 134402 conducator de întreprindere mica - patron (girant în sanatate
+752 143114 conducator de întreprindere mica - patron (girant în sport
+753 143907 conducator de întreprindere mica - patron (girant în turism
+754 214213 conducator de lucrari civile
+755 832101 conducator de motocicleta
+756 832102 conducator de motoscuter
+757 111433 conducator de organizatii umanitare
+758 143912 conducator de pensiune turistica (rurala, agroturistica, montana
+759 835007 conducator de salupa maritima/ fluviala
+760 122108 conducator firma mica - patron (girant în afaceri, intermedieri si alte servicii comerciale
+761 132209 conducator întreprindere mica - patron (girant industrie extractiva
+762 132110 conducator întreprindere mica - patron (girant industrie prelucratoare
+763 141101 conducator întreprindere mica - patron (girant în activitatea hoteliera si restaurante
+764 131122 conducator întreprindere mica - patron (girant în agricultura si silvicultura
+765 142011 conducator întreprindere mica - patron (girant în comert
+766 133047 conducator întreprindere mica - patron (girant în comunicatii
+767 132315 conducator întreprindere mica - patron (girant în constructii
+768 131203 conducator întreprindere mica - patron (girant în piscicultura si vânatoare
+769 134909 conducator întreprindere mica - patron (girant în prestari servicii
+770 132452 conducator întreprindere mica - patron (girant în transporturi
+771 134501 conducator tabara scolara
+772 833103 conducator tramvai (vatman
+773 833102 conducator troleibuz
+774 216102 conductor arhitect
+775 722311 conductor de instalatii
+776 511201 conductor tren
+777 511204 conductor vagon de dormit si cuseta
+778 753602 confectioner articole din piele si înlocuitori
+779 731802 confectioner articole hârtie
+780 752304 confectioner articole speciale din lemn
+781 817202 confectioner bastoane din pluta
+782 821221 confectioner becuri
+783 731803 confectioner bibelouri din Jenille
+784 731722 confectioner bidinele, pensule, perii
+785 741214 confectioner cablaje auto
+786 821208 confectioner cabluri si arbori de cabluri
+787 721403 confectioner capace de carde
+788 813149 confectioner cartuse de vânatoare
+789 812227 confectioner celule de electroliza
+790 821216 confectioner circuite imprimate
+791 821214 confectioner circuite integrate
+792 721404 confectioner cocleti
+793 817203 confectioner colaci si centuri de salvare
+794 753203 confectioner corsete
+795 731719 confectioner corzi din intestine
+796 731709 confectioner creta scolara
+797 752306 confectioner cutii chibrituri din furnir
+798 752327 confectioner cutii de chibrituri din carton
+799 731714 confectioner cutite, brice, bratari, andrele, agrafe, inele
+800 821905 confectioner de bete, lansete, mânere si dopuri pentru unelte de pescuit
+801 812226 confectioner de elemente galvanice
+802 814103 confectioner de produse industriale din cauciuc
+803 722109 confectioner ferodouri
+804 813144 confectioner fitile
+805 731906 confectioner flori artificiale
+806 814107 confectioner garnituri de etansare din cauciuc
+807 811410 confectioner garnituri din azbest
+808 731705 confectioner garnituri pentru etansare
+809 752308 confectioner gamalii chibrituri
+810 712408 confectioner vitraje izolante
+811 821204 confectioner gratare si accesorii pentru acumulatori
+812 812219 confectioner izolatii la conductori electrici
+813 731812 confectioner îmbracare volane în piele
+814 753111 confectioner îmbracaminte din piele si înlocuitori, dupa comanda
+815 753603 confectioner încaltaminte ortopedica
+816 731904 confectioner jaluzele
+817 731702 confectioner jucarii
+818 821219 confectioner lampi cu vapori de mercur
+819 821220 confectioner lampi cu vapori de sodiu
+820 821218 confectioner lampi fluorescente
+821 812220 confectioner mantale de plumb prin presare la cabluri
+822 731806 confectioner manual de produse din sfori sau frânghii
+823 731901 confectioner manual în metaloplastie
+824 731721 confectioner materiale didactice pentru stiintele naturii
+825 731723 confectioner maturi
+826 752322 confectioner mine pentru creioane
+827 731715 confectioner nasturi, piepteni
+828 731703 confectioner obiecte artizanale din lemn
+829 731716 confectioner obiecte casnice din deseuri de aluminiu si alte metale
+830 731717 confectioner obiecte din ipsos
+831 731718 confectioner obiecte din os, scoica, mica etc.
+832 752305 confectioner parchete
+833 753103 confectioner palarii
+834 821213 confectioner piese radio si semiconductori
+835 731701 confectioner piese, linguri, spite, albii, donite, cozi de unelte, sindrila, ciubere
+836 721405 confectioner plase din sârma
+837 731801 confectioner plase pescaresti
+838 711103 confectioner plase si pânze rabit din stuf
+839 711102 confectioner placi din diverse materiale
+840 817206 confectioner placi izolatoare
+841 821205 confectioner placi pentru acumulatori
+842 731704 confectioner plute
+843 815214 confectioner polizoare din pâsla
+844 731821 confectioner preturi
+845 817108 confectioner produse igienico-sanitare
+846 813145 confectioner produse pirotehnice
+847 821202 confectioner protectie dielectrica pentru acumulatori
+848 812204 confectioner protectii si obiecte anticorozive
+849 731902 confectioner proteze dentare
+850 731903 confectioner proteze ortopedice
+851 753204 confectioner reparator cravate
+852 817201 confectioner rondele din pluta
+853 821215 confectioner scala radio
+854 731112 confectioner seringi
+855 815428 confectioner sabloane la imprimerie
+856 815411 confectioner sabloane si cilindri de imprimat
+857 812224 confectioner si legator depolarizator
+858 731305 confectioner stampile de cauciuc, metal, facsimile
+859 817105 confectioner tambur filigranare
+860 712409 confectioner tâmplarie din aluminiu si mase plastice
+861 818106 confectioner termosuri
+862 812221 confectioner toroane si cablaje la conductori electrici
+863 731824 confectioner tricotaje dupa comanda
+864 821210 confectioner tuburi cinescop
+865 731811 confectioner unelte pescuit din plase
+866 753113 confectioner, prelucrator în industria textila
+867 821907 confectioner-asamblor articole din carton
+868 821906 confectioner-asamblor articole din lemn
+869 821908 confectioner-asamblor articole din textile
+870 752216 confectioner-montator cercuri la butoaie
+871 752206 confectioner-montator produse din lemn
+872 721433 confectioner-montator structuri metalice pentru constructii
+873 712411 confectioner-montator tâmplarie cu vitraj izolant
+874 231002 conferentiar universitar
+875 343306 conservator arhiva (studii medii
+876 262105 conservator arhiva (studii superioare
+877 343304 conservator bunuri culturale (studii medii
+878 343302 conservator opere de arta si monumente istorice (studii medii
+879 262102 conservator opere de arta si monumente istorice (studii superioare
+880 262110 conservator/ restaurator componente artistice din lemn la monumente istorice
+881 262111 conservator/ restaurator componente artistice din metal la monumente istorice
+882 262112 conservator/ restaurator componente artistice din piatra, ceramica sau stucatura la monumente istorice
+883 262109 conservator/ restaurator pictura pe lemn
+884 262108 conservator/ restaurator pictura murala
+885 262113 conservator/ restaurator vitralii si componente artistice din sticla la monumente istorice
+886 212005 consilier actuar
+887 242201 consilier administratia publica
+888 242214 consilier afaceri europene
+889 111205 consilier al ministrului
+890 216104 consilier arhitect
+891 261910 consilier armonizare legislativa
+892 213117 consilier bacteriolog
+893 213121 consilier biochimist
+894 213101 consilier biolog
+895 213105 consilier botanist
+896 216507 consilier cadastru
+897 211302 consilier chimist
+898 263609 consilier culte
+899 261921 consilier de probatiune
+900 242225 consilier de stare civila
+901 242229 consilier dezvoltare locala ?i regionala
+902 111201 consilier diplomatic
+903 213308 consilier ecolog
+904 111211 consilier economic
+905 213125 consilier farmacolog
+906 241203 consilier financiar-bancar
+907 242301 consilier forta de munca si somaj
+908 211405 consilier geofizician
+909 211401 consilier geolog
+910 111202 consilier guvernamental
+911 211409 consilier hidrogeolog
+912 211413 consilier hidrolog
+913 213201 consilier inginer agronom
+914 214504 consilier inginer chimist
+915 214209 consilier inginer constructii
+916 213205 consilier inginer horticol
+917 214517 consilier inginer industria alimentara
+918 214119 consilier inginer industrializarea lemnului
+919 214433 consilier inginer mecanic
+920 214606 consilier inginer metalurg
+921 214610 consilier inginer minier
+922 214508 consilier inginer petrochimist
+923 214618 consilier inginer petrolist
+924 214905 consilier inginer prelucrarea sticlei si ceramicii
+925 213219 consilier inginer silvic
+926 214913 consilier inginer tehnologia celulozei si hârtiei
+927 214106 consilier inginer textile, pielarie
+928 213209 consilier inginer zootehnist
+929 111204 consilier institutii publice
+930 263502 consilier în domeniul adictiilor
+931 235103 consilier învatamânt
+932 261103 consilier juridic
+933 212001 consilier matematician
+934 235922 consilier mediator
+935 221103 consilier medic
+936 213129 consilier microbiolog
+937 111401 consilier organizatie politica
+938 242306 consilier orientare privind cariera
+939 111230 consilier parlamentar
+940 211417 consilier pedolog
+941 242324 consilier pentru dezvoltare personala
+942 235920 consilier pentru tineret
+943 111429 consilier presedinte organizatie profesionala nationala
+944 111430 consilier presedinte organizatie profesionala, filiala judeteana/municipiu
+945 111229 consilier prezidential
+946 261918 consilier proprietate industriala autorizat
+947 226911 consilier sportiv
+948 212011 consilier statistician
+949 235903 consilier scolar
+950 111203 consilier si consultant juridic
+951 215313 consilier tehnic
+952 143103 consilier teritorial sef inspectoratul pentru cultura
+953 241245 consilier vânzari asigurari
+954 332204 consilier vânzari bijuterii si ceasuri
+955 242315 consilier vocational
+956 213109 consilier zoolog
+957 211205 consilier/ expert în meteorologie si domenii conexe
+958 263104 consilier/ expert/ inspector/ referent/ economist în comert si marketing
+959 263103 consilier/ expert/ inspector/ referent/ economist în economia mediului
+960 263102 consilier/ expert/ inspector/ referent/ economist în economie generala
+961 263106 consilier/ expert/ inspector/ referent/ economist în gestiunea economica
+962 263101 consilier/ expert/ inspector/ referent/ economist în management
+963 263105 consilier/ expert/ inspector/ referent/ economist în relatii economice internationale
+964 711907 constructor cai ferate
+965 731205 constructor claviatura
+966 712102 constructor de acoperisuri
+967 711908 constructor linii tramvai
+968 731213 constructor restaurator de orgi
+969 711404 constructor structuri monolite
+970 721421 constructor-montator de structuri metalice
+971 731206 constructor-reparator de acordeoane si armonici
+972 731207 constructor-reparator de alte instrumente muzicale (suflat, percutie
+973 111233 consul
+974 111206 consul general
+975 213238 consultant afaceri în agricultura
+976 265401 consultant artistic
+977 241234 consultant bancar
+978 241208 consultant bugetar
+979 243205 consultant cameral
+980 242312 consultant conditii de munca
+981 241269 consultant de investitii
+982 242113 consultant de securitate
+983 241222 consultant fiscal
+984 242318 consultant intern în resurse umane
+985 242205 consultant în administratia publica
+986 242307 consultant în domeniul fortei de munca
+987 251901 consultant în informatica
+988 263107 consultant în management
+989 242317 consultant în resurse umane
+990 242316 consultant în standardizare
+991 226504 consultant nutri?ionist
+992 241213 consultant plasamente valori mobiliare
+993 111236 consultant prezidential si guvernamental
+994 242311 consultant reconversie-mobilitate personal
+995 214134 consultant sistem de calitate
+996 213227 consultant tehnic în productia de cereale, plante tehnice si furaje
+997 331302 contabil
+998 331306 contabil bugetar
+999 431202 contabil financiar bancar
+1000 121120 contabil-sef
+1001 121112 contabil-sef/ director financiar/ banca/ societate de leasing
+1002 511205 controlor acces metrou
+1003 511203 controlor bilete
+1004 754301 controlor calitate
+1005 312201 controlor calitate dupa efectuarea probelor la armament si munitie
+1006 312202 controlor calitate pentru executia elementelor la armament si munitie
+1007 722115 controlor de calitate la forjare
+1008 312203 controlor de calitate la protejari metalice
+1009 722116 controlor de calitate la turnare
+1010 313904 controlor de conformitate în industria de masini
+1011 241106 controlor de gestiune
+1012 312102 controlor de productie la minele de aur nativ
+1013 315401 controlor dirijare nonradar
+1014 352122 controlor emisii RTV
+1015 121121 controlor financiar
+1016 962906 controlor poarta
+1017 121127 controlor revizor financiar
+1018 315402 controlor sol
+1019 352102 controlor si reconditioner filme
+1020 241101 controlor tezaur
+1021 432303 controlor trafic
+1022 315419 controlor trafic aerian (simulator trafic aerian
+1023 315413 controlor trafic aerian dirijare nonradar
+1024 315414 controlor trafic aerian dirijare radar
+1025 315415 controlor trafic aerian informare
+1026 315403 controlor trafic aviatia civila
+1027 335101 controlor vamal, controlor pentru datoria vamala (studii medii
+1028 335106 controlor vamal, controlor pentru datoria vamala, agent vamal (studii superioare
+1029 121108 coordonator compartiment/ colectiv banca
+1030 121117 coordonator conformitate
+1031 211208 coordonator interventii active în atmosfera
+1032 325724 coordonator în materie de securitate si sanatate în munca (studii medii
+1033 325726 coordonator în materie de securitate si sanatate în munca pentru logistica (studii medii
+1034 226303 coordonator în materie de securitate si sanatate în munca (studii superioare
+1035 226308 coordonator în materie de securitate si sanatate în munca pentru logistica (studii superioare
+1036 134907 coordonator presa
+1037 265428 coordonator productie film
+1038 215316 coordonator productie RTV
+1039 242105 coordonator secretariat studiouri teritoriale
+1040 265217 copiator note muzicale
+1041 315303 copilot
+1042 732110 copist formare tipar plan
+1043 343519 copywriter publicitate (studii medii
+1044 265422 copywriter publicitate (studii superioare
+1045 343520 corector (studii medii
+1046 264202 corector (studii superioare
+1047 441302 corector editura presa
+1048 265402 corector transmisie
+1049 441303 corector-revizor poligrafie
+1050 265302 coregraf
+1051 265204 corepetitor
+1052 243218 corespondent comercial
+1053 264205 corespondent presa
+1054 264204 corespondent radio
+1055 214944 corespondent securitate - confidentialitate produs
+1056 264203 corespondent special (tara si strainatate
+1057 752209 corhanitor
+1058 265205 corist
+1059 265224 corist opera
+1060 732108 corodor prin procedee chimice (tiefdruc si zinco
+1061 514201 cosmetician
+1062 216304 costumier
+1063 713301 cosar
+1064 814206 creator, modelier mase plastice
+1065 612105 crescator bovine
+1066 612901 crescator de animale mici
+1067 612904 crescator de melci
+1068 612110 crescator de oi montan
+1069 612201 crescator de pasari
+1070 612206 crescator de pasari de rasa si pentru decor
+1071 612204 crescator de pasari pentru oua de consum
+1072 612203 crescator de pasari pentru reproductie
+1073 612205 crescator de pui pentru carne
+1074 612106 crescator porcine
+1075 612902 crescator-îngrijitor animale salbatice captive
+1076 612903 crescator-îngrijitor de animale de laborator
+1077 612102 crescator-îngrijitor de animale domestice pentru productia de lapte si carne
+1078 612906 crescator-îngrijitor de cabaline
+1079 264206 critic de arta
+1080 264220 critic literar
+1081 264221 critic muzical
+1082 753101 croitor
+1083 753201 croitor - confectioner îmbracaminte, dupa comanda
+1084 815902 croitor confectii industriale din blana
+1085 753206 croitor confectioner costume teatru
+1086 731831 croitor manusi piele
+1087 814127 croitor pentru încaltaminte si articole tehnice din cauciuc
+1088 731833 croitor-stantator articole marochinarie
+1089 815603 croitor-stantator piese încaltaminte
+1090 731819 crosetor
+1091 421201 crupier
+1092 732101 culegator la masina de cules si turnat rânduri (linotipist
+1093 732102 culegator la masina de perforat programe pentru masinile de turnat text (monotastor
+1094 732103 culegator la masina de turnat rânduri pentru titluri (LUDLOV
+1095 732104 culegator manual (zetar
+1096 818125 cuptorar ceramica fina si decor
+1097 811401 cuptorar lianti
+1098 818133 cuptorar produse abrazive
+1099 818138 cuptorar produse din carbune
+1100 818135 cuptorar produse refractare
+1101 818105 cuptorar recoacere sticla
+1102 722111 cuptorar-termist pentru ferite
+1103 912102 curatatoreasa lenjerie
+1104 753108 curatitor - reparator palarii
+1105 713302 curatitor de fatade
+1106 812109 curatitor lingouri
+1107 816011 curatitor piei
+1108 722429 curatitor-sablator
+1109 815119 curatitor-slefuitor garnituri carde
+1110 752315 curbator lemn
+1111 752207 curbator-montator butoaie din lemn
+1112 753604 curelar, confectioner harnasamente
+1113 962101 curier
+1114 243214 curier diplomatic
+1115 731834 cusator articole marochinarie
+1116 815904 cusator confectii industriale din blana
+1117 731830 cusator manusi piele
+1118 815605 cusator piese din piele si înlocuitori
+1119 814117 cusator piese la încaltaminte din cauciuc
+1120 511316 custode pentru arii protejate
+1121 413101 dactilografa
+1122 732208 dactilo-rotaprint
+1123 265307 dansator
+1124 241209 dealer
+1125 121109 dealer-sef (arbitragist banca
+1126 731402 debavurator-retusor la produse din ceramica fina
+1127 722428 debitator semifabricate
+1128 722117 debitator-ebosator
+1129 722405 debitator-slefuitor perii de masini electrice
+1130 112003 decan, rector, prorector, prodecan
+1131 812145 decapator
+1132 815101 decapsulator
+1133 333105 declarant vamal
+1134 311601 decontaminator
+1135 343202 decorator interioare
+1136 731804 decorator în piele
+1137 516302 decorator servicii funerare
+1138 343204 decorator vitrine
+1139 816025 decorticator crupe
+1140 817228 decupator furnire
+1141 752217 decupator lamele din lemn pentru lazi
+1142 815102 decuscutor
+1143 235201 defectolog
+1144 731107 degresator, curatator piese si aparate optice
+1145 722315 degresator-imersioner
+1146 751501 degustator
+1147 813153 delaborator munitie
+1148 111411 delegat sindical
+1149 111432 delegat sindical local
+1150 111138 deputat
+1151 817229 derulatorist
+1152 311803 desenator
+1153 343203 desenator artistic (studii medii
+1154 343205 desenator artistic (studii superioare
+1155 732111 desenator cromolitograf
+1156 265103 desenator film animatie
+1157 311801 desenator tehnic
+1158 817227 desenator-însemnator cherestea
+1159 216607 designer floral
+1160 216601 designer grafica (studii medii
+1161 216611 designer grafica (studii superioare
+1162 216301 designer industrial
+1163 235904 designer instructional
+1164 216613 designer pagini web (studii medii
+1165 216610 designer pagini web (studii superioare
+1166 216307 designer vestimentar
+1167 352135 designer video
+1168 815108 destramator
+1169 335502 detectiv
+1170 335504 detectiv particular
+1171 712601 detector pierderi apa si gaze
+1172 814111 devulcanizator regenerare cauciuc
+1173 812107 dezbatator lingouri
+1174 235905 dezvoltator de e-learning
+1175 263611 diacon
+1176 226502 dietetician
+1177 111208 director adjunct institutie publica
+1178 112005 director adjunct societate comerciala
+1179 143104 director asezamânt cultural
+1180 141117 director bar
+1181 141115 director berarie
+1182 141114 director braserie
+1183 141118 director cafenea
+1184 112035 director casa corpului didactic
+1185 133001 director centru de calcul
+1186 143910 director centru informare turistica
+1187 235919 director Centrul Judetean de Resurse si Asistenta Educationala (CJRAE
+1188 134508 director club sportiv scolar
+1189 141121 director cofetarie, patiserie
+1190 112017 director comercial
+1191 112016 director control risc
+1192 141113 director crama
+1193 143909 director de agentie de turism tour-operatoare/ detailista/ filiala/sucursala
+1194 121113 director de arhiva banca
+1195 111209 director de cabinet
+1196 141108 director de camping
+1197 141123 director de cazare
+1198 141122 director de club (hotelier
+1199 265432 director de creatie
+1200 141202 director de departament alimentatie
+1201 141203 director de departament catering
+1202 143911 director de departament organizare evenimente
+1203 143918 director de departament ticketing
+1204 141105 director de hotel
+1205 141107 director de hotel pentru tineret
+1206 141106 director de motel
+1207 141110 director de popas turistic
+1208 112013 director de program
+1209 141109 director de sat de vacanta
+1210 112031 director de societate comerciala agricola
+1211 112027 director departament cercetare-dezvoltare
+1212 133006 director departament informatica
+1213 134920 director departament securitate
+1214 141119 director disco-bar
+1215 133005 director divizie informatica
+1216 112020 director economic
+1217 121104 director executiv banca/ director/director adjunct
+1218 122307 director filiala cercetare-proiectare
+1219 111238 director general adjunct
+1220 112015 director general adjunct regie autonoma
+1221 112012 director general adjunct societate comerciala
+1222 112025 director general institut national de cercetare-dezvoltare
+1223 111210 director general institutie publica
+1224 112014 director general regie autonoma
+1225 112011 director general societate comerciala
+1226 121103 director general/ director general adjunct banca/ societate de leasing
+1227 141116 director gradina de vara
+1228 265420 director imagine
+1229 112026 director incubator tehnologic de afaceri
+1230 111207 director institutie publica
+1231 112021 director magazin
+1232 122104 director operatii tranzactii
+1233 134507 director palate si cluburi ale elevilor
+1234 265427 director productie film
+1235 122313 director proiect
+1236 141111 director restaurant
+1237 112033 director resurse umane
+1238 141112 director rotiserie
+1239 112004 director societate comerciala
+1240 112023 director sucursala
+1241 112007 director stiintific cercetare-dezvoltare
+1242 112024 director tehnic
+1243 121110 director unitate bancara operationala/ director adjunct unitate
+1244 134502 director unitate de învatamânt
+1245 141120 director unitati tip fast-food
+1246 112018 director vânzari
+1247 132405 director zbor
+1248 121114 director/ director adjunct divizie/ directie de leasing
+1249 112019 director/ director adjunct, inspector-sef
+1250 121116 director/ director executiv conformitate
+1251 133043 diriginte oficiu telecomunicatii
+1252 132432 diriginte oficiu transporturi
+1253 441205 diriginte posta
+1254 311210 diriginte santier
+1255 214214 diriginte santier (studii superioare
+1256 265206 dirijor
+1257 265221 dirijor cor
+1258 265231 disc-jockey
+1259 441102 discotecar
+1260 818141 discuitor de produse ceramice la masini
+1261 432201 dispecer
+1262 215102 dispecer centrala, hidrocentru, cascada, dispecerate teritoriale
+1263 541408 dispecer centru de alarma
+1264 215101 dispecer energetic feroviar
+1265 311301 dispecer gestiune uraniu
+1266 315510 dispecer operatiuni de zbor
+1267 432205 dispecer operatiuni salubrizare
+1268 515108 dispecer pentru servire în camera (hotel
+1269 215103 dispecer retea distributie
+1270 215104 dispecer retele de înalta tensiune
+1271 315404 dispecer sol
+1272 815121 disponent în filaturi
+1273 813118 distilator în industria chimica
+1274 313403 distilator la prelucrarea titeiului
+1275 811202 distilator la prepararea carbunelui
+1276 816049 distilator rachiuri naturale
+1277 962104 distribuitor presa
+1278 834310 docher
+1279 834312 docher instalatii de încarcare/ descarcare la bordul navei si cheu
+1280 834313 docher-amarator
+1281 834314 docher-mecanizator
+1282 343516 documentarist (studii medii
+1283 262203 documentarist (studii superioare
+1284 214137 documentarist ordonantare logistica
+1285 731711 dogar manual
+1286 722313 dozator la fabricarea electrozilor de sudura
+1287 812120 dozator la producerea aglomeratului
+1288 814113 dozator prelucrare cauciuc
+1289 315209 dragor maritim/ fluvial
+1290 711909 drenor canalist
+1291 265908 dresor
+1292 711501 dulgher (exclusiv restaurator
+1293 711502 dulgher restaurator
+1294 722118 dusisator-polizator
+1295 213305 ecolog
+1296 241224 economist banca
+1297 121102 economist-sef
+1298 265431 editor coordonator programe TV
+1299 352119 editor imagine
+1300 265419 editor RTV (stiri
+1301 264207 editorialist
+1302 341501 educatoare
+1303 541302 educator în penitenciare
+1304 235203 educator în unitati de handicapati
+1305 341502 educator puericultor
+1306 531203 educator specializat
+1307 741205 electrician aparate masura-control si automatizare în centrale termoelectrice si nuclearoelectrice
+1308 723101 electrician auto
+1309 741108 electrician constructor instalator aparatura de masura si control
+1310 741106 electrician constructor montator aparataj si cabluri de joasa tensiune
+1311 741107 electrician constructor montator aparataj si cabluri de medie si înalta tensiune
+1312 741109 electrician constructor pentru probe si încercari functionale
+1313 741102 electrician de întretinere în constructii
+1314 741307 electrician de întretinere si reparatii
+1315 741312 electrician de mina
+1316 742101 electrician depanator utilaje calcul
+1317 741201 electrician echipamente electrice si energetice
+1318 741301 electrician exploatare centrale si statii electrice
+1319 741302 electrician exploatare retele electrice
+1320 352103 electrician iluminare filmare
+1321 343521 electrician iluminare scena
+1322 741101 electrician în constructii
+1323 741110 electrician în constructii civile si industriale
+1324 741206 electrician montare si reparatii aparataj electric de protectie, relee, automatizare
+1325 741303 electrician montare si reparatii cabluri electrice subterane
+1326 741305 electrician montare si reparatii echipament electric din centrale, statii si posturi de transformare electrice
+1327 741304 electrician montare si reparatii linii electrice aeriene
+1328 741308 electrician montator de instalatii automatizate
+1329 741309 electrician montator de instalatii electrice la mijloace de transport
+1330 741213 electrician nave
+1331 741314 electrician operator
+1332 741310 electrician pentru protectia catodica
+1333 741313 electrician pentru utilizarea energiei electrice
+1334 741306 electrician protectie relee, automatizari si masuratori electrice
+1335 741311 electrician rural
+1336 741208 electrician verificari si masuratori electrice în centrale si retele electrice
+1337 742214 electromecanic
+1338 723102 electromecanic auto
+1339 742213 electromecanic automatizari si telecomunicatii
+1340 742211 electromecanic electroalimentare
+1341 741215 electromecanic masini si echipamente electrice
+1342 742203 electromecanic radio-radioficare
+1343 741203 electromecanic reparator obiecte de uz casnic
+1344 742204 electromecanic retele cabluri
+1345 742205 electromecanic retele linii
+1346 742202 electromecanic SCB (semnalizare, centralizare, blocare
+1347 741216 electromecanic statie pompare apa-canal
+1348 742206 electromecanic telegrafie, telefonie
+1349 812113 electrometalurgist
+1350 742102 electronist depanator utilaje calcul
+1351 742207 electronist telecomunicatii
+1352 812205 emailator
+1353 812211 emailator firme si decoruri
+1354 812210 emailator insigne si decoratii
+1355 812215 emailator prin imersiune
+1356 812212 emailator prin pudrare
+1357 812213 emailator prin pulverizare
+1358 263612 episcop
+1359 225001 epizotolog
+1360 812117 epurator gaze
+1361 325503 ergoterapeut
+1362 331501 estimator licitatii
+1363 352104 etaloner
+1364 241210 evaluator
+1365 321502 evaluator asigurari
+1366 241267 evaluator bunuri culturale
+1367 242405 evaluator de competente profesionale
+1368 242409 evaluator de evaluatori
+1369 242408 evaluator de furnizori si programe de formare
+1370 541411 evaluator de risc de efractie
+1371 242115 evaluator de risc la securitatea fizica
+1372 226307 evaluator de risc si auditor în domeniul securitatii si sanatatii în munca
+1373 242410 evaluator extern
+1374 242411 evaluator în sistemul formarii profesionale continue
+1375 241263 evaluator proiecte
+1376 314107 evaluator si auditor de mediu
+1377 331503 evaluator tehnic daune auto
+1378 242210 examinator de stat de specialitate
+1379 263613 exarh
+1380 811106 excavatorist pentru excavatoare cu rotor de mare capacitate
+1381 261917 executor bancar
+1382 261901 executor judecatoresc
+1383 341107 executor judecatoresc (tribunal, judecatorie
+1384 432331 expeditor international
+1385 335406 expert
+1386 242213 expert accesare fonduri structurale si de coeziune europene
+1387 214946 expert achizitii publice
+1388 212006 expert actuar
+1389 242202 expert administratia publica
+1390 242219 expert aplicare legislatie armonizata în domeniul industriei si comertului
+1391 216105 expert arhitect
+1392 261911 expert armonizare legislativa
+1393 213118 expert bacteriolog
+1394 213122 expert biochimist
+1395 213102 expert biolog
+1396 213106 expert botanist
+1397 231006 expert centre de perfectionare
+1398 211303 expert chimist
+1399 241238 expert conformitate
+1400 241102 expert contabil-verificator
+1401 241257 expert contractare activitati investitionale
+1402 261902 expert criminalist
+1403 213301 expert ecolog
+1404 241259 expert eficientizare investitii
+1405 214947 expert elaborare documentatii tehnice de montaj
+1406 241261 expert elaborare-evaluare documentatii achizitii investitionale
+1407 241260 expert evaluare-actualizare devize generale investitii
+1408 241254 expert evaluator de active financiare
+1409 241253 expert evaluator de bunuri mobile
+1410 241251 expert evaluator de întreprinderi
+1411 241252 expert evaluator de proprietati imobiliare
+1412 213126 expert farmacolog
+1413 241204 expert financiar-bancar
+1414 241221 expert fiscal
+1415 242302 expert forta de munca si somaj
+1416 211406 expert geofizician
+1417 211402 expert geolog
+1418 211410 expert hidrogeolog
+1419 211414 expert hidrolog
+1420 242217 expert informatii pentru afaceri
+1421 213202 expert inginer agronom
+1422 214505 expert inginer chimist
+1423 214210 expert inginer constructii
+1424 213206 expert inginer horticol
+1425 214518 expert inginer industria alimentara
+1426 214120 expert inginer industrializarea lemnului
+1427 214434 expert inginer mecanic
+1428 214607 expert inginer metalurg
+1429 214611 expert inginer minier
+1430 214509 expert inginer petrochimist
+1431 214619 expert inginer petrolist
+1432 214906 expert inginer prelucrarea sticlei si ceramicii
+1433 213220 expert inginer silvic
+1434 214914 expert inginer tehnologia celulozei si hârtiei
+1435 214107 expert inginer textile, pielarie
+1436 213210 expert inginer zootehnist
+1437 242107 expert în conducerea si organizarea activitatilor de mentenanta
+1438 242230 expert în egalitate de ?anse
+1439 241256 expert în ingineria costurilor investitionale
+1440 241262 expert în management activitati investitionale
+1441 214236 expert în monitorizarea comportarii constructiilor
+1442 242304 expert în securitate si sanatate în munca
+1443 235104 expert învatamânt
+1444 261903 expert jurist
+1445 242220 expert legislatia muncii
+1446 441902 expert local pe problemele romilor
+1447 263219 expert localizare
+1448 212002 expert matematician
+1449 221104 expert medic
+1450 213130 expert microbiolog
+1451 214948 expert monitorizare si control lucrari de montaj
+1452 211418 expert pedolog
+1453 263413 expert poligraf
+1454 214949 expert prevenire - reducere riscuri tehnologice
+1455 261920 expert prevenire si combatere a coruptiei
+1456 241258 expert receptie investitii industriale
+1457 243213 expert relatii externe
+1458 441903 expert rela?ii sociale
+1459 212012 expert statistician
+1460 214951 expert tehnic extrajudiciar
+1461 311920 tehnician platou
+1462 214950 expert urmarire comportare în exploatare lucrari montaj
+1463 213110 expert zoolog
+1464 335105 expert/ inspector vamal
+1465 325704 expert/ specialist standardizare
+1466 242221 expert/specialist în parteneriat public-privat
+1467 813113 extractorist în chimie
+1468 813116 extractorist uleiuri volatile naturale si colesterina
+1469 341204 facilitator de dezvoltare comunitara
+1470 441206 factor postal
+1471 432202 facturist
+1472 712201 faiantar
+1473 226201 farmacist
+1474 226203 farmacist de specialitate
+1475 134206 farmacist diriginte
+1476 226202 farmacist rezident
+1477 134205 farmacist sef sectie, laborator
+1478 213133 farmacolog
+1479 711910 fascinar
+1480 752311 fasonator calapoade
+1481 817226 fasonator cherestea
+1482 752324 fasonator creioane si tocuri
+1483 621003 fasonator mecanic (cherestea
+1484 731404 fasonator produse ceramice
+1485 811402 fasonator produse din azbociment
+1486 817219 fasonator-sortator filme
+1487 817230 fasonator-uscator furnire
+1488 612202 fazanier
+1489 911201 femeie de serviciu
+1490 813114 fermentator în chimie
+1491 816045 fermentator otet
+1492 611301 fermier în horticultura
+1493 613002 fermier în productia animala
+1494 613001 fermier în productia vegetala
+1495 711402 fierar betonist
+1496 722112 fierar/ potcovar
+1497 817103 fierbator-spalator celuloza, hârtie
+1498 731733 fierbator-uscator de par
+1499 265907 figurant
+1500 731814 filator
+1501 731208 filator corzi pentru piane
+1502 813110 filator fibre sticla
+1503 441103 filmotecar
+1504 264301 filolog
+1505 263301 filozof
+1506 817214 filtrator-deshidratorist
+1507 722320 finisator electrozi de sudura
+1508 721402 finisor ace si accesorii
+1509 752313 finisor calapoade
+1510 721401 finisor cocleti
+1511 815906 finisor confectii industriale din blana
+1512 752325 finisor creioane si tocuri
+1513 722114 finisor ferite
+1514 815125 finisor fire de matase naturala
+1515 817107 finisor hârtie, carton, mucava
+1516 815608 finisor încaltaminte
+1517 814108 finisor încaltaminte si articole tehnice din cauciuc
+1518 817222 finisor la înnobilare PFL
+1519 812144 finisor laminate si trefilate
+1520 731832 finisor manusi piele
+1521 818131 finisor produse abrazive
+1522 811403 finisor produse din azbociment
+1523 818139 finisor produse din carbune
+1524 711911 finisor terasamente
+1525 731825 finisor textile (vopsitor, imprimeur
+1526 813133 finisor universal ferodouri
+1527 814205 finisor-asamblator obiecte din mase plastice
+1528 713203 finisor-lacuitor lemn
+1529 814105 finisor-reparator de produse industriale din cauciuc
+1530 211101 fizician
+1531 226906 fizician medical
+1532 226401 fiziokinetoterapeut
+1533 226402 fizioterapeut
+1534 611203 florar-decorator
+1535 611204 floricultor
+1536 811208 flotator la prepararea carbunilor
+1537 818207 fochist la cazane de apa calda si cazane de abur de joasa presiune
+1538 818202 fochist la masini cu abur
+1539 818201 fochist locomotiva cu abur
+1540 818208 fochist pentru cazane conduse de calculator
+1541 818204 fochist pentru cazane de abur si de apa fierbinte
+1542 818206 fochist pentru cazane mici de abur
+1543 441104 fonotecar
+1544 722106 forjor manual
+1545 722108 forjor mecanic
+1546 722107 forjor-arcurar
+1547 722101 forjor-matriter
+1548 242401 formator
+1549 242402 formator de formatori
+1550 817212 formator finisor placi
+1551 817221 formator la înnobilare PFL
+1552 815117 formator manusi fibre liberiene
+1553 817217 formator PFL
+1554 817211 formator presator placi brute
+1555 818136 formator produse refractare
+1556 817233 formator slefuitor produse stratificate
+1557 731506 formator tuburi spectrale
+1558 721406 formator tevi prin sudare
+1559 722113 formator-presator ferite
+1560 342101 fotbalist profesionist
+1561 813201 fotoceramist
+1562 813202 fotocopist
+1563 343101 fotograf
+1564 732115 fotogravor
+1565 813203 fotopoligraf
+1566 264208 fotoreporter
+1567 813204 fotoreproducator
+1568 441105 fototecar
+1569 831201 frânar
+1570 722415 frezor la masini roti dintate
+1571 722408 frezor universal
+1572 817231 frezor-îmbinator furnire tehnice
+1573 732105 frezor-montator clisee
+1574 712701 frigoriferist (frigotehnist
+1575 514102 frizer
+1576 411001 functionar administrativ
+1577 422110 functionar agentie voiaj
+1578 441502 functionar documentare
+1579 431102 functionar economic
+1580 441901 functionar ghiseu servicii publice
+1581 432302 functionar informatii
+1582 422502 functionar informatii clienti
+1583 341106 functionar în activitati comerciale, administrative si preturi
+1584 834303 funicularist
+1585 834307 funicularist, funiculare pasagere
+1586 812102 furnalist
+1587 812201 galvanizator
+1588 732107 galvanotipist
+1589 962903 garderobier
+1590 541301 agent de penitenciare
+1591 541906 gardian feroviar
+1592 752215 gardinator
+1593 711303 gaterist la taiat blocuri de piatra, marmura
+1594 817224 gaterist la taiat busteni
+1595 516902 gazda club
+1596 722409 gauritor- filetator
+1597 712501 geamgiu
+1598 241266 gemolog
+1599 211423 geofizician
+1600 263202 geograf
+1601 211422 geolog
+1602 122302 geolog-sef
+1603 216509 geomatician
+1604 211441 geomorfolog
+1605 343523 gestionar custode sala
+1606 432101 gestionar depozit
+1607 731807 ghemuitor
+1608 511320 ghid canioning
+1609 343515 ghid de animatie
+1610 511301 ghid de turism
+1611 511302 ghid de turism intern (local
+1612 511304 ghid de turism montan, drumetie montana
+1613 511310 ghid de turism sportiv (alpinism si catarari pe stânci/ schi/ bob/ înot/
+1614 511305 ghid galerii de arta/ interpret
+1615 511306 ghid habitat natural flora, fauna
+1616 511311 ghid montan
+1617 511303 ghid national de turism (tour-operator
+1618 511312 ghid obiectiv cultural
+1619 511309 ghid turism ecvestru
+1620 511307 ghid turism ornitologic
+1621 511308 ghid turism speologic
+1622 511319 ghid turistic pentru pe?teri amenajate
+1623 532102 gipsar
+1624 731309 giuvaergiu
+1625 731405 glazurator produse din ceramica fina
+1626 962902 gonaci
+1627 515201
+1628 752316 gradator rechizite si articole tehnice din lemn
+1629 731602 gradator vase si aparate de laborator
+1630 265104 grafician
+1631 216612 grafician calculator (studii medii
+1632 216302 grafician industrial
+1633 432340 grafician mers de tren
+1634 264308 grafolog
+1635 812116 granulator zgura
+1636 818132 granulator/ sortator abrazive
+1637 731306 gravor manual
+1638 722416 gravor mecanic
+1639 731117 gravor piese optice
+1640 732114 gravor placi litografice
+1641 732113 gravor placi metalice
+1642 731603 gravor produse de sticla
+1643 611102 gradinar
+1644 341103 grefier
+1645 341114 grefier arhivar
+1646 341109 expert tehnic judiciar
+1647 341111 grefier documentarist
+1648 341115 grefier registrator
+1649 341110 grefier statistician
+1650 121910 grefier sef de sectie (curte de apel, tribunal, parchete
+1651 121909 grefier-sef (judecatorie, parchet
+1652 962202 gropar
+1653 531102 guvernanta
+1654 515102 guvernanta de hotel/ etaj
+1655 111108 guvernator
+1656 263614 haham
+1657 962102 hamal
+1658 263615 harmonist
+1659 263616 hatip
+1660 732212 heliografist
+1661 612907 herghelegiu
+1662 211446 hidrogeolog
+1663 211424 hidrolog
+1664 131101 hidrometeorolog-sef
+1665 265904 hipnotizator
+1666 722410 honuitor, rodator-lepuitor
+1667 226306 igienist
+1668 713104 ignifugator
+1669 352121 ilustrator muzical
+1670 265207 ilustrator muzical
+1671 516912 iluzionist de circ
+1672 263617 imam
+1673 432304 impiegat auto
+1674 432335 impiegat de miscare metrou
+1675 422501 impiegat informatii
+1676 432305 impiegat informatii aviatie
+1677 432306 impiegat registru miscare
+1678 817218 impregnator la înnobilare PFL
+1679 814114 impregnator produse din cauciuc
+1680 752307 impregnator-uscator chibrituri
+1681 333908 impresar artistic
+1682 333903 impresar muzical
+1683 342210 impresar sportiv
+1684 333904 impresar teatru
+1685 732203 imprimator serigraf
+1686 732202 imprimeur textil
+1687 962203 incinerator
+1688 532103 infirmier/infirmiera
+1689 223007 inforenergetician radiestezist
+1690 213225 inginer agronom
+1691 215202 inginer automatist
+1692 214412 inginer autovehicule rutiere
+1693 214406 inginer aviatie
+1694 213152 inginer biotehnolog
+1695 214204 inginer cai ferate, drumuri si poduri
+1696 215115 inginer centrale nuclearoelectrice
+1697 214513 inginer chimist
+1698 226301 inginer clinic
+1699 214101 inginer confectii piele si înlocuitori
+1700 214206 inginer constructor instalatii
+1701 214201 inginer constructii civile, industriale si agricole
+1702 214205 inginer constructii hidrotehnice
+1703 211111 inginer de cercetare de aeronave
+1704 213240 inginer de cercetare în agricultura
+1705 213249 inginer de cercetare în agromontanologie
+1706 215239 inginer de cercetare în automatica
+1707 214473 inginer de cercetare în autovehicule rutiere
+1708 215236 inginer de cercetare în calculatoare
+1709 214302 inginer de cercetare în centrale hidroelectrice în ingineria mediului
+1710 215140 inginer de cercetare în centrale nuclearoelectrice
+1711 215137 inginer de cercetare în centrale termoelectrice
+1712 215227 inginer de cercetare în comunicatii
+1713 214929 inginer de cercetare în confectii din piele si înlocuitori
+1714 211114 inginer de cercetare în constructii aerospatiale
+1715 214216 inginer de cercetare în constructii civile, industriale si agricole
+1716 214219 inginer de cercetare în constructii de cai ferate, drumuri si poduri
+1717 214470 inginer de cercetare în constructii de masini agricole
+1718 214222 inginer de cercetare în constructii hidrotehnice
+1719 214226 inginer de cercetare în constructii miniere
+1720 214534 inginer de cercetare în controlul calitatii produselor alimentare
+1721 214482 inginer de cercetare în creatia tehnica în constructia de masini
+1722 214461 inginer de cercetare în echipamente de proces
+1723 214452 inginer de cercetare în echipamente si instalatii de bord
+1724 215143 inginer de cercetare în electroenergetica
+1725 215125 inginer de cercetare în electrofizica
+1726 215131 inginer de cercetare în electromecanica
+1727 215224 inginer de cercetare în electronica aplicata
+1728 215122 inginer de cercetare în electrotehnica
+1729 215146 inginer de cercetare în energetica industriala
+1730 214932 inginer de cercetare în exploatari forestiere
+1731 214627 inginer de cercetare în exploatari miniere
+1732 214920 inginer de cercetare în filatura-tesatorie
+1733 211439 inginer de cercetare în geodezie
+1734 213246 inginer de cercetare în horticultura
+1735 214232 inginer de cercetare în ingineria materialelor oxidice
+1736 214639 inginer de cercetare în ingineria proceselor siderurgice
+1737 214224 inginer de cercetare în ingineria sanitara si protectia mediului
+1738 214229 inginer de cercetare în instalatii
+1739 214656 inginer de cercetare în instalatii si utilaje pentru transportul si depozitarea produselor petroliere
+1740 214458 inginer de cercetare în masini hidraulice si pneumatice
+1741 214455 inginer de cercetare în masini si echipamente termice
+1742 214485 inginer de cercetare în masini si instalatii mecanice
+1743 214464 inginer de cercetare în mecanica fina
+1744 214642 inginer de cercetare în metalurgia neferoasa
+1745 215128 inginer de cercetare în metrologie
+1746 215230 inginer de cercetare în microelectronica
+1747 213242 inginer de cercetare în pedologie-agrochimie
+1748 214127 inginer de cercetare în pescuit si acvacultura
+1749 214528 inginer de cercetare în petrochimie si carbochimie
+1750 214633 inginer de cercetare în petrol (extractie-prospectiune
+1751 214936 inginer de cercetare în prelucrarea lemnului
+1752 214648 inginer de cercetare în prelucrari plastice si tratamente termice
+1753 214630 inginer de cercetare în prepararea substantelor minerale utile
+1754 214934 inginer de cercetare în proiectarea mobilei si produselor finite din lemn
+1755 213252 inginer de cercetare în silvicultura
+1756 214449 inginer de cercetare în sisteme de propulsie
+1757 214651 inginer de cercetare în stiinta materialelor
+1758 214942 inginer de cercetare în tehnologia celulozei, hârtiei, poligrafiei si fibrelor
+1759 214926 inginer de cercetare în tehnologia chimica a produselor textile, pieii, blanurilor si înlocuitorilor
+1760 214531 inginer de cercetare în tehnologia compusilor macromoleculari
+1761 214467 inginer de cercetare în tehnologia constructiilor de masini
+1762 214124 inginer de cercetare în tehnologia prelucrarii produselor agricole
+1763 214522 inginer de cercetare în tehnologia substantelor anorganice
+1764 214525 inginer de cercetare în tehnologia substantelor organice
+1765 214939 inginer de cercetare în tehnologie si echipamente neconventionale
+1766 214654 inginer de cercetare în tehnologii carbochimice
+1767 215233 inginer de cercetare în telecomenzi si electronica în transporturi
+1768 214636 inginer de cercetare în topografie miniera
+1769 214923 inginer de cercetare în tricotaje-confectii textile
+1770 214645 inginer de cercetare în turnarea metalelor
+1771 214476 inginer de cercetare în utilaje si instalatii portuare
+1772 214479 inginer de cercetare în utilaje si tehnologia ambalarii
+1773 215134 inginer de cercetare roboti industriali
+1774 215212 inginer de receptie si control aeronave
+1775 251203 inginer de sistem în informatica
+1776 251205 inginer de sistem software
+1777 213304 inginer ecolog
+1778 263109 inginer economist
+1779 215105 inginer electroenergetica
+1780 215216 inginer electromecanic
+1781 214403 inginer electromecanic minier
+1782 215201 inginer electromecanic SCB
+1783 215204 inginer electronist transporturi, telecomunicatii
+1784 215303 inginer electrotehnist
+1785 215301 inginer emisie
+1786 215108 inginer energetica industriala
+1787 215117 inginer exploatare instalatii nucleare
+1788 216502 inginer geodez
+1789 211421 inginer geolog
+1790 215114 inginer hidroenergetica
+1791 215314 inginer iluminare
+1792 215304 inginer imagine
+1793 214117 inginer industrializarea lemnului
+1794 214203 inginer instalatii pentru constructii
+1795 213223 inginer îmbunatatiri funciare
+1796 214514 inginer în industria alimentara
+1797 214411 inginer masini hidraulice si pneumatice
+1798 214410 inginer masini termice
+1799 214408 inginer masini-unelte
+1800 214404 inginer material rulant cale ferata
+1801 214903 inginer materiale de constructii
+1802 214401 inginer mecanic
+1803 214419 inginer mecanic masini instalatii miniere
+1804 214413 inginer mecanic utilaj tehnologic chimic
+1805 214415 inginer mecanic utilaj tehnologic masini agricole
+1806 214417 inginer mecanic utilaj tehnologic pentru constructii
+1807 214418 inginer mecanic utilaj tehnologic pentru prelucrare la cald
+1808 214414 inginer mecanic utilaj tehnologic petrolier
+1809 214416 inginer mecanic utilaj tehnologic textil
+1810 214405 inginer mecanica agricola
+1811 214409 inginer mecanica fina
+1812 214601 inginer metalurgie extractiva
+1813 214615 inginer metalurgie neferoasa
+1814 214625 inginer mineralurg
+1815 214602 inginer minier
+1816 215302 inginer montaj
+1817 214407 inginer nave
+1818 215203 inginer navigatie
+1819 214447 inginer pentru protectia navigatiei aeriene (comunicatii, navigatie, supraveghere
+1820 214501 inginer petrochimist
+1821 214616 inginer petrolist
+1822 214439 inginer pilot de încercare
+1823 214901 inginer prelucrarea sticlei si ceramicii
+1824 214614 inginer prelucrari metalurgice
+1825 214605 inginer preparator minier
+1826 215205 inginer productie
+1827 215310 inginer proiectant comunicatii
+1828 215112 inginer retele electrice
+1829 215222 inginer sisteme de securitate
+1830 215305 inginer sunet
+1831 215306 inginer- sef car reportaj
+1832 132210 inginer- sef exploatare nucleara
+1833 142009 inginer sef firme de afaceri si alte servicii comerciale
+1834 132302 inginer- sef în constructii
+1835 134903 inginer- sef întreprinderi de reparatii obiecte de uz casnic, curatatorii
+1836 132211 inginer- sef radioprotectie
+1837 132406 inginer- sef transporturi
+1838 214445 inginer tehnolog în fabricarea armamentului si munitiei
+1839 213215 inginer tehnolog în zootehnie
+1840 214622 inginer tehnolog metalurg
+1841 215109 inginer termoenergetica
+1842 214102 inginer textile, pielarie
+1843 216504 inginer topograf
+1844 216505 inginer topograf minier
+1845 214103 inginer tricotaje, confectii
+1846 213226 inginer zootehnist
+1847 215312 inginer/ inspector de specialitate/ referent de specialitate/ expert în serviciile de trafic aerian
+1848 213224 inginer/ subinginer silvic
+1849 214444 inginer/ subinginer tehnolog prelucrari mecanice
+1850 131102 inginer-sef agricultura si silvicultura
+1851 132201 inginer-sef industria extractiva
+1852 132101 inginer-sef industria prelucratoare
+1853 131202 inginer-sef piscicultura si vânatoare
+1854 215308 inginer-sef schimb emisie
+1855 711406 injectorist în constructii
+1856 731604 inscriptioner pe produse de sticla si ceramica
+1857 215221 inspector aeronautic
+1858 241206 inspector asigurari
+1859 343405 inspector calitate productie culinara
+1860 241264 inspector casier
+1861 241246 inspector coordonator asigurari
+1862 241249 inspector coordonator daune
+1863 311535 inspector cu supravegherea si verificarea tehnica a instalatiilor
+1864 263618 inspector culte
+1865 263110 inspector de concurenta
+1866 242209 inspector de integritate
+1867 335501 inspector de politie
+1868 261922 inspector de probatiune
+1869 214953 inspector/ referent în gestiunea materialelor si mijloacelor fixe
+1870 241247 inspector de risc
+1871 541410 inspector de securitate
+1872 212007 inspector de specialitate actuar
+1873 216106 inspector de specialitate arhitect
+1874 241242 inspector de specialitate asigurari
+1875 213119 inspector de specialitate bacteriolog
+1876 213123 inspector de specialitate biochimist
+1877 213103 inspector de specialitate biolog
+1878 213107 inspector de specialitate botanist
+1879 211304 inspector de specialitate chimist
+1880 241248 inspector de specialitate daune
+1881 213302 inspector de specialitate ecolog
+1882 213127 inspector de specialitate farmacolog
+1883 242404 inspector de specialitate formare, evaluare si selectie profesionala
+1884 242303 inspector de specialitate forta de munca si somaj
+1885 211407 inspector de specialitate geofizician
+1886 211403 inspector de specialitate geolog
+1887 211411 inspector de specialitate hidrogeolog
+1888 211415 inspector de specialitate hidrolog
+1889 213203 inspector de specialitate inginer agronom
+1890 214506 inspector de specialitate inginer chimist
+1891 214211 inspector de specialitate inginer constructii
+1892 213207 inspector de specialitate inginer horticol
+1893 214519 inspector de specialitate inginer industria alimentara
+1894 214121 inspector de specialitate inginer industrializarea lemnului
+1895 214435 inspector de specialitate inginer mecanic
+1896 214608 inspector de specialitate inginer metalurg
+1897 214612 inspector de specialitate inginer minier
+1898 214510 inspector de specialitate inginer petrochimist
+1899 214907 inspector de specialitate inginer prelucrarea sticlei si ceramicii
+1900 213221 inspector de specialitate inginer silvic
+1901 214915 inspector de specialitate inginer tehnologia celulozei si hârtiei
+1902 213211 inspector de specialitate inginer zootehnist
+1903 242203 inspector de specialitate în administratia publica
+1904 213307 inspector de specialitate în gospodarirea apelor
+1905 212003 inspector de specialitate matematician
+1906 221105 inspector de specialitate medic
+1907 213131 inspector de specialitate microbiolog
+1908 211419 inspector de specialitate pedolog
+1909 212013 inspector de specialitate statistician
+1910 241243 inspector de specialitate subscriere
+1911 213111 inspector de specialitate zoolog
+1912 242226 inspector de stare civila
+1913 335404 inspector de stat
+1914 111212 inspector de stat sef
+1915 335107 inspector de trafic rutier (studii medii
+1916 242216 inspector de trafic rutier (studii superioare
+1917 411002 inspector documente secrete
+1918 352205 inspector exploatare postala
+1919 432309 inspector exploatare trafic
+1920 241205 inspector financiar-bancar
+1921 241223 inspector general de banca
+1922 132222 inspector general industria petroliera
+1923 111133 inspector general judecatoresc sef
+1924 112006 inspector general scolar
+1925 131103 inspector general vânatoare
+1926 311536 inspector ISCIR
+1927 111132 inspector în cadrul Inspectiei Judiciare pentru judecatori/ procurori
+1928 325723 inspector în domeniul securitatii si sanatatii în munca
+1929 335901 inspector metrolog
+1930 335401 inspector pensii, asigurari sociale si asistenta sociala
+1931 335403 inspector pentru acordarea de permise, licente sau autorizatii
+1932 325706 inspector pentru conformare ecologica
+1933 315304 inspector pilotaj
+1934 335902 inspector preturi
+1935 325712 inspector protectia mediului
+1936 121303 inspector protectie civila
+1937 325720 inspector protectie sociala
+1938 432308 inspector RNR (Registrul Naval Român
+1939 335903 inspector salarii
+1940 325719 inspector sanitar
+1941 112008 inspector sanitar sef
+1942 315508 inspector siguranta operationala
+1943 263512 inspector social
+1944 214108 inspector specialitate inginer textile, pielarie
+1945 314488 inspector suprastructuri mobile marfuri periculoase
+1946 235105 inspector scolar
+1947 112034 inspector scolar general adjunct
+1948 235915 inspector scolar pentru dezvoltarea resursei umane
+1949 235916 inspector scolar pentru educatie permanenta
+1950 235912 inspector scolar pentru implementarea descentralizarii institutionale
+1951 235917 inspector scolar pentru învatamânt particular si alternative educationale
+1952 235918 inspector scolar pentru învatamântul special
+1953 235913 inspector scolar pentru managementul resurselor umane
+1954 235914 inspector scolar pentru mentorat
+1955 235921 inspector scolar pentru proiecte educationale
+1956 132214 inspector sef conservarea energiei
+1957 111240 inspector sef teritorial
+1958 335201 inspector taxe si impozite
+1959 335405 inspector tehnic
+1960 441207 inspector telegrame
+1961 131120 inspector veterinar sef
+1962 333304 inspector/ referent resurse umane
+1963 111129 inspector-sef al Inspectiei Judiciare de pe lânga Plenul Consiliului Superior al Magistraturii
+1964 122315 inspector-sef inspectia meteorologica nationala
+1965 111213 inspector-sef în administratia publica
+1966 712602 instalator apa, canal
+1967 712611 instalator autorizat proiectare executie si/ sau exploatare obiectiv/sisteme de distributie
+1968 712610 instalator autorizat proiectare executie si/ sau exploatare obiectiv/sisteme de transport si înmagazinare-stocare
+1969 712608 instalator centrale termice
+1970 712603 instalator frigotehnist
+1971 712609 instalator instalatii tehnico-sanitare si de gaze
+1972 712604 instalator încalzire centrala si gaze
+1973 712614 instalator pentru pompe de caldura
+1974 741103 instalator pentru sisteme fotovoltaice solare
+1975 712615 instalator pentru sisteme geotermale
+1976 741104 instalator pentru sisteme termice solare
+1977 712605 instalator retele de distributie/ transport fluide
+1978 712612 instalator retele termice si sanitare
+1979 712606 instalator ventilare si conditionare apa
+1980 341402 institutor
+1981 263508 instructor - educator pentru activitati de resocializare
+1982 342206 instructor (monitor schi/ calarie/ golf/ tenis/ înot/ sporturi extreme
+1983 342205 instructor arte martiale
+1984 516502 instructor auto
+1985 342308 instructor canioning
+1986 342304 instructor de aerobic-fitness
+1987 265308 instructor de dans
+1988 223005 instructor de educatie sanitara
+1989 342302 instructor de fitness
+1990 432310 instructor depou
+1991 342215 instructor educatie acvatica
+1992 342305 instructor educatie fizica
+1993 223003 instructor ergoterapie
+1994 265403 instructor film
+1995 215206 instructor instalatii
+1996 342212 instructor în poligonul de tir
+1997 215207 instructor linii
+1998 226601 instructor logoped
+1999 315314 instructor parasutism
+2000 265404 instructor retea cinematografica
+2001 432311 instructor revizie vagoane
+2002 342306 instructor salvaspeo
+2003 214113 instructor sistem de productie
+2004 342307 instructor speologie
+2005 342202 instructor sportiv
+2006 432312 instructor statie
+2007 341601 instructor scolar auto
+2008 333309 instructor/ preparator formare
+2009 235204 instructor-educator în unitati de handicapati
+2010 265209 instrumentist
+2011 265234 instrumentist (studii medii
+2012 265230 instrumentist muzicant
+2013 515106 intendent
+2014 331103 intermediar în activitatea financiara si comerciala (broker
+2015 265406 intermediarist film de desene animate (studii superioare
+2016 216603 intermediarist film desene animate (studii medii
+2017 264302 interpret
+2018 235202 interpret în limbaj mimico-gestual (studii superioare
+2019 264303 interpret relatii diplomatice
+2020 242223 investigator
+2021 111239 investigator sef
+2022 712301 ipsosar (exclusiv restaurator
+2023 712303 ipsosar restaurator ornamente din ipsos
+2024 263302 istoric
+2025 263303 istoriograf
+2026 712401 izolator fonic
+2027 712402 izolator frigorific
+2028 712403 izolator hidrofug
+2029 712404 izolator lucrari speciale (antiacide si de protectie
+2030 712405 izolator termic
+2031 516303 îmbalsamator
+2032 932901 îmbuteliator fluide sub presiune
+2033 932908 îmbuteliator gaz petrol lichefiat
+2034 813109 împâslitor pânza sticla
+2035 931102 împingator vagoneti
+2036 731724 împletitor de nuiele
+2037 731731 împletitor din panglica împletita
+2038 731905 împletitor fibre plastice
+2039 731725 împletitor obiecte din foi de porumb
+2040 731726 împletitor papura
+2041 731820 împletitor textile
+2042 815305 încadrator confectii
+2043 731720 încadrator tablouri
+2044 962303 încasator si cititor contoare de energie electrica, gaze, apa
+2045 933301 încarcator-descarcator
+2046 817210 încleietor placi aglomerate
+2047 532104 îngrijitoare la unitati de ocrotire sociala si sanitara
+2048 921201 îngrijitor animale
+2049 532201 îngrijitor batrâni la domiciliu
+2050 532202 îngrijitor bolnavi la domiciliu
+2051 962201 îngrijitor câini în adaposturi
+2052 515301 îngrijitor cladiri
+2053 531101 îngrijitor de copii
+2054 516401 îngrijitor farmacii, cabinete veterinare
+2055 532204 îngrijitor la domiciliu
+2056 921501 îngrijitor pomi
+2057 911202 îngrijitor spatii hoteliere
+2058 931202 îngrijitor spatii verzi
+2059 515202 îngrijitor vila
+2060 815105 înnobilator in si cânepa
+2061 752323 înnobilator scândurele pentru creioane
+2062 815124 înnodator fire de matase naturala
+2063 516202 însotitor
+2064 511101 însotitor de bord
+2065 511313 însotitor grup turistic
+2066 511207 însotitor pasageri în transportul rutier
+2067 511318 înso?itor speolog
+2068 432307 însotitor vagoane
+2069 516906 întretinator textile-piele
+2070 341401 învatator
+2071 742208 jonctor
+2072 342103 jucator de rugbi
+2073 261202 judecator
+2074 261204 inspector judiciar
+2075 261102 jurisconsult
+2076 264224 jurnalist TV (studii medii
+2077 264225 jurnalist TV (studii superioare
+2078 264226 jurnalist TV senior
+2079 226405 kinetoterapeut
+2080 311606 laborant apa potabila
+2081 311602 laborant apa si apa grea
+2082 311101 laborant chimist
+2083 311603 laborant control dozimetrie
+2084 311103 laborant determinari fizico-mecanice
+2085 711921 laborant determinari fizico-mecanice pentru lucrari de drumuri si poduri
+2086 311105 laborant determinari geologice si geotehnice
+2087 321302 laborant farmacie
+2088 343102 laborant foto
+2089 311918 laborant în industriile textila, pielarie
+2090 235906 laborant în învatamânt
+2091 322101 laborant în ocrotirea sanatatii
+2092 134207 laborant medical sef
+2093 311113 laborant operator centrale termice
+2094 311942 laborant pentru fabrica de ciment
+2095 711104 laborant pentru constructii de drumuri si constructii civile
+2096 311608 laborant petrochimist
+2097 311604 laborant petrolist/ industria chimica
+2098 311701 laborant structura macroscopica si microscopica
+2099 311106 laborant tehnica nucleara
+2100 812136 laminator
+2101 815113 laminator benzi din fibre
+2102 812129 laminator de bandaje si discuri
+2103 812132 laminator de benzi la rece
+2104 812130 laminator de tevi
+2105 812131 laminator pe laminoare continue
+2106 812127 laminator sârma
+2107 812124 laminator semifabricate, profiluri tabla si platbanda
+2108 812128 laminator tabla subtire
+2109 812125 laminator, presator tevi plumb
+2110 432203 lansator produse
+2111 532105 lacar
+2112 722203 lacatus AMC
+2113 721407 lacatus constructii metalice si navale
+2114 722207 lacatus constructii structuri aeronave
+2115 721408 lacatus de mina
+2116 722206 lacatus la prelucrarea si îndreptarea tevilor ghintuite
+2117 721410 lacatus mecanic
+2118 721424 lacatus mecanic de întretinere si reparatii universale
+2119 722204 lacatus mecanica fina
+2120 821101 lacatus montator pentru utilaje industriale, de constructii si agricole
+2121 721409 lacatus revizie vagoane
+2122 722201 lacatus SDV
+2123 721430 lacatus-depanator utilaje calcul
+2124 721411 lacatus-montator
+2125 723301 lacatus-montator agregate energetice si de transport
+2126 821201 lacatus-montator masini electrice rotative, transformatoare si aparataj electric
+2127 713201 lacuitor lemn
+2128 262205 lector carte
+2129 264209 lector presa/ editura
+2130 265405 lector scenarii
+2131 231003 lector universitar
+2132 731727 legator de par
+2133 933302 legator de sarcina
+2134 732301 legator manual (în poligrafie si ateliere speciale
+2135 611103 legumicultor
+2136 753102 lenjer, confectioner lenjerie dupa comanda
+2137 515103 lenjereasa de hotel
+2138 522301 librar
+2139 134908 librar – sef
+2140 241218 lichidator
+2141 834309 liftier
+2142 742209 linior
+2143 712206 linolist
+2144 731108 lipitor lentile si prisme
+2145 721427 lipitor si protejator spete
+2146 111406 loctiitor al conducatorului de asociatii, filiale si organizatii obstesti
+2147 214135 logistician gestiune flux
+2148 226603 logoped
+2149 941201 lucrator bucatarie (spalator vase mari
+2150 612104 lucrator calificat în cresterea animalelor
+2151 611104 lucrator calificat în culturi de câmp si legumicultura
+2152 611206 lucrator calificat în floricultura si arboricultura
+2153 611302 lucrator calificat în irigatii
+2154 522303 lucrator comercial
+2155 422402 lucrator concierge
+2156 522302 lucrator controlor final
+2157 341205 lucrator de tineret
+2158 432111 lucrator gestionar
+2159 516913 lucrator interpret în limbaj mimico-gestual
+2160 216303 lucrator în ateliere de modele
+2161 815107 lucrator în bataje (batator
+2162 622101 lucrator în culturi acvatice
+2163 515204 lucrator în gospodaria agroturistica
+2164 751404 lucrator în procesarea de fructe de padure si ciuperci de padure
+2165 931201 lucrator la amenajarea terenurilor sportive (amenajator baza sportiva
+2166 751106 lucrator la prelucrarea pestelui
+2167 961101 lucrator operativ pentru autocompactoare
+2168 833203 lucrator operativ pentru autocontainere
+2169 516909 lucrator pensiune turistica
+2170 711924 lucrator pentru drumuri si cai ferate
+2171 961303 lucrator pentru salubrizare
+2172 961301 lucrator pentru salubrizare cai publice
+2173 961302 lucrator pentru salubrizare spatii verzi
+2174 532903 lucrator prin arte combinate
+2175 522304 lucrator produse naturiste
+2176 911203 lucrator room-service hotel
+2177 532908 lucrator social
+2178 341203 lucrator social pentru persoane cu probleme de dependenta
+2179 932907 lucrator sortator deseuri reciclabile
+2180 961304 lucrator utilaje specializate pentru salubrizare
+2181 731713 lumânarar
+2182 951001 lustragiu
+2183 731212 lutier
+2184 834301 macaragiu
+2185 834304 macaragiu macarale plutitoare
+2186 834315 macaragiu portuar
+2187 265105 machetist
+2188 514205 machior
+2189 343512 machior spectacole
+2190 265225 maestru acordor pian clavecin
+2191 265417 maestru artist circ
+2192 265210 maestru cor
+2193 265222 maestru corepetitor
+2194 265306 maestru dans
+2195 265304 maestru de balet
+2196 265233 maestru de ceremonii
+2197 343504 maestru de lumini
+2198 343505 maestru de sunet
+2199 512004 maestru în arta culinara
+2200 265226 maestru lutier
+2201 265445 maestru magician
+2202 265208 maestru studii canto
+2203 265303 maestru studii de balet
+2204 432102 magaziner
+2205 265903 magician
+2206 261203 magistrat - asistent
+2207 111214 magistrat-asistent-sef
+2208 321101 maistru aparate electromedicale
+2209 352105 maistru aparate video si sunet
+2210 315316 maistru aviatie
+2211 731311 maistru bijutier
+2212 311501 maistru cazangerie
+2213 311201 maistru constructii civile, industriale si agricole
+2214 311308 maistru electrician în constructii
+2215 311302 maistru electromecanic
+2216 311401 maistru electronica
+2217 311303 maistru energetician/ electrician
+2218 311534 maistru fabricarea armamentului
+2219 311923 maistru frigotehnist
+2220 311208 maistru instalator în constructii
+2221 311502 maistru instalatii navale
+2222 341901 maistru instructor
+2223 311932 maistru în industria alimentara
+2224 311901 maistru în industria celulozei si hârtiei
+2225 311213 maistru în industria materialelor de constructii
+2226 311922 maistru în industria sticlei si ceramicii
+2227 314303 maistru în industrializarea lemnului
+2228 311911 maistru în industriile textila, pielarie
+2229 311503 maistru întretinere si reparatii masini - unelte, utilitati, service, prototipuri
+2230 311609 maistru la fabricarea munitiei
+2231 311505 maistru lacatus mecanic
+2232 311504 maistru lacatus, constructii metalice
+2233 352208 maistru materiale emisie RTV si telecomunicatii
+2234 311508 maistru mecanic
+2235 311509 maistru mecanic auto
+2236 311523 maistru mecanic masini si utilaje pentru constructii
+2237 311510 maistru mecanica agricola
+2238 311511 maistru mecanica fina
+2239 311702 maistru metalurgie
+2240 311711 maistru mineralurg
+2241 311703 maistru minier
+2242 311512 maistru montaj
+2243 311202 maistru normator
+2244 313901 maistru-operator la roboti industriali
+2245 311605 maistru petrolist/ industria chimica
+2246 311513 maistru prelucrari mecanice
+2247 311704 maistru presator metale
+2248 315514 maistru protectia navigatiei aeriene (comunicatii, navigatie, supraveghere
+2249 311514 maistru sculer – matriter
+2250 314309 maistru silvic
+2251 311515 maistru sudura
+2252 311712 maistru termist - tratamentist
+2253 311705 maistru termotehnist
+2254 311902 maistru tipograf
+2255 352213 maistru transporturi, posta si telecomunicatii
+2256 263619 majghian
+2257 612107 mamos porcine
+2258 112029 manager
+2259 132448 manager achizitii
+2260 143105 manager al organizatiei culturale
+2261 325701 manager al sistemelor de management al calitatii
+2262 325702 manager al sistemelor de management de mediu
+2263 325708 manager al sistemului de management al riscului
+2264 325709 manager al sistemului de management securitate si sanatate în munca
+2265 132450 manager aprovizionare
+2266 241225 manager banca
+2267 263218 manager consor?iu turistic
+2268 214116 manager de cladire
+2269 242117 manager de facilitati
+2270 241212 manager de fond actiuni/ obligatiuni
+2271 242406 manager de formare
+2272 242106 manager de inovare
+2273 112036 manager de întreprindere sociala
+2274 241226 manager de operatiuni/ produs
+2275 243104 manager de produs
+2276 242112 manager de proiect în parteneriat public privat
+2277 242903 manager de responsabilitate sociala
+2278 121306 manager de securitate
+2279 142008 manager de zona
+2280 325728 manager dezvoltare durabila pentru mobila sau componente
+2281 121307 manager energetic
+2282 132449 manager farmacii
+2283 121125 manager financiar
+2284 112028 manager general
+2285 121308 manager informatii pentru afaceri
+2286 242108 manager îmbunatatire procese
+2287 143908 manager în activitatea de turism
+2288 325715 manager în domeniul sigurantei alimentare
+2289 122107 manager marketing (tarife, contracte, achizitii
+2290 121309 manager pentru ordine si siguranta publica
+2291 242101 manager proiect
+2292 251206 manager proiect informatic
+2293 132451 manager relatia cu furnizorii
+2294 241227 manager relatii cu clientii bancii/ societate de leasing
+2295 121126 manager relatii financiare externe
+2296 121207 manager resurse umane
+2297 132208 manager securitate instalatii industria extractiva
+2298 132109 manager securitate instalatii industria prelucratoare
+2299 121118 manager securitatea informatiei (Chief Information Security Officer -CISO
+2300 134919 manager servicii private de securitate
+2301 333905 manager sportiv
+2302 133007 manager tehnologia informatiilor si comunicatii
+2303 524101 manechin
+2304 831202 manevrant vagoane
+2305 621014 mangalizator
+2306 514202 manichiurist
+2307 732117 manipulant cutter-plotter
+2308 933303 manipulant marfuri
+2309 441106 mânuitor carte
+2310 421103 mânuitor valori (presa, posta
+2311 343501 mânuitor, montator decor
+2312 752212 marangoz cala - tachelagiu
+2313 752204 marangoz-calafatuitor
+2314 932902 marcator piese
+2315 835003 marinar legator
+2316 835001 marinar, pilot naval, barjist
+2317 753605 marochiner - confectioner marochinarie, dupa comanda
+2318 325501 maseur
+2319 514204 maseur de întretinere si relaxare
+2320 315502 masinist agregate aerodrom
+2321 812122 masinist exhaustor
+2322 732303 masinist în legatorie mecanica
+2323 834402 masinist la alte masini fixe de transport pe orizontala si verticala
+2324 313108 masinist la centrale diesel
+2325 313204 masinist la conditionarea aerului
+2326 721419 masinist la confectionarea ambalajelor metalice
+2327 814124 masinist la confectionarea foliilor de cauciuc electroizolante
+2328 814122 masinist la confectionarea materialelor electroizolante impregnate
+2329 814123 masinist la confectionarea materialelor electroizolante stratificate (mica
+2330 721425 masinist la confectionarea spetelor si spiralelor
+2331 721420 masinist la confectionarea tuburilor de aluminiu
+2332 722322 masinist la confectionarea tuburilor de protectie si a dozelor de ramificatie
+2333 817106 masinist la deshidratare pasta hârtie
+2334 721422 masinist la fabricarea acelor si accesoriilor
+2335 818203 masinist la instalatii pentru încalzit tren
+2336 834202 masinist la instalatiile de preparat si turnat beton si mixturi asfaltice
+2337 313107 masinist la instalatiile de turbine hidraulice
+2338 313102 masinist la instalatiile din centrale electrice
+2339 313106 masinist la instalatiile hidrotehnice din centrale electrice
+2340 722314 masinist la lame de masini pentru automate aschietoare
+2341 722304 masinist la linii automate aschietoare
+2342 721418 masinist la litografiat si vernisat tabla
+2343 817204 masinist la masina de taiat sraifuri si dopuri din pluta
+2344 817205 masinist la masina de zdrobit si macinat pluta
+2345 834203 masinist la masini cale mecanizare usoara si grea
+2346 818301 masinist la masini de ambalat
+2347 834401 masinist la masini mobile pentru transporturi interioare
+2348 834201 masinist la masini pentru terasamente (ifronist
+2349 722321 masinist la masini speciale de aschiere
+2350 722317 masinist la masini speciale fara aschiere
+2351 752309 masinist la umplerea si închiderea cutiilor de chibrituri
+2352 721429 masinist mecanic la confectionare garnituri carde
+2353 352106 masinist mecanic traweling
+2354 811408 masinist pentru prefabricate din beton si beton armat
+2355 811104 masinist pentru utilaje specifice la extractie si executia tunelurilor
+2356 834302 masinist pod rulant
+2357 812118 masinist suflante
+2358 212009 matematician
+2359 812207 matisor cabluri
+2360 751103 macelar
+2361 312101 masurator de gaze, temperatura si radiatii
+2362 816014 matar
+2363 723303 mecanic agricol
+2364 831102 mecanic ajutor locomotiva si automotor
+2365 831106 mecanic ajutor locomotiva si rama electrica metrou
+2366 723103 mecanic auto
+2367 723201 mecanic aviatie
+2368 352107 mecanic camera filmare
+2369 831104 mecanic conducator vagon motor de rectificare a liniei aeriene
+2370 834104 mecanic de exploatare în cultura mare
+2371 834105 mecanic de exploatare în zootehnie
+2372 723307 mecanic întretinere si reparatii masini de cusut industriale
+2373 723311 mecanic întretinere si reparatii utilaje din industria textila, confectii si încaltaminte
+2374 831101 mecanic locomotiva si automotor
+2375 831105 mecanic locomotiva si rama electrica metrou
+2376 723309 mecanic masini agricole
+2377 315305 mecanic navigant aviatie
+2378 315315 mecanic navigant instructor
+2379 721435 mecanic operator
+2380 311507 mecanic pentru întretinerea aparatelor de lansare la zbor
+2381 723310 mecanic trolist
+2382 723302 mecanic utilaj
+2383 721501 mecanic-montator instalatii cu cablu în silvicultura si exploatari forestiere
+2384 834308 mecanizator (muncitor portuar
+2385 265423 mediaplanner
+2386 243202 mediator
+2387 532901 mediator sanitar
+2388 532902 mediator social
+2389 341905 mediator scolar
+2390 112009 medic (farmacist director
+2391 112010 medic (farmacist director adjunct
+2392 226908 medic de familie cu competente în sanatatea mintala
+2393 226902 medic expertiza a capacitatii de munca
+2394 226901 medic igienist
+2395 226903 medic legist
+2396 221108 medic medicina de familie
+2397 221101 medic medicina generala
+2398 221107 medic primar
+2399 221102 medic rezident
+2400 221201 medic specialist
+2401 226907 medic specialist psihiatru
+2402 226101 medic stomatolog
+2403 226103 medic stomatolog de specialitate
+2404 226102 medic stomatolog rezident
+2405 134208 medic- sef (policlinica, statie de salvare, centru de recoltare sânge
+2406 134209 medic sef sectie, laborator
+2407 225002 medic veterinar
+2408 225003 medic veterinar - oncologie comparata
+2409 131104 medic veterinar sef
+2410 263620 melamed
+2411 812105 melanjorist
+2412 815104 melitator in si cânepa
+2413 111130 membru al Consiliului Superior al Magistraturii
+2414 911101 menajera
+2415 235902 mentor
+2416 332402 mercantizor
+2417 331308 merceolog
+2418 711917 meserias întretinere cale
+2419 711919 meseriat întretinere poduri metalice, viaducte si tuneluri
+2420 753501 mestesugar argasitor
+2421 753502 mestesugar cenuseritor
+2422 753503 mestesugar finisor mineral
+2423 753504 mestesugar finisor vegetal
+2424 753505 mestesugar sortator în industria pielariei
+2425 812203 metalizator prin cufundare în metal topit
+2426 812202 metalizator prin pulverizare
+2427 812208 metalizator-termist
+2428 812108 metalurgist pulberi din oxid de fier
+2429 211201 meteorolog (studii superioare
+2430 211204 meteorolog aeronautic
+2431 211207 meteorolog aeronautic prognozist
+2432 311118 meteorolog aeronautic tehnician
+2433 211202 meteorolog previzionist
+2434 122306 meteorolog-sef
+2435 214114 metodist
+2436 311114 metrolog
+2437 731119 metrolog si depanator mecanica fina, tehnica digitala si analogica (MFTDA
+2438 731120 metrolog verificator
+2439 213135 microbiolog
+2440 817235 miezuitor panele si placi celulare
+2441 811101 miner în subteran
+2442 811103 miner în subteran pentru constructii
+2443 811102 miner la suprafata
+2444 111134 ministru
+2445 111135 ministru consilier
+2446 111136 ministru de stat
+2447 111137 ministru plenipotentiar
+2448 263621 mitropolit
+2449 222201 moasa
+2450 134210 moasa-sefa
+2451 524102 model - atelier artistic si publicitate
+2452 962901 model (învatamânt
+2453 731406 modelator ceramica
+2454 731502 modelator tuburi spectrale
+2455 721103 modelator-miezuitor
+2456 216306 modelier confectii
+2457 721101 modelier lemn
+2458 721102 modelier metal
+2459 721104 modelier naval
+2460 721116 modelor prototipuri auto
+2461 753106 modista
+2462 342214 monitor de schi, snow-board si sporturi de alunecare pe zapada
+2463 325705 monitor mediul înconjurator
+2464 752312 montator accesorii pentru calapoade
+2465 821207 montator acumulatori
+2466 821104 montator aparate aer conditionat
+2467 731109 montator aparatura optica
+2468 514207 montator bijuterii pe corp
+2469 731209 montator corp sonor la piane
+2470 821222 montator electromecanic
+2471 711403 montator elemente prefabricate din beton armat
+2472 721434 montator fatade si pereti cortina
+2473 813205 montator filme
+2474 712414 montator geogrile
+2475 741105 montator instalatii solare
+2476 815118 montator la lipit ace
+2477 712412 montator materiale geosintetice
+2478 712415 montator materiale geotextile si geocompozite
+2479 712406 montator pereti si plafoane din ghips-carton
+2480 712202 montator placaje interioare si exterioare
+2481 712207 montator placaje uscate
+2482 712416 montator sisteme opace de termoizolare pentru cladiri
+2483 821103 montator subansamble
+2484 712410 montator sisteme tâmplarie termoizolanta
+2485 741212 montator, reglor si depanator de ascensoare
+2486 741211 montator, reglor si depanator pentru aparate de masura electrice si relee
+2487 742210 montator, reglor, testor aparatura de telecomunicatii si instalatii de semnalizare, centralizare si blocare
+2488 821217 montator, reglor, testor tehnica de calcul
+2489 741210 montator/ reglor/ depanator de aparataj electric
+2490 821223 montator, reglor si depanator de aparate si echipamente electronice
+2491 731211 montator-ajustor de acordeoane
+2492 721426 montator-ajustor spete
+2493 731210 montator-reglor piane
+2494 821209 montator-reglor, depanator aparate electronice, telecomunicatii, radio
+2495 821212 montator-reglor, depanator de aparate radio si TV, redresoare si amplificatoare
+2496 821211 montator-reglor, depanator de instalatii de electronica si curenti purtatori
+2497 821909 montor articole din piele
+2498 352123 montor emisie
+2499 352108 montor imagine
+2500 352109 montor negative si de pregatire a peliculei
+2501 352110 montor pozitive
+2502 816020 morar
+2503 811210 morar la masini de maruntit roci
+2504 821203 morar la prepararea materialelor pentru acumulatori
+2505 811404 morar lianti
+2506 835009 motopompist
+2507 723304 motorist
+2508 834103 motorist la motoagregate si masini în silvicultura
+2509 712203 mozaicar (exclusiv restaurator
+2510 712205 mozaicar restaurator
+2511 263622 muezin
+2512 263623 muftiu
+2513 753202 multiplicator sabloane croitorie
+2514 711101 muncitor constructor bârne, chirpici, piatra
+2515 711913 muncitor constructor senal navigabil, lucrari hidrotehnice si portuare
+2516 711912 muncitor hidrogeolog
+2517 711901 muncitor hidrometru
+2518 932909 muncitor în activitatea de gospodarire a spanului
+2519 933306 muncitor în serviciile de trafic aerian
+2520 711925 muncitor în taieri structuri cu scule diamantate
+2521 921301 muncitor manipulare si pregatire furaje
+2522 921302 muncitor necalificat în agricultura
+2523 932905 muncitor necalificat în industria confectiilor
+2524 932911 muncitor necalificat în metalurgie
+2525 931101 muncitor necalificat în mine si cariere
+2526 921601 muncitor necalificat în pescuit si vânatoare
+2527 921502 muncitor necalificat în silvicultura
+2528 932904 muncitor necalificat la ambalarea produselor solide si semisolide
+2529 932903 muncitor necalificat la ambalarea produselor sub forma de praf si granule
+2530 932906 muncitor necalificat la asamblarea, montarea pieselor
+2531 931301 muncitor necalificat la demolarea cladirilor, captuseli zidarie, placi mozaic, faianta, gresie, parchet
+2532 931203 muncitor necalificat la întretinerea de drumuri, sosele, poduri, baraje
+2533 931302 muncitor necalificat la spargerea si taierea materialelor de constructii
+2534 921602 muncitor piscicol
+2535 621004 muncitor plantatii si amenajare zona verde
+2536 742212 muncitor radioelectronist
+2537 933305 muncitor spalare si curatare cisterne
+2538 262103 muzeograf
+2539 815426 naphtolator la imprimerie
+2540 315406 navigator aviatia civila
+2541 315407 navigator dirijare nonradar
+2542 315405 navigator dirijare radar
+2543 315408 navigator dirijare zbor
+2544 315416 navigator informare
+2545 315409 navigator instructor dirijare radar si nonradar
+2546 315420 navigator instructor informare
+2547 315410 navigator sol
+2548 532106 namolar
+2549 813146 nitrator
+2550 721423 nituitor
+2551 261906 notar
+2552 111215 notar-sef
+2553 111216 notar-sef adjunct
+2554 421104 numarator bani
+2555 226503 nutritionist si dietetician
+2556 835002 observator far maritim si statie semnal de ceata
+2557 342211 oficial sportiv acreditat
+2558 325601 oficiant medical
+2559 134211 oficiant medical sef
+2560 441208 oficiant posta telegrame
+2561 441209 oficiant presa
+2562 422301 oficiant telefoane
+2563 422302 oficiant telegraf
+2564 315101 ofiter ajutor fluvial/ portuar
+2565 341116 ofiter antifrauda financiar-bancara (studii medii
+2566 241230 ofiter bancar (credite, marketing, produse si servicii bancare
+2567 241237 ofiter conformitate
+2568 263503 ofiter control doping
+2569 342218 ofiter de control doping (studii medii
+2570 315205 ofiter de punte fluvial/ portuar
+2571 315211 ofiter de punte maritim
+2572 315212 ofiter de punte maritim aspirant/ ofiter mecanic maritim aspirant/ ofiter electrician maritim aspirant
+2573 315103 ofiter electrician fluvial/ portuar
+2574 315105 ofiter electrician maritim
+2575 315203 ofiter intendent
+2576 242227 ofiter de legatura pentru securitatea infrastructurii critice nationale/europene
+2577 315106 ofiter mecanic maritim
+2578 331202 ofiter operatiuni financiar-bancare
+2579 315204 ofiter port
+2580 315102 ofiter RTG
+2581 241239 ofiter securitatea informatiei (Security Officer – SO
+2582 731606 oglindar
+2583 612111 oier montan
+2584 731407 olar ceramica (artizanat
+2585 818130 operator abrazive pe suporti
+2586 815405 operator albitor textile
+2587 815412 operator apretor textile
+2588 815506 operator argasitor
+2589 754106 operator barocamera
+2590 815211 operator batirator fire
+2591 815210 operator bobinator-dublator
+2592 815413 operator calandor-govrator textile
+2593 351101 operator calculator electronic si retele
+2594 821105 operator calitate flux
+2595 811411 operator camera comanda pentru fabrica de ciment
+2596 352111 operator camera diafilm, diapozitive
+2597 815206 operator canelator
+2598 313110 operator centrala termica
+2599 816017 operator centru de racire lapte
+2600 815501 operator cenuseritor
+2601 813126 operator chimist la chimizarea gazelor de rafinarie
+2602 813129 operator chimist la chimizarea gazului de cocs
+2603 313401 operator chimist la chimizarea metanului
+2604 813128 operator chimist la fabricarea altor produse organice
+2605 813121 operator chimist la fabricarea colorantilor
+2606 813120 operator chimist la fabricarea lacurilor, vopselelor si uleiurilor
+2607 813123 operator chimist la producerea compusilor anorganici ai azotului si îngrasamintelor azotoase
+2608 813117 operator chimist la producerea compusilor organici ai sulfului si îngrasamintelor fosfatice
+2609 813119 operator chimist la producerea diverselor produse anorganice
+2610 813138 operator chimist la produsele farmaceutice si chimice pure
+2611 241232 operator cifru (mesaje cifrate
+2612 313203 operator circuite retea apa
+2613 432313 operator circulatie miscare
+2614 432314 operator comercial
+2615 815302 operator confectii îmbracaminte din piele si înlocuitori
+2616 815301 operator confectioner industrial îmbracaminte din tesaturi, tricotaje, materiale sintetice
+2617 311934 operator control nedistructiv
+2618 311939 operator control nedistructiv cu curenti turbionari
+2619 311937 operator control nedistructiv cu lichide penetrante
+2620 311938 operator control nedistructiv cu particule magnetice
+2621 311935 operator control nedistructiv cu radiatii penetrante
+2622 311936 operator control nedistructiv cu ultrasunete
+2623 311943 operator control nedistructiv pentru examinare vizuala
+2624 311940 operator control nedistructiv pentru verificarea etanseitatii
+2625 813127 operator cracare, deformare si fabricare bitum
+2626 313112 operator curatare chimica la schimbatoarele de caldura cu placi
+2627 815421 operator curatitor chimic
+2628 432315 operator dana
+2629 315507 operator de handling
+2630 315517 operator de handling combustibil
+2631 333910 operator de interviu
+2632 815415 operator decator
+2633 815403 operator degamator textile
+2634 962402 operator deratizare, dezinsectie, dezinfectie
+2635 815402 operator descleietor textile
+2636 431103 operator devize
+2637 352129 operator dispecer sisteme de monitorizare si aparatura de control
+2638 315512 operator dispecerat operational de supraveghere în serviciile de trafic aerian
+2639 313908 operator echipamente de termografie
+2640 711407 operator elemente din beton precomprimat cu armatura pretensionata
+2641 352112 operator emisie-receptie
+2642 811305 operator extractie gaze
+2643 811307 operator extractie sare în salina
+2644 811301 operator extractie titei
+2645 811306 operator extractie titei în subteran
+2646 814130 operator fabricarea si prelucrarea polimerilor
+2647 821106 operator fabricatie flux
+2648 815406 operator fierbator textile
+2649 815504 operator finisor mineral
+2650 815505 operator finisor vegetal
+2651 815417 operator fixator textile
+2652 811314 operator flotare produse fluide
+2653 811412 operator flux pentru fabrica de ciment
+2654 815401 operator gazator textile
+2655 818904 operator generatoare terestre sonice si cu agent activ de însamântare
+2656 421115 operator gestionar loto
+2657 421110 operator ghiseu banca
+2658 421111 operator ghiseu birouri de schimb
+2659 313202 operator hidraulic în alimentarile cu apa
+2660 352124 operator imagine
+2661 815414 operator impregnator textile
+2662 815410 operator imprimeur textile
+2663 742104 operator în verificarea, întretinerea si repararea instalatiilor speciale de prevenire si stingere a incendiilor
+2664 711405 operator injectorist
+2665 818903 operator instalatie de sortare si reciclare deseuri menajere si asimilabile
+2666 712613 operator instalatii apa si canalizare
+2667 315503 operator instalatii control antiterorist/ antideturnare
+2668 313404 operator instalatii îmbuteliere gaz petrol lichefiat
+2669 413201 operator introducere, validare si prelucrare date
+2670 351104 operator în domeniul proiectarii asistate pe calculator
+2671 314205 operator în ferme ecologice mixte
+2672 723308 operator în verificarea, întretinerea si repararea autospecialelor destinate apararii împotriva incendiilor
+2673 723306 operator în verificarea, reîncarcarea si repararea stingatoarelor de incendiu
+2674 815208 operator încheietor fire
+2675 815425 operator îngreunator matase naturala
+2676 314204 operator însamântari artificiale la animale
+2677 514209 operator între?inere corporala
+2678 313105 operator la camera de comanda termica
+2679 834106 operator la colectatul si manipulatul lemnului
+2680 816037 operator la conditionarea si prelucrarea plantelor medicinale
+2681 814207 operator la confectionarea discurilor fonografice
+2682 815903 operator la confectionarea industriala a articolelor de sport si protectie, din piele si înlocuitori
+2683 815602 operator la confectionarea industriala a articolelor din cauciuc si textile cauciucate
+2684 815303 operator la confectionarea industriala a îmbracamintei din blana
+2685 815304 operator la confectionarea industriala a manusilor din piele
+2686 815901 operator la confectionarea industriala a palariilor
+2687 812206 operator la confectionarea materialelor electroizolante
+2688 812135 operator la cuptoare si instalatii pentru turnarea si laminarea metalelor
+2689 815202 operator la deservirea razboaielor de tesut
+2690 813155 operator la fabricarea altor produse chimice
+2691 816050 operator la fabricarea amidonului si dextrinei
+2692 816041 operator la fabricarea berii
+2693 816029 operator la fabricarea biscuitilor
+2694 816032 operator la fabricarea conservelor din legume sau fructe
+2695 813137 operator la fabricarea detergentilor
+2696 821904 operator la fabricarea fermoarelor
+2697 813208 operator la fabricarea filmelor fotografice
+2698 813134 operator la fabricarea glicerinei si acizilor grasi
+2699 816046 operator la fabricarea glucozei
+2700 816042 operator la fabricarea maltului
+2701 816007 operator la fabricarea mezelurilor
+2702 816021 operator la fabricarea nutreturilor combinate
+2703 813131 operator la fabricarea pieii sintetice
+2704 818128 operator la fabricarea produselor abrazive
+2705 751205 operator la fabricarea produselor congelate de patiserie si panificatie
+2706 818129 operator la fabricarea produselor din carbune
+2707 816027 operator la fabricarea produselor fainoase
+2708 818127 operator la fabricarea produselor refractare
+2709 813135 operator la fabricarea sapunurilor
+2710 816043 operator la fabricarea spirtului si drojdiei de panificatie
+2711 813108 operator la fabricarea sticlei
+2712 816031 operator la fabricarea uleiurilor vegetale
+2713 816018 operator la fabricarea untului
+2714 811409 operator la fabricarea vatei si produselor din vata minerala
+2715 816033 operator la fabricarea zaharului
+2716 816038 operator la fermentarea tutunului si fabricarea produselor din tutun
+2717 811407 operator la impregnarea produselor hidroizolatoare
+2718 818113 operator la instalatii automate pentru prelucrarea topiturii de sticla
+2719 818112 operator la instalatii automate pentru prepararea amestecului
+2720 813104 operator la instalatii de ardere
+2721 313201 operator la instalatii de incinerare
+2722 818117 operator la instalatii de tras si laminat geam
+2723 812142 operator la instalatii de tratament termic cu procesare
+2724 313103 operator la instalatiile de cazane din centrale electrice
+2725 313104 operator la instalatiile de turbine cu abur sau gaze
+2726 313101 operator la instalatiile din centrale electrice
+2727 818302 operator la masina de etichetat
+2728 732216 operator la masina de gravat si decupat cu laser
+2729 814302 operator la masina de laminat
+2730 732217 operator la masina de tampografiat
+2731 732209 operator la masina electronica de gravat
+2732 813103 operator la masini de amestecare (produse chimice
+2733 721105 operator la masini de brichetat span
+2734 722324 operator la masini de electroeroziune automate
+2735 813102 operator la masini de fragmentare (produse chimice
+2736 818115 operator la masini de inscriptionat
+2737 813101 operator la masini de macinare fina (produse chimice
+2738 815204 operator la masini de tricotat circular
+2739 815201 operator la masini de tricotat rectiliniu
+2740 815207 operator la masini de urzit
+2741 752328 operator la masini unelte cu comanda numerica în prelucrarea lemnului
+2742 732210 operator la masinile de fotoculegere (monofoto
+2743 722323 operator la masini-unelte cu comanda numerica
+2744 722312 operator la masini-unelte semiautomate si automate
+2745 721431 operator la montarea si conservarea produselor dupa probe
+2746 813122 operator la obinerea produselor din spume poliuretanice si latex
+2747 834316 operator la platforme pentru lucru la înaltime
+2748 812143 operator la pregatirea sarjelor pentru tratament termic
+2749 813151 operator la pregatirea, conservarea si ambalarea armamentului si munitiei
+2750 814106 operator la prelucrarea cauciucului
+2751 814203 operator la prelucrarea maselor plastice
+2752 818114 operator la prelucrarea tuburilor din sticla
+2753 816040 operator la prepararea bauturilor alcoolice si racoritoare
+2754 816015 operator la prepararea brânzeturilor
+2755 816001 operator la prepararea conservelor din carne, peste si în amestec legume si peste
+2756 811203 operator la prepararea minereurilor
+2757 816016 operator la prepararea produselor lactate
+2758 816026 operator la prepararea produselor zaharoase
+2759 815601 operator la prepararea talpii de încaltaminte din fibre
+2760 813154 operator la producerea sodei si produselor clorosodice
+2761 813136 operator la produse odorante sintetice
+2762 817236 operator la recoltarea si toaletarea arborilor forestieri
+2763 818901 operator la roboti industriali
+2764 811204 operator la sfarâmarea minereurilor
+2765 813150 operator la tragere si munitie
+2766 313205 operator la tratarea apei tehnologice
+2767 818902 operator la tratarea si epurarea apelor uzate
+2768 834204 operator la utilaje de forjat dirijat
+2769 834205 operator la utilaje de reabilitari conducte subterane
+2770 834206 operator la utilaje pentru subtraversari
+2771 816002 operator la valorificarea subproduselor de abator
+2772 813124 operator lacuri electroizolante
+2773 811309 operator lucrari speciale sonde
+2774 814209 operator mase plastice
+2775 413205 operator masina contabilizat
+2776 413206 operator masina de calculat
+2777 814210 operator masini de termoformatare
+2778 818303 operator ma?ini însacuire pentru fabrica de ciment
+2779 732214 operator masini multiplicat
+2780 818304 operator ma?ini paletizate ?i înfoliere pentru fabrica de ciment
+2781 815116 operator masini puitoare
+2782 313206 operator masini refrigeratoare (conservare prin frig
+2783 811308 operator masuratori speciale sonde
+2784 815407 operator mercerizator textile
+2785 311117 operator meteorolog
+2786 815422 operator metrar-volator-dublator textile
+2787 811213 operator mineralurg
+2788 432336 operator miscare metrou
+2789 818908 operator montaj linii automate
+2790 815209 operator navaditor, lipitor, înnodator fire
+2791 812106 operator oxizi de plumb
+2792 516910 operator pârtie de schi
+2793 815418 operator piuar
+2794 813112 operator poliesteri armati cu fibra de sticla
+2795 432339 operator portuar dispecer/ planificator
+2796 432338 operator portuar expeditor
+2797 432337 operator portuar stivator
+2798 723105 operator pregatire încercari vehicule
+2799 815408 operator pregatitor chimicale în industria textila
+2800 751108 operator prelucrare initiala a pasarilor
+2801 343104 operator prelucrare pelicula
+2802 751109 operator prelucrarea carcaselor de pasare
+2803 815416 operator presator tesaturi textile (storcator textile
+2804 732206 operator presa de transfer termic
+2805 532906 operator prestatii sociale
+2806 413203 operator procesare text si imagine
+2807 352113 operator productie RTV
+2808 432316 operator programare
+2809 351106 operator prompter
+2810 818905 operator punct de lansare
+2811 313109 operator punct termic
+2812 315411 operator radar
+2813 315504 operator radionavigant aviatie
+2814 315505 operator radionavigant instructor aviatie
+2815 352125 operator radio-radioficare
+2816 315412 operator radiotelecomunicatii aeronautice
+2817 815212 operator rasucitor fire
+2818 432332 operator receptie
+2819 422307 operator registrator de urgenta
+2820 311941 operator responsabil cu supravegherea tehnica a instalatiilor
+2821 352211 operator retele de telecomunicatii
+2822 335202 operator rol
+2823 815419 operator scamosetor
+2824 815205 operator sculuitor
+2825 812123 operator separare magnetica
+2826 432103 operator siloz (silozar
+2827 751110 operator sortare carcase de pasare
+2828 815507 operator sortator în industria pielariei
+2829 815404 operator spalator textile
+2830 311119 operator specialist curatare chimica la schimbatoarele de caldura cu placi
+2831 723104 operator standuri încercari
+2832 814208 operator sudare tevi si fitinguri din polietilena de înalta densitate PEHD
+2833 352126 operator sunet
+2834 351107 operator suport tehnic pentru servicii de comunicatii electronice
+2835 313113 operator surse regenerabile de energie
+2836 815502 operator tabacitor mineral argasitor
+2837 815503 operator tabacitor vegetal
+2838 721205 operator taiere
+2839 815423 operator taietor textile
+2840 413202 operator tehnica poligraf
+2841 713105 operator termoprotectie
+2842 815907 operator textile netesute
+2843 732211 operator tiparituri Braille
+2844 811304 operator transport pe conducte singulare gaze
+2845 933304 operator transport si distribuire butelii de GPL
+2846 751111 operator transare carcase de pasare
+2847 352118 operator truka
+2848 815420 operator tunsator textile
+2849 932912 operator umplere recipiente GPL
+2850 815430 operator universal - spalator textile si curatitor chimic
+2851 815424 operator uscator textile
+2852 333912 operator vânzari prin telefon
+2853 815409 operator vopsitor textile
+2854 732213 operator xerox
+2855 315417 operator/ specialist/ instructor telecomunicatii aeronautice aviatie civila
+2856 811303 operator-prospector lucrari geologice si geofizice
+2857 753606 opincar
+2858 731110 optician
+2859 731111 optician armament
+2860 325401 optician medical
+2861 325402 optometrist (studii medii
+2862 226701 optometrist (studii superioare
+2863 263624 organist
+2864 511314 organizator activitate turism (studii medii
+2865 243102 organizator activitate turism (studii superioare
+2866 343509 organizator de productie
+2867 342217 organizator evenimente sportive
+2868 516903 organizator prestari servicii
+2869 265433 organizator productie (studii superioare
+2870 243208 organizator protocol
+2871 243209 organizator relatii
+2872 333909 organizator spectacole
+2873 243210 organizator târguri si expozitii
+2874 242403 organizator/ conceptor/ consultant formare
+2875 513102 ospatar (chelner
+2876 812103 otelar
+2877 311903 paginator tipograf
+2878 325903 paramedic
+2879 315311 parasutist încercator
+2880 315310 parasutist receptie si control
+2881 712204 parchetar
+2882 815213 pâslitor
+2883 752310 pastator cutii chibrituri
+2884 751301 pasteurizator produse lactate
+2885 263625 pastor
+2886 751203 patiser
+2887 263626 patriarh
+2888 711902 pavator
+2889 962907 paznic
+2890 831206 paznic bariera
+2891 622401 paznic de vânatoare
+2892 314311 padurar
+2893 531202 parinte social
+2894 235205 pedagog de recuperare
+2895 341202 pedagog social
+2896 341902 pedagog scolar
+2897 514203 pedichiurist
+2898 211425 pedolog
+2899 216202 peisagist
+2900 611205 peisagist - floricultor
+2901 621005 pepinierist
+2902 335203 perceptor
+2903 261206 personal de specialitate juridica asimilat judecatorilor si procurorilor
+2904 343513 peruchier
+2905 622201 pescar în ape interioare si de coasta
+2906 622301 pescar în mari si oceane
+2907 432317 picher
+2908 132407 picher sef district
+2909 265106 pictor
+2910 216305 pictor creator costume
+2911 731601 pictor decor
+2912 731605 pictor pe sticla si ceramica
+2913 265107 pictor scenograf
+2914 815114 pieptanator
+2915 731732 pieptanator de par la masina
+2916 352209 pilonist antenist
+2917 315306 pilot aeronave
+2918 315307 pilot comandant avion
+2919 315206 pilot de Dunare maritima
+2920 315208 pilot de mare larga, pilot de port maritim
+2921 315210 pilot de port maritim aspirant/ pilot de Dunare aspirant
+2922 315313 pilot instructor aeronave
+2923 315308 pilot încercare
+2924 832204 pilot încercare auto
+2925 315312 pilot parasutism încercator
+2926 315309 pilot receptie si control aeronave
+2927 731706 pirogravor
+2928 754204 pirotehnician
+2929 754203 pirotehnician cinematografie si teatru
+2930 622102 piscicultor
+2931 432109 pivnicer
+2932 512002 pizzar
+2933 331304 planificator
+2934 241255 planificator/ specialist plan sinteze
+2935 753205 planimetror sabloane
+2936 742103 plantator elemente electronice
+2937 962908 plasator
+2938 753403 plapumar
+2939 753105 plior confectii
+2940 264101 poet
+2941 812217 poleitor filiere
+2942 731808 polierator frânghii
+2943 263304 politolog
+2944 722406 polizator
+2945 611207 pomicultor
+2946 818906 pompagiu
+2947 431301 pontator
+2948 835005 pontonier feribot
+2949 962909 portar
+2950 811205 prajitor minereu
+2951 341303 predicator
+2952 111218 prefect
+2953 815111 pregatitor amestecuri în filaturi
+2954 731835 pregatitor articole marochinarie
+2955 817209 pregatitor aschii
+2956 815905 pregatitor confectii industriale din blana
+2957 818123 pregatitor de materii prime pentru producerea sticlei
+2958 812119 pregatitor de sarje
+2959 815122 pregatitor gogosi de matase (fierbator
+2960 813207 pregatitor hârtie fotosensibila
+2961 813147 pregatitor la produse explozive
+2962 817208 pregatitor lemn aschietor
+2963 817101 pregatitor lemn, stuf, paie
+2964 812104 pregatitor materiale de sarje
+2965 721106 pregatitor metale vechi pentru retopire
+2966 752102 pregatitor paste chimice
+2967 814128 pregatitor pentru încaltaminte si articole tehnice din cauciuc
+2968 817223 pregatitor PFL si hârtie pentru filme
+2969 815604 pregatitor piese încaltaminte
+2970 752103 pregatitor placi fibrolemnoase si hârtie pentru filme
+2971 814110 pregatitor regenerare cauciuc
+2972 722319 pregatitor sârma
+2973 812222 pregatitor seturi de cabluri electrice pentru autotrac si accesorii
+2974 752214 pregatitor suprafete pentru lacuit
+2975 731823 pregatitor si confectioner cataloage mostre
+2976 821102 pregatitor si montator utilaje tehnologice
+2977 813152 pregatitor, completator de echipamente tehnice si SDV-uri
+2978 721415 pregatitor, montator, reparator ite, cocleti, lamele, spete
+2979 815307 pregatitor-lansator confectii
+2980 814102 pregnator prize tehnice si banda izolatoare
+2981 731813 prelucrator de fulgi si pene
+2982 731729 prelucrator de par la masina
+2983 818103 prelucrator de topituri la instalatii de tras tevi
+2984 818102 prelucrator de topituri la semiautomate
+2985 818104 prelucrator de tuburi si baghete
+2986 815126 prelucrator deseuri gogosi de matase naturala
+2987 815123 prelucrator fire de matase din gogosi (filator
+2988 818116 prelucrator fire si tesaturi din fire de sticla
+2989 731730 prelucrator manual de par
+2990 722102 prelucrator mecanic metale pretioase
+2991 811206 prelucrator mica
+2992 441210 prelucrator presa scrisa
+2993 722205 prelucrator prin electroeroziune
+2994 818140 prelucrator produse ceramice prin extrudare
+2995 818142 prelucrator produse ceramice prin injectare
+2996 731504 prelucrator topitura sticla la presa
+2997 731505 prelucrator topitura sticla la teava
+2998 263627 preot
+2999 722318 preparator amestec de învelis
+3000 813111 preparator amestec si topitor sticla
+3001 816047 preparator bauturi racoritoare
+3002 813139 preparator benzi cauciucate si compozitii emplastre
+3003 816022 preparator boia de ardei
+3004 751403 preparator castane, dovleac, porumb
+3005 814120 preparator cauciuc electroizolant
+3006 816051 preparator coniac
+3007 816019 preparator conserve lapte si lactoza
+3008 751401 preparator conserve, legume si fructe
+3009 816035 preparator de produse apicole
+3010 751204 preparator de semifabricate si preparate culinare
+3011 812223 preparator electrolit si amestec depolarizator
+3012 812214 preparator email
+3013 816024 preparator extracte, arome si esente
+3014 816005 preparator faina din peste
+3015 813132 preparator ferodouri
+3016 352114 preparator filmare
+3017 816039 preparator halva
+3018 813106 preparator în industria chimica
+3019 816028 preparator înghetata
+3020 231004 preparator învatamântul universitar
+3021 812110 preparator la concentratele miniere
+3022 814101 preparator la confectionarea produselor industriale din cauciuc
+3023 813141 preparator la prepararea produselor cosmetice si de parfumerie
+3024 813148 preparator la produse explozive
+3025 813125 preparator lacuri, vopsele, paste de fludor folosite la aparataj electric
+3026 821206 preparator lesie pentru acumulatori
+3027 621013 preparator mangal
+3028 731408 preparator mase ceramice
+3029 814201 preparator mase plastice
+3030 816023 preparator mustar
+3031 816030 preparator napolitane
+3032 817102 preparator pasta
+3033 811405 preparator pasta de azbociment
+3034 752326 preparator paste chimice pentru chibrituri
+3035 816013 preparator pepsina, cheag
+3036 816004 preparator peste, raci, broaste în cherhanale si oficii
+3037 814129 preparator placi de etansare comprimate
+3038 817234 preparator PPF
+3039 813140 preparator prafuri de spalat si curatat
+3040 751302 preparator produse lactate
+3041 722110 preparator pulberi
+3042 816048 preparator rachiuri industriale si lichioruri
+3043 813142 preparator ser vaccin
+3044 342209 preparator sportiv
+3045 816036 preparator surogate cafea
+3046 816053 preparator sampanie
+3047 816009 preparator ulei de copite
+3048 818119 preparator vata de sticla
+3049 816052 preparator vermut
+3050 752218 preparator-dozator adezive, rasini, lacuri si emailuri în industria lemnului
+3051 818134 preparator-presator abrazive
+3052 818137 preparator-presator produse din carbune
+3053 815429 presator axe la cilindrul de imprimat
+3054 812133 presator de tevi la cald si profiluri prin extruziune
+3055 817220 presator la înnobilare PFL
+3056 814204 presator mase plastice
+3057 721412 presator metale la rece
+3058 817215 presator PFL
+3059 722103 presator piese din pulberi metalice
+3060 731113 presator piese optice
+3061 731409 presator produse ceramice
+3062 817232 presator produse stratificate
+3063 621006 presator stuf
+3064 722105 presator, ambutisor la cald
+3065 814125 presator-formator materiale stratificate, pregnator prize tehnice si banda izolatoare
+3066 516911 prestidigitator
+3067 111109 presedinte Academie
+3068 111412 presedinte asociatie nationala cooperatista
+3069 111421 presedinte asociatie patronala
+3070 111415 presedinte asociatie teritoriala de organizatii cooperatiste
+3071 121101 presedinte banca/ vicepresedinte/ prim-vicepresedinte
+3072 111114 presedinte Camera Deputatilor
+3073 143107 presedinte complex, club sportiv
+3074 111402 presedinte consilier organizatie politica
+3075 142001 presedinte cooperativa de consum
+3076 263628 presedinte culte
+3077 111111 presedinte curte de apel
+3078 111112 presedinte Curtea de Conturi a României
+3079 111113 presedinte de judecatorie
+3080 143106 presedinte federatie sportiva
+3081 111228 presedinte institutie publica
+3082 111110 presedinte Înalta Curte de Casatie si Justitie
+3083 111419 presedinte organizatie cooperatista
+3084 111423 presedinte organizatie profesionala nationala
+3085 111426 presedinte organizatie profesionala, filiala judeteana/ municipiu
+3086 111408 presedinte organizatie sindicala
+3087 111115 presedinte sectie (la Înalta Curte de Casatie si Justitie, la curtea de apel, tribunale si judecatorii
+3088 111139 presedinte Senat
+3089 111116 presedinte tribunal
+3090 111117 Presedintele României
+3091 265601 prezentator (crainic radio
+3092 265602 prezentator (crainic televiziune
+3093 243211 prezentator expozitii
+3094 524103 prezentator moda
+3095 111120 prim-adjunct al procurorului general
+3096 111301 primar
+3097 121911 prim-grefier
+3098 432110 primitor-distribuitor benzina si motorina
+3099 432104 primitor-distribuitor materiale si scule
+3100 811313 primitor-preparator produse fluide
+3101 111121 prim-ministru
+3102 111118 prim-procuror
+3103 111119 prim-procuror adjunct
+3104 962204 prinzator câini
+3105 721302 probator hidraulic cazane, tevi, recipiente
+3106 311713 probator hidraulic piese turnate
+3107 261201 procuror
+3108 111122 procuror general
+3109 121905 procuror sef birou/ serviciu
+3110 111123 procuror sef de sectie
+3111 111124 procuror sef de sectie adjunct
+3112 265430 producator audiovideo
+3113 813130 producator de fire si fibre sintetice
+3114 265424 producator delegat evenimente de marketing
+3115 265408 producator delegat film
+3116 265437 producator delegat pentru teatru
+3117 265441 producator delegat TV
+3118 134918 producator executiv TV
+3119 112037 producator general
+3120 265418 producator RTV (stiri
+3121 265444 producator teren (studii medii
+3122 265443 producator teren (studii superioare
+3123 265442 producator TV
+3124 226406 profesor de cultura fizica medicala
+3125 233002 profesor în învatamântul gimnazial
+3126 233001 profesor în învatamântul liceal, postliceal
+3127 234201 profesor în învatamântul prescolar
+3128 234101 profesor în învatamântul primar
+3129 232001 profesor în învatamântul profesional si de maistri
+3130 231005 profesor universitar
+3131 814115 profilator produse din cauciuc
+3132 251202 programator
+3133 351201 programator ajutor
+3134 251204 programator de sistem informatic
+3135 214136 programator fabricatie/ lansator fabricatie
+3136 432204 programator productie
+3137 216108 proiectant arhitect
+3138 214437 proiectant inginer aeronave
+3139 214912 proiectant inginer celuloza si hârtie
+3140 214909 proiectant inginer ceramica, sticla
+3141 214503 proiectant inginer chimist
+3142 214208 proiectant inginer constructii
+3143 215214 proiectant inginer de sisteme si calculatoare
+3144 215215 proiectant inginer electromecanic
+3145 215213 proiectant inginer electronist
+3146 215110 proiectant inginer electrotehnic
+3147 215111 proiectant inginer energetician
+3148 216506 proiectant inginer geodez
+3149 214207 proiectant inginer instalatii
+3150 213216 proiectant inginer în agricultura
+3151 214624 proiectant inginer în minerit
+3152 213218 proiectant inginer în silvicultura
+3153 213217 proiectant inginer în zootehnie
+3154 214438 proiectant inginer mecanic
+3155 214623 proiectant inginer metalurg
+3156 214621 proiectant inginer petrolist
+3157 214516 proiectant inginer produse alimentare
+3158 214105 proiectant inginer textile, pielarie
+3159 241233 proiectant produse bancare
+3160 215119 proiectant sisteme de securitate
+3161 251101 proiectant sisteme informatice
+3162 215118 proiectant subinginer electrotehnic
+3163 352115 proiectionist
+3164 263220 promotor local
+3165 311110 prospector - prospectii geologice, geofizice
+3166 621007 protectionist silvic
+3167 812218 protejator conductori cabluri si condensatori statici de forta
+3168 263629 protopop
+3169 263630 provicar
+3170 263402 psiholog în specialitatea consiliere psihologica
+3171 263406 psiholog în specialitatea psihologia aplicata în servicii
+3172 263404 psiholog în specialitatea psihologia muncii si organizationala
+3173 263405 psiholog în specialitatea psihologia transporturilor
+3174 263409 psiholog în specialitatea psihologie aplicata în domeniul securitatii nationale
+3175 263401 psiholog în specialitatea psihologie clinica
+3176 263407 psiholog în specialitatea psihologie educationala, consiliere scolara si vocationala
+3177 263410 psiholog în specialitatea psihologie judiciara - evaluarea comportamentului simulat prin tehnica poligrafului
+3178 263408 psiholog în specialitatea psihopedagogie speciala
+3179 263403 psiholog în specialitatea psihoterapie
+3180 263414 psiholog scolar
+3181 134212 psiholog sef sectie, laborator
+3182 263412 psihopedagog
+3183 264210 publicist comentator
+3184 243206 purtator de cuvânt
+3185 263631 rabin
+3186 722417 rabotor-mortezor roti dintate
+3187 722411 rabotor-mortezor universal
+3188 215106 radiochimist
+3189 352133 radioelectronist statii de emisie radio-TV
+3190 352212 radioelectronist statii radiorelee si satelit
+3191 422303 radiotelegrafist
+3192 812112 rafinator metale neferoase
+3193 814112 rafinator regenerare cauciuc
+3194 313402 rafinor
+3195 511315 ranger
+3196 516905 raportor ecolog
+3197 731410 râsnitor smalt
+3198 731707 ramar poleitor
+3199 265409 realizator emisiuni RTV
+3200 333102 receptioner contractari-achizitii
+3201 422401 receptioner de hotel
+3202 422601 receptionist
+3203 621008 recoltator stuf
+3204 721413 reconditioner scule si utilaje petroliere
+3205 722418 rectificator dantura caneluri
+3206 722426 rectificator piese producatoare de ochiuri
+3207 722412 rectificator universal
+3208 721107 recuperator metale vechi
+3209 432105 recuziter
+3210 264211 redactor
+3211 265425 redactor prezentator de televiziune
+3212 264223 redactor rubrica
+3213 134910 redactor- sef presa, editura
+3214 432318 reditionar
+3215 331309 referent
+3216 241236 referent bancar/ societate de leasing
+3217 421114 referent casier
+3218 333911 referent comert exterior
+3219 212008 referent de specialitate actuar
+3220 216107 referent de specialitate arhitect
+3221 241244 referent de specialitate asigurari
+3222 262207 referent de specialitate asezamânt cultural
+3223 213120 referent de specialitate bacteriolog
+3224 213124 referent de specialitate biochimist
+3225 213104 referent de specialitate biolog
+3226 213108 referent de specialitate botanist
+3227 211305 referent de specialitate chimist
+3228 213303 referent de specialitate ecolog
+3229 213128 referent de specialitate farmacolog
+3230 241104 referent de specialitate financiar-contabilitate
+3231 242305 referent de specialitate forta de munca si somaj
+3232 211408 referent de specialitate geofizician
+3233 211404 referent de specialitate geolog
+3234 211412 referent de specialitate hidrogeolog
+3235 211416 referent de specialitate hidrolog
+3236 213204 referent de specialitate inginer agronom
+3237 214507 referent de specialitate inginer chimist
+3238 214212 referent de specialitate inginer constructii
+3239 213208 referent de specialitate inginer horticol
+3240 214520 referent de specialitate inginer industria alimentara
+3241 214122 referent de specialitate inginer industrializarea lemnului
+3242 214436 referent de specialitate inginer mecanic
+3243 214609 referent de specialitate inginer metalurg
+3244 214613 referent de specialitate inginer minier
+3245 214908 referent de specialitate inginer prelucrarea sticlei si ceramicii
+3246 213222 referent de specialitate inginer silvic
+3247 214916 referent de specialitate inginer tehnologia celulozei si hârtiei
+3248 214109 referent de specialitate inginer textile, pielarie
+3249 213212 referent de specialitate inginer zootehnist
+3250 242204 referent de specialitate în administratia publica
+3251 235106 referent de specialitate învatamânt
+3252 243203 referent de specialitate marketing
+3253 212004 referent de specialitate matematician
+3254 221106 referent de specialitate medic
+3255 213132 referent de specialitate microbiolog
+3256 211420 referent de specialitate pedolog
+3257 214511 referent de specialitate petrochimist
+3258 265421 referent de specialitate selectie programe TV
+3259 212014 referent de specialitate statistician
+3260 432341 referent de specialitate TIR si tranzite (studii superioare
+3261 213112 referent de specialitate zoolog
+3262 411003 referent de stare civila
+3263 262204 referent difuzare carte
+3264 441601 referent evidenta persoanelor
+3265 214620 referent inginer petrolist
+3266 264304 referent literar
+3267 265211 referent muzical
+3268 421113 referent operatii între sedii
+3269 335402 referent pensii, asigurari sociale si asistenta sociala
+3270 432343 referent protocol aeroportuar
+3271 242215 referent relatii externe
+3272 331401 referent statistician
+3273 335103 referent TIR si tranzite (studii medii
+3274 413103 referent transmitere
+3275 335104 referent vamal (studii medii
+3276 315511 referent/ inspector în serviciile de trafic aerian
+3277 325504 reflexoterapeut
+3278 261913 registrator carte funciara
+3279 121907 registrator coordonator
+3280 413204 registrator de arhiva electronica de garantii reale mobiliare
+3281 334401 registrator medical
+3282 334402 registrator medical în anatomie patologica
+3283 121908 registrator-sef
+3284 265410 regizor artistic
+3285 265438 regizor culise
+3286 265411 regizor emisie
+3287 265228 regizor muzical
+3288 265439 regizor scena
+3289 265412 regizor studio
+3290 265413 regizor sunet
+3291 265414 regizor tehnic
+3292 242206 reglementator
+3293 722303 reglor benzi montaj
+3294 722306 reglor la masini de prelucrare mase plastice
+3295 722302 reglor la masini pentru confectionarea elementelor galvanice
+3296 722301 reglor la masini pentru fabricarea cablurilor, conductorilor electrici si materialelor electrice
+3297 722309 reglor la masini pentru fabricarea lampilor electrice
+3298 722305 reglor masini de bobinat si platinat
+3299 752302 reglor masini de prelucrat lemn
+3300 722307 reglor masini-unelte
+3301 722310 reglor si reglor-conductor la masini-unelte
+3302 722308 reglor-montator
+3303 812146 regulator tevi
+3304 753303 remaieur ciorapi
+3305 731114 reparator aparate foto
+3306 731828 reparator covoare
+3307 731115 reparator stilouri, brichete
+3308 731116 reparator umbrele
+3309 731826 repasator
+3310 721416 repasator garnituri carde
+3311 343511 reporter (studii medii
+3312 264212 reporter (studii superioare
+3313 264213 reporter operator
+3314 332202 reprezentant comercial
+3315 243302 reprezentant medical
+3316 332201 reprezentant tehnic
+3317 214115 responsabil afacere
+3318 242902 responsabil al managementului responsabilitatii sociale
+3319 422405 responsabil cazare
+3320 122312 responsabil CTE (control tehnic-economic în cercetare-proiectare
+3321 325710 responsabil de mediu
+3322 121916 responsabil industrializare produs
+3323 242104 responsabil proces
+3324 122109 responsabil produs
+3325 214234 responsabil tehnic cu urmarirea curenta a comportarii constructiilor
+3326 441211 responsabil tura expeditie
+3327 343305 restaurator arhiva (studii medii
+3328 262106 restaurator arhiva (studii superioare
+3329 343303 restaurator bunuri culturale (studii medii
+3330 262107 restaurator bunuri culturale (studii superioare
+3331 343301 restaurator opere de arta si monumente istorice (studii medii
+3332 262104 restaurator opere de arta si monumente istorice (studii superioare
+3333 711305 restaurator piatra
+3334 752220 restaurator sarpante si structuri din lemn
+3335 265110 restaurator tablouri
+3336 753109 retusier confectii
+3337 813206 retusor clisee
+3338 343103 retusor foto
+3339 831207 revizor ace
+3340 511202 revizor bilete
+3341 711916 revizor cale sau puncte periculoase
+3342 241103 revizor contabil
+3343 132408 revizor general siguranta circulatiei
+3344 331305 revizor gestiune
+3345 261914 revizor jurist
+3346 264309 revizor lingvist
+3347 215208 revizor siguranta circulatiei feroviare
+3348 432344 revizor tehnic auto
+3349 432319 revizor tehnic vagoane
+3350 335102 revizor vamal
+3351 621009 rezinator
+3352 815306 rihtuitor confectii
+3353 731712 rotar caretas
+3354 818110 sablator produse din sticla
+3355 541919 salvator din mediul subacvatic speologic
+3356 541908 salvator din mediul subteran speologic
+3357 753402 saltelar
+3358 731810 saluzitor frânghii
+3359 541905 salvamar
+3360 541903 salvator la strand
+3361 312103 salvator minier
+3362 541904 salvator montan
+3363 711903 sapator fântâni
+3364 931204 sapator manual
+3365 754101 scafandru
+3366 754105 scafandru greu
+3367 754102 scafandru lucrator subacvatic
+3368 754107 scafandru salvator
+3369 754103 scafandru sef grup
+3370 754104 scafandru sef utilaj
+3371 265434 scenograf
+3372 721432 schelar
+3373 421202 schimbator fise - changeur (cazino
+3374 264102 scriitor
+3375 432320 scriitor vagoane
+3376 722202 sculer-matriter
+3377 265108 sculptor
+3378 731708 sculptor în lemn
+3379 265109 sculptor papusi
+3380 815110 scuturator
+3381 815106 scuturator in si cânepa
+3382 334301 secretar administrativ
+3383 111434 secretar al organizatiilor umanitare
+3384 343522 secretar artistic
+3385 334302 secretar asistent director
+3386 111417 secretar asociatie teritoriala de organizatii cooperatiste
+3387 263632 secretar culte
+3388 341112 secretar dactilograf laborator expertize criminalistice
+3389 343514 secretar de emisie (studii medii
+3390 264214 secretar de emisie (studii superioare
+3391 343508 secretar de redactie (studii medii
+3392 264215 secretar de redactie (studii superioare
+3393 111127 secretar de stat
+3394 111234 secretar diplomatic
+3395 331307 secretar economic (studii medii
+3396 263126 secretar economic (studii superioare
+3397 342203 secretar federatie
+3398 111219 secretar general
+3399 111237 secretar general Academie
+3400 111131 secretar general adjunct al Consiliului Superior al Magistraturii
+3401 134911 secretar general agentie presa, editura
+3402 111125 secretar general al Guvernului
+3403 111414 secretar general asociatie nationala cooperatista
+3404 143108 secretar general federatie sport
+3405 134912 secretar general redactie
+3406 235901 secretar institut, facultate
+3407 264305 secretar literar
+3408 265212 secretar muzical
+3409 111425 secretar national organizatie profesionala nationala
+3410 341104 secretar notariat
+3411 111404 secretar organizatie politica
+3412 111428 secretar organizatie profesionala, filiala judeteana/ municipiu
+3413 111410 secretar organizatie sindicala
+3414 111126 secretar Parlament
+3415 265440 secretar platou
+3416 111302 secretar primarie, prefectura
+3417 334201 secretar procuratura
+3418 264216 secretar responsabil de agentie
+3419 341903 secretar scoala
+3420 265415 secretar sef productie film
+3421 111407 secretar si secretar adjunct ai asociatiilor, filialelor si organizatiilor obstesti
+3422 122303 secretar stiintific
+3423 134503 secretar stiintific învatamânt, cercetare
+3424 412001 secretara
+3425 412002 secretara dactilografa
+3426 412003 secretara prelucrare texte
+3427 111217 secretar-sef notariat
+3428 818122 securizator geam
+3429 811105 semnalist-cuplator
+3430 111107 senator
+3431 352116 senzitometrist
+3432 811209 separator la prepararea carbunilor
+3433 612302 sericicultor
+3434 732205 serigraf
+3435 541104 servant pompier
+3436 835006 servator far maritim si statie semnal de ceata
+3437 813107 sinterizator
+3438 751303 smântânitor
+3439 711201 sobar
+3440 263201 sociolog
+3441 265305 solist balet
+3442 265220 solist concertist
+3443 265214 solist instrumentist
+3444 265215 solist vocal
+3445 513103 somelier
+3446 811302 sondor la foraj manual
+3447 811310 sondor la forajul mecanizat si reparatii sonde
+3448 811311 sondor la interventii de sonde
+3449 811312 sondor la punerea în productie
+3450 322102 sora medicala
+3451 134213 sora medicala sefa
+3452 432106 sortator produse
+3453 731728 sortator, spalator par
+3454 912104 spalator covoare înnodate
+3455 951002 spalator geamuri si parbrize
+3456 811207 spalator la prepararea carbunilor
+3457 912201 spalator vehicule
+3458 912301 spalator vitrine si geamuri
+3459 912103 spalatoreasa lenjerie
+3460 213306 specialist arii protejate
+3461 241308 specialist bancar
+3462 241270 specialist control intern în domeniul pietei de capital
+3463 241216 specialist control risc
+3464 214112 specialist documentatie studii
+3465 251301 specialist e-Afaceri
+3466 242904 specialist educator în penitenciare
+3467 241217 specialist evaluare daune
+3468 243215 specialist garantii auto
+3469 265218 specialist instrumente de suflat
+3470 242102 specialist îmbunatatire procese
+3471 332301 specialist în achizitii
+3472 242412 specialist în activitatea de coaching
+3473 243220 specialist în activitatea de lobby
+3474 263507 specialist în angajare asistata
+3475 242321 specialist în compensatii si beneficii
+3476 242322 specialist în dezvoltare organizationala
+3477 214129 specialist în domeniul calitatii
+3478 251401 specialist în domeniul proiectarii asistate pe calculator
+3479 226302 specialist în domeniul securitatii si sanatatii în munca
+3480 341206 specialist în economia sociala
+3481 251302 specialist în e-Guvernare
+3482 251303 specialist în e-Media
+3483 251304 specialist în e-Sanatate
+3484 263506 specialist în evaluarea vocationala a persoanelor cu dizabilitati
+3485 242319 specialist în formare
+3486 214237 specialist în iluminat
+3487 325713 specialist în managementul deseurilor
+3488 214140 specialist în managementul riscului
+3489 213309 specialist în management si remediere situri contaminate
+3490 242110 specialist în planificarea, controlul si raportarea performantei economice
+3491 251402 specialist în proceduri si instrumente de securitate a sistemelor informatice
+3492 242320 specialist în recrutare
+3493 242323 specialist în relatii de munca
+3494 243201 specialist în relatii publice
+3495 214235 specialist în urmarirea comportarii constructiilor
+3496 214111 specialist încercari componente vehicule/ grup motopropulsor/ optimizare energetica/ sisteme de masurare
+3497 243103 specialist marketing
+3498 215220 specialist mentenanta electromecanica-automatica echipamente industriale
+3499 214443 specialist mentenanta mecanica echipamente industriale
+3500 265227 specialist orga
+3501 241271 specialist pentru piata de capital
+3502 241268 specialist piete reglementate
+3503 242109 specialist plan progres
+3504 214442 specialist prestatii vehicule
+3505 261919 specialist proprietate intelectuala
+3506 243204 specialist protocol si ceremonial
+3507 214441 specialist reglementari/ carti de identitate vehicule/ verificari tehnice înmatriculare/ inspectii tehnice/
+3508 243212 specialist relatii sociale
+3509 242314 specialist resurse umane
+3510 325727 specialist securitate si sanatate în munca în domeniul servicii de întretinere si reparatii autovehicule
+3511 241250 specialist sistem asigurari
+3512 242313 specialist sisteme de calificare
+3513 242103 specialist strategie industriala
+3514 241311 specialist/ analist organizare
+3515 541103 specialisti pentru prevenire
+3516 252901 specialist SIG/IT
+3517 711926 speolog utilitar
+3518 342104 sportiv de înalta performan?a
+3519 342105 sportiv de performan?a
+3520 342102 sportiv profesionist în alte discipline sportive
+3521 263633 staret - stareta
+3522 331402 statistician
+3523 331403 statistician medical
+3524 413102 stenodactilografa
+3525 732106 stereotipar
+3526 751104 sterilizator
+3527 511102 stewardesa
+3528 342219 steward sportiv
+3529 514208 stilist protezist de unghii
+3530 265407 stilizator film de desene animate (studii superioare
+3531 216604 stilizator film desene animate (studii medii
+3532 621011 stivuitor si receptioner silvic
+3533 834403 stivuitorist
+3534 834407 stivuitorist portuar
+3535 753302 stopeur
+3536 752301 strungar în lemn
+3537 722423 strungar la masini de alezat
+3538 722424 strungar la masini de prelucrat în coordonate
+3539 722425 strungar la masini de strunjit roti cai ferate
+3540 722422 strungar la masini orizontale
+3541 722421 strungar la strung carusel
+3542 722419 strungar la strung paralel si de detalonat
+3543 722420 strungar la strung revolver
+3544 818124 strungar produse ceramice
+3545 732304 strungar slefuitor tipografie
+3546 722413 strungar universal
+3547 713103 stucaturist
+3548 213213 subinginer agronom
+3549 215209 subinginer automatist
+3550 216508 subinginer cadastru
+3551 214536 subinginer chimist
+3552 215116 subinginer centrale termoelectrice
+3553 214202 subinginer constructii civile, industriale si agricole
+3554 215107 subinginer electroenergetica
+3555 215217 subinginer electromecanic
+3556 215210 subinginer electronist, transporturi, telecomunicatii
+3557 216503 subinginer geodez
+3558 215309 subinginer iluminat tehnologic
+3559 214118 subinginer industrializarea lemnului
+3560 213228 subinginer îmbunatatiri funciare
+3561 214515 subinginer în industria alimentara
+3562 214904 subinginer materiale de constructii
+3563 214402 subinginer mecanic
+3564 214430 subinginer mecanic automobile
+3565 214427 subinginer mecanic avioane si motoare de aviatie
+3566 214428 subinginer mecanic constructii corp de nava
+3567 214429 subinginer mecanic instalatii navale de bord
+3568 214423 subinginer mecanic material rulant de cale ferata
+3569 214424 subinginer mecanic mecanica agricola
+3570 214420 subinginer mecanic tehnologia constructiilor de masini
+3571 214425 subinginer mecanic utilaj tehnologic pentru chimie
+3572 214426 subinginer mecanic utilaje pentru constructii
+3573 214431 subinginer mecanic utilaje pentru industria lemnului
+3574 214432 subinginer mecanic utilaje pentru materiale de constructie
+3575 214421 subinginer mecanic utilaje si tehnica sudurii
+3576 214422 subinginer mecanic, mecanica fina
+3577 214603 subinginer metalurgist
+3578 214604 subinginer minier
+3579 214502 subinginer petrochimist
+3580 214617 subinginer petrolist
+3581 214902 subinginer prelucrarea sticlei si ceramicii
+3582 215311 subinginer proiectant comunicatii
+3583 214440 subinginer proiectant mecanic
+3584 215211 subinginer reglaje subansamble
+3585 215113 subinginer retele electrice
+3586 215307 subinginer- sef car reportaj
+3587 214446 subinginer tehnolog în fabricarea armamentului si munitiei
+3588 214911 subinginer tehnologia celulozei si hârtiei
+3589 214104 subinginer textile, pielarie
+3590 213214 subinginer zootehnist
+3591 111226 subprefect
+3592 111140 subsecretar de stat
+3593 721208 sudor
+3594 721204 sudor cu arc electric acoperit sub strat de flux
+3595 721206 sudor cu arc electric cu electrod fuzibil în mediu de gaz protector
+3596 721207 sudor cu arc electric cu electrod nefuzibil în mediu de gaz protector
+3597 712413 sudor geomembrana
+3598 721203 sudor manual cu arc electric
+3599 721202 sudor manual cu flacara de gaze
+3600 265216 sufleur opera
+3601 265416 sufleur teatru
+3602 132227 supervizor geolog si foraj
+3603 532907 supraveghetor de noapte servicii sociale
+3604 962913 supraveghetor hotel
+3605 342213 supraveghetor în poligonul de tir
+3606 421203 supraveghetor jocuri (cazino
+3607 962910 supraveghetor muzeu
+3608 962911 supraveghetor noapte (învatamânt
+3609 962912 supraveghetor sali spectacole
+3610 834306 supraveghetor statie senal navigabil
+3611 721414 sanfrenator
+3612 121111 sef agentie bancara
+3613 122106 sef agentie bursiera
+3614 121122 sef agentie CEC
+3615 432321 sef agentie colectare si expeditie marfuri
+3616 142010 sef agentie comerciala
+3617 143109 sef agentie concursuri hipice
+3618 132409 sef agentie navala
+3619 132430 sef agentie pilotaj
+3620 264217 sef agentie publicitate
+3621 122201 sef agentie reclama publicitara
+3622 143902 sef agentie/ oficiu turism
+3623 121902 sef atelier
+3624 132410 sef atelier aeroport
+3625 122311 sef atelier cercetare-proiectare
+3626 143901 sef atelier decorator
+3627 122308 sef atelier editie, multiplicare, expeditie
+3628 132202 sef atelier industria extractiva
+3629 132102 sef atelier industria prelucratoare
+3630 133003 sef atelier informatica
+3631 132304 sef atelier în constructii
+3632 143904 sef atelier presa
+3633 143112 sef atelier productie film
+3634 132438 sef atelier reparatii
+3635 132221 sef atelier reparatii capitale
+3636 134904 sef atelier reparatii obiecte de uz casnic, curatatorii si alte servicii pentru populatie
+3637 341904 sef atelier scoala
+3638 133010 sef atelier telecomunicatii
+3639 132411 sef atelier transporturi
+3640 132412 sef autobaza
+3641 432322 sef autogara
+3642 142002 sef baza receptie
+3643 121904 sef birou
+3644 132413 sef birou aeroport
+3645 121130 sef birou analize economice
+3646 132443 sef birou aprovizionare-desfacere
+3647 121201 sef birou calificare si recalificare
+3648 132112 sef birou calitate
+3649 142004 sef birou comert cu ridicata si cu amanuntul
+3650 121129 sef birou contabilitate
+3651 121310 sef birou corp control
+3652 133011 sef birou exploatare postala
+3653 134913 sef birou exploatare, coordonare presa
+3654 121128 sef birou financiar
+3655 132453 sef birou import-export
+3656 132207 sef birou industrie extractiva
+3657 132108 sef birou industrie prelucratoare
+3658 111220 sef birou institutie publica
+3659 132312 sef birou în constructii
+3660 122102 sef birou marketing
+3661 121301 sef birou organizatie politica, obsteasca, umanitara
+3662 121202 sef birou pensii
+3663 133012 sef birou radiotelecomunicatii
+3664 122202 sef birou reclama publicitara
+3665 134914 sef birou redactie
+3666 134915 sef birou relatii unitati presa
+3667 121209 sef birou resurse umane
+3668 111222 sef birou senatorial
+3669 121203 sef birou somaj
+3670 121906 sef birou/ serviciu administrativ
+3671 121124 sef birou/ serviciu financiar-contabilitate
+3672 132414 sef birou/ serviciu relatii internationale
+3673 132415 sef birou/ serviciu transport maritim si fluvial
+3674 121123 sef birou/ serviciu/ sectie circumscriptie financiara
+3675 143915 sef birou/ statie/ tura meteo aeronautic/ de aerodrom
+3676 132111 sef birou tehnic
+3677 132305 sef brigada complexa sau specializata
+3678 132213 sef brigada exploatare miniera
+3679 111221 sef cabinet
+3680 112030 sef cancelarie
+3681 515107 sef cantina
+3682 132431 sef cart
+3683 122105 sef casa compensatie
+3684 421108 sef casierie centrala
+3685 134505 sef catedra
+3686 132220 sef centrala electrica, gaze si apa
+3687 133013 sef centrala telefonica
+3688 133019 sef centru (sectie, sector radiodifuziune
+3689 133020 sef centru (sectie, sector telecomunicatii
+3690 133014 sef centru control calitate emisie radiofonica
+3691 133015 sef centru control calitate emisie televiziune
+3692 133016 sef centru control local comunicatii
+3693 134906 sef centru dezinfectie, deratizare si dezinsectie
+3694 133017 sef centru dirijare zbor
+3695 143914 sef centru meteo aeronautic
+3696 133046 sef Centru National de Telecomunicatii Aeronautice Aviatie Civila
+3697 143916 sef Centru National pentru Protectia Meteorologica a Navigatiei Aeriene
+3698 121208 sef centru perfectionare
+3699 133018 sef centru postal
+3700 132215 sef centru prelucrare
+3701 131105 sef centru protectia plantelor si mediului
+3702 134905 sef centru reparatii
+3703 131106 sef centru reproductia si selectia animalelor
+3704 133022 sef centru zonal de interventii translatare TV
+3705 133021 sef centru zonal interventii radiorelee
+3706 131108 sef circumscriptie sanitar-veterinara si control al alimentelor
+3707 132416 sef coloana auto
+3708 621010 sef coloana exploatare stuf
+3709 121919 ?ef compartiment (studii superioare
+3710 541101 sef compartiment pentru prevenire
+3711 141102 sef complex hotelier
+3712 131109 sef complex zootehnic
+3713 112022 sef corp executori bancari
+3714 421204 sef de masa (cazino
+3715 422403 sef de receptie hotel
+3716 343401 sef de sala restaurant
+3717 754108 sef de scufundare
+3718 111223 sef departament
+3719 121105 sef departament banca/ sef-adjunct departament
+3720 132442 sef departament logistica
+3721 142007 sef departament marfuri alimentare/ nealimentare
+3722 111418 sef departament organizatie sindicala
+3723 111431 sef departament/ compartiment/ presedinte comisie organizatie profesionala, filiala judeteana/ municipiu
+3724 132417 sef depou/ adjunct
+3725 132444 sef depozit
+3726 132231 sef dispecer energetic central (DEC
+3727 132232 sef dispecer energetic teritorial (DET
+3728 132418 sef district cai ferate, poduri, drumuri
+3729 131107 sef district, centru, ocol silvic
+3730 132419 sef divizie cai ferate
+3731 315207 sef echipaj maritim/ fluvial
+3732 834311 sef echipa docheri
+3733 143917 sef echipa interventii si supraveghere echipamente în serviciile de trafic aerian
+3734 711918 sef echipa întretinere cale
+3735 711922 sef echipa întretinere cale metrou
+3736 711914 sef echipa întretinere poduri metalice, viaducte si tuneluri
+3737 711923 sef echipa lucrari arta metrou
+3738 541106 sef echipa specializata
+3739 132437 sef electrician maritim
+3740 121304 sef executiv audit intern
+3741 134901 sef expozitii si târguri
+3742 131110 sef fazanerie
+3743 131111 sef ferma agricola (agrozootehnica
+3744 132235 sef formatie
+3745 122305 sef formatie cercetare-dezvoltare
+3746 133023 sef formatie comunicatii
+3747 311919 sef formatie industria confectiilor îmbracaminte
+3748 132223 sef formatie industria petroliera/ petrochimica
+3749 541102 sef formatie interventie, salvare si prim ajutor
+3750 132228 sef formatie în industria de masini si echipamente
+3751 132233 sef formatie la fabricarea armamentului si munitiei
+3752 122304 sef formatie lucrari geologice
+3753 133024 sef formatie operationala telecomunicatii
+3754 352201 sef formatie sisteme radiante (antene
+3755 132433 sef garaj
+3756 121917 sef grup functional tehnic
+3757 541105 sef grupa interventie
+3758 432324 sef halta
+3759 132224 sef instalatie petroliera
+3760 132420 sef laborator aeroport
+3761 131112 sef laborator analize pedologice
+3762 143905 sef laborator conservare-restaurare opere de arta
+3763 132216 sef laborator control tehnic de calitate a combustibilului nuclear
+3764 121912 sef laborator criminalistica
+3765 132225 sef laborator industria petroliera
+3766 133004 sef laborator informatica
+3767 132306 sef laborator în constructii
+3768 132104 sef laborator în industria prelucratoare
+3769 133025 sef laborator masuratori telecomunicatii
+3770 133026 sef laborator radioteleviziune
+3771 133027 sef laborator telecomunicatii
+3772 134504 sef lectorat
+3773 122103 sef licitatie
+3774 121915 sef linie fabricatie
+3775 132307 sef lot
+3776 133028 sef lot telecomunicatii
+3777 831203 sef manevra
+3778 132435 sef mecanic instructor
+3779 132436 sef mecanic maritim/ fluvial
+3780 132204 sef modul în industria extractiva
+3781 132105 sef modul în industria prelucratoare
+3782 541414 sef obiectiv servicii de securitate
+3783 133002 sef oficiu de calcul
+3784 143113 sef oficiu interjudetean difuzare film
+3785 134916 sef oficiu juridic
+3786 133042 sef oficiu special posta
+3787 121204 sef oficiu somaj
+3788 133041 sef oficiu zonal posta
+3789 134917 sef oficiu, serviciu, sectie, redactie
+3790 265213 sef orchestra
+3791 131114 sef parchet
+3792 131201 sef pastravarie
+3793 131115 sef pepiniera silvicola, pomicola, viticola
+3794 132421 sef port
+3795 121913 sef proces fabricatie
+3796 143110 sef productie film
+3797 121106 sef proiect banca
+3798 122309 sef proiect cercetare-proiectare
+3799 122314 sef proiect/ program
+3800 111224 sef protocol de stat
+3801 432112 sef raion/ adjunct marfuri alimentare/ nealimentare
+3802 132422 sef regulator circulatie cai ferate
+3803 141201 sef restaurant
+3804 133029 sef retea telecomunicatii
+3805 132423 sef revizie locomotive, automotoare
+3806 132424 sef revizie vagoane
+3807 132234 sef schimb
+3808 132309 sef sector (sectie drumuri-poduri
+3809 132313 sef sector exploatare îmbunatatiri funciare
+3810 132203 sef sector industria extractiva
+3811 132103 sef sector industria prelucratoare
+3812 121903 sef sectie
+3813 122310 sef sectie cercetare-proiectare
+3814 132205 sef sectie industrie extractiva
+3815 132106 sef sectie industrie prelucratoare
+3816 431104 sef sectie inventar
+3817 131121 sef sectie mecanizare
+3818 143111 sef sectie productie film
+3819 132310 sef sectie productie, exploatare, întretinere, reparatii în constructii si lucrari publice
+3820 132425 sef sectie/ adjunct (sector transporturi
+3821 121914 sef sectiune tehnica
+3822 121901 sef serviciu
+3823 132445 sef serviciu aprovizionare-desfacere
+3824 142003 sef serviciu comert cu ridicata si cu amanuntul
+3825 143906 sef serviciu control tehnic presa
+3826 133030 sef serviciu control zonal comunicatii
+3827 134401 sef serviciu de reintegrare sociala si supraveghere
+3828 121206 sef serviciu evaluarea resurselor de munca
+3829 133031 sef serviciu exploatare postala
+3830 132427 sef serviciu filiala Administratia Filiala Dunarea de Jos
+3831 132206 sef serviciu industrie extractiva
+3832 132107 sef serviciu industrie prelucratoare
+3833 133032 sef serviciu informare zbor
+3834 111225 sef serviciu institutie publica
+3835 132311 sef serviciu în constructii
+3836 122101 sef serviciu marketing
+3837 133033 sef serviciu navigatie
+3838 121302 sef serviciu organizatie politica, obsteasca, umanitara
+3839 541405 ?ef serviciu paza
+3840 132113 sef serviciu plan productie
+3841 133034 sef serviciu radiotelecomunicatii
+3842 122203 sef serviciu reclama publicitara
+3843 121205 sef serviciu resurse umane
+3844 143913 sef serviciu statie, tura meteo
+3845 132217 sef serviciu tehnic si componente nucleare
+3846 132218 sef serviciu termochimic
+3847 541901 sef serviciu voluntar/ privat pentru situatii de urgenta
+3848 132426 sef serviciu, centru, statie, aeroport
+3849 134601 sef serviciu/ sef birou asigurari
+3850 134602 sef serviciu/ sef birou daune
+3851 121107 sef serviciu/ sef birou/ banca/ societate de leasing
+3852 132446 sef siloz
+3853 132314 sef sistem exploatare îmbunatatiri funciare
+3854 132428 sef statie cai ferate
+3855 133035 sef statie comunicatii prin satelit
+3856 132226 sef statie epurare ape reziduale
+3857 131116 sef statie hidrologica, meteorologica si incubatie
+3858 131119 sef statie lucrari de irigatie si ameliorare a solului
+3859 142006 sef statie PECO
+3860 131117 sef statie productie, exploatare, întretinere în agricultura
+3861 133036 sef statie radiorelee
+3862 133045 sef statie radiotelegrafie (RTG
+3863 432325 sef statie taxare
+3864 132429 sef statie teleferic
+3865 133037 sef statie televiziune
+3866 132447 sef statie uscare-conditionare cereale
+3867 131118 sef statie vinificatie
+3868 133038 sef studio
+3869 215315 sef studio RTV
+3870 132114 sef structura de securitate
+3871 121918 ?ef sucursala (studii superioare
+3872 421109 sef supraveghere case
+3873 132308 sef santier
+3874 132440 sef trafic auto intern
+3875 132441 sef trafic curierat intern
+3876 831205 sef tren
+3877 511206 sef tura comanda vagon de dormit – cuseta
+3878 215120 sef tura dispecer energetic
+3879 351102 sef tura exploatare în centre sau oficii de calcul
+3880 432326 sef tura la comanda personalului de tren
+3881 432327 sef tura pregatirea personalului la vagon-restaurant si de dormit
+3882 315515 sef tura protectia navigatiei aeriene (comunicatii, navigatie, supraveghere
+3883 432328 sef tura revizie vagoane
+3884 541409 sef tura servicii securitate
+3885 315418 sef tura telecomunicatii aeronautice aviatie civila
+3886 133044 sef turn telecomunicatii
+3887 141103 sef unitate balneoclimaterica
+3888 143903 sef unitate elementara de lucru
+3889 132212 sef unitati miniere
+3890 132219 sef uzina, centrala electrica, gaze, apa
+3891 441212 sef vagon postal
+3892 134902 sef vama
+3893 132230 sef/ sef adjunct centru exploatare retele electrice
+3894 132229 sef/ sef adjunct statie electrica
+3895 311310 sef/ sef adjunct tura statie electrica (studii medii
+3896 731310 slefuitor diamante naturale
+3897 722407 slefuitor metale
+3898 722427 slefuitor metale cu plumb industria de armament
+3899 731411 slefuitor produse din ceramica fina
+3900 818108 slefuitor produse din sticla
+3901 752213 slefuitor, lustruitor
+3902 818121 slefuitor/ sablator geam
+3903 732112 slefuitor-granulator
+3904 815203 snuruitor Jaqard
+3905 832203 sofer autoambulanta
+3906 833101 sofer autobuz
+3907 833201 sofer autocamion/ masina de mare tonaj
+3908 834305 sofer automacaragiu
+3909 832202 sofer autosanitara
+3910 832201 sofer de autoturisme si camionete
+3911 833202 sofer transport valori bancare
+3912 815308 spanuitor confectii
+3913 722104 stantator
+3914 352117 stantator de filme
+3915 814116 stantator piese pentru încaltaminte din piele si cauciuc
+3916 752221 tâmplar binale
+3917 752202 tâmplar carosier
+3918 752210 tâmplar manual ajustor montator
+3919 752211 tâmplar manual la îmbinarea furnirelor
+3920 752208 tâmplar manual la presare si încleiere
+3921 752203 tâmplar manual/ artizanal
+3922 752317 tâmplar mecanic la croit si dimensionat
+3923 752319 tâmplar mecanic la frezat si gaurit
+3924 752318 tâmplar mecanic la rindeluit
+3925 752320 tâmplar mecanic la strunjit
+3926 752321 tâmplar mecanic la slefuit
+3927 752219 tâmplar restaurator
+3928 752201 tâmplar universal
+3929 713101 tapetar
+3930 753401 tapiter
+3931 514206 tatuator
+3932 523001 taxator
+3933 815309 taietor confectii
+3934 752303 taietor de precizie în lemn
+3935 721428 taietor garnituri de carde
+3936 818120 taietor geam
+3937 817225 taietor la ferastrau panglica
+3938 921503 taietor manual lemn de foc
+3939 732204 taietor matrite serigrafie
+3940 751105 operator abatorizare pasari
+3941 818107 taietor produse din sticla
+3942 621012 taietor silvic
+3943 711304 taietor, slefuitor, lustruitor piatra, marmura
+3944 753607 talpuitor (confectioner - reparatii încaltaminte
+3945 815607 talpuitor industrial
+3946 321402 tehnician acustician - audioprotezist
+3947 314201 tehnician agronom - cercetare
+3948 213232 tehnician agronom - exploatare
+3949 314307 tehnician amenajist
+3950 313906 tehnician analist calitate
+3951 321102 tehnician aparate electromedicale
+3952 313905 tehnician asigurarea calitatii
+3953 311217 tehnician atasamentist
+3954 315317 tehnician aviatie
+3955 311808 tehnician cadastru
+3956 314306 tehnician cadastru forestier
+3957 333310 tehnician calificare gestiune competente
+3958 352128 tehnician CATV
+3959 311102 tehnician chimist
+3960 422404 tehnician compartiment securitate hotel
+3961 325722 tehnician conditii de munca si securitate
+3962 311203 tehnician constructor
+3963 311516 tehnician constructii navale
+3964 352202 tehnician constructii telefonice
+3965 313907 tehnician cotator calitate
+3966 341105 tehnician criminalist
+3967 352132 tehnician de echipamente TV
+3968 754109 tehnician de scufundare
+3969 325101 tehnician dentar
+3970 311104 tehnician determinari fizico-mecanice
+3971 311215 tehnician devize si masuratori în constructii
+3972 311216 tehnician devizier
+3973 311526 tehnician documentatie studii
+3974 351103 tehnician echipamente de calcul si retele
+3975 263108 tehnician economist
+3976 341207 tehnician egalitate de ?anse
+3977 311304 tehnician electroenergetician, termoenergetician
+3978 311305 tehnician electromecanic
+3979 311402 tehnician electronica
+3980 311306 tehnician energetician/ electrician
+3981 321403 tehnician evaluare, recomandare, furnizare si adaptare fotolii rulante
+3982 311924 tehnician frigotehnist
+3983 311108 tehnician geolog
+3984 311908 tehnician gestiune salariala
+3985 311910 tehnician gestiune stoc
+3986 311909 tehnician gestiunea productiei
+3987 311204 tehnician hidroamelioratii
+3988 311112 tehnician hidrogeolog
+3989 311111 tehnician hidrolog
+3990 311109 tehnician hidrometru
+3991 311205 tehnician hidrotehnic
+3992 223004 tehnician homeopat
+3993 352120 tehnician iluminat tehnologic
+3994 311517 tehnician instalatii de bord (avion
+3995 311209 tehnician instalatii în constructii
+3996 314101 tehnician în bacteriologie
+3997 314102 tehnician în biochimie
+3998 314105 tehnician în biologie
+3999 311120 tehnician în fizica
+4000 314103 tehnician în hematologie
+4001 311925 tehnician în industria alimentara
+4002 311927 tehnician în industria alimentara extractiva
+4003 311928 tehnician în industria alimentara fermentativa
+4004 311929 tehnician în industria carnii, laptelui si conservelor
+4005 313903 tehnician în industria celulozei si hârtiei
+4006 311912 tehnician în industria confectiilor din piele si înlocuitori
+4007 311913 tehnician în industria confectiilor si tricotajelor
+4008 311914 tehnician în industria încaltamintei
+4009 311212 tehnician în industria materialelor de constructii
+4010 311915 tehnician în industria pielariei
+4011 311921 tehnician în industria sticlei si ceramicii
+4012 311916 tehnician în industria textila
+4013 314301 tehnician în industrializarea lemnului
+4014 311930 tehnician în morarit si panificatie
+4015 314106 tehnician în protectia mediului (tehnician ecolog
+4016 314305 tehnician în reconstructia ecologica
+4017 325721 tehnician în securitate si sanatate în munca
+4018 314104 tehnician în serologie
+4019 315516 tehnician în serviciile de trafic aerian
+4020 311525 tehnician încercari componente vehicule/ grup motopropulsor/ optimizare energetica/ sisteme de masurare
+4021 352134 tehnician la echipamente de înregistrare imagine si sunet
+4022 311926 tehnician laborant analize produse alimentare
+4023 311211 tehnician laborant pentru lucrari de drumuri si poduri
+4024 343502 tehnician machetist
+4025 311518 tehnician masini si utilaje
+4026 311519 tehnician mecanic
+4027 311309 tehnician mentenanta electromecanica - automatica echipamente industriale
+4028 311524 tehnician mentenanta mecanica echipamente industriale
+4029 331303 tehnician merceolog
+4030 311706 tehnician metalurgie
+4031 311107 tehnician meteorolog
+4032 311115 tehnician metrolog
+4033 311710 tehnician mineralurg
+4034 311707 tehnician minier
+4035 333307 tehnician mobilitate personal
+4036 311904 tehnician normare, salarizare, organizare
+4037 314203 tehnician pedolog
+4038 352130 tehnician pentru sisteme de detectie, supraveghere video, control acces
+4039 742106 tehnician pentru sisteme si instalatii de limitare si stingere a incendiilor
+4040 742105 tehnician pentru sisteme si instalatii de semnalizare, alarmare si alertare în caz de incendiu
+4041 311607 tehnician petrolist chimie industriala
+4042 331405 tehnician planificare/ urmarire sinteze
+4043 311520 tehnician prelucrari mecanice
+4044 311527 tehnician prestatii vehicule
+4045 311905 tehnician pret de cost
+4046 311907 tehnician pret de revenire/ costuri
+4047 311906 tehnician programare, lansare, urmarirea productiei
+4048 311807 tehnician proiectant
+4049 311403 tehnician proiectant electronica
+4050 311307 tehnician proiectant energetician/ electrician
+4051 311207 tehnician proiectant în constructii
+4052 311931 tehnician proiectant în industria alimentara
+4053 311214 tehnician proiectant în industria materialelor de constructii
+4054 314302 tehnician proiectant în industrializarea lemnului
+4055 314308 tehnician proiectant în reconstructia ecologica
+4056 311506 tehnician proiectant mecanic
+4057 311709 tehnician proiectant metalurg
+4058 311708 tehnician proiectant minier
+4059 311917 tehnician proiectant textile, pielarie
+4060 352215 tehnician proiectant transporturi si comunicatii
+4061 315513 tehnician protectia navigatiei aeriene (comunicatii, navigatie, supraveghere
+4062 321401 tehnician protezist - ortezist
+4063 352127 tehnician radioelectronist
+4064 352203 tehnician radiolocatii
+4065 343503 tehnician reclame (decorator
+4066 333308 tehnician reconversie personal
+4067 311528 tehnician reglementari/ omologari oficiale
+4068 333311 tehnician resurse umane
+4069 352210 tehnician retele de telecomunicatii
+4070 325602 tehnician sanitar
+4071 134214 tehnician sanitar sef
+4072 315506 tehnician securitate aeriana
+4073 213234 tehnician silvic - exploatare
+4074 314304 tehnician silvic-cercetare
+4075 352206 tehnician statii de emisie radio-TV
+4076 352207 tehnician statii radiorelee si satelit
+4077 311521 tehnician sudura
+4078 311522 tehnician tehnolog mecanic
+4079 311206 tehnician topometrist
+4080 352214 tehnician transporturi, posta si telecomunicatii
+4081 352204 tehnician turn parasutism
+4082 324004 tehnician veterinar
+4083 314202 tehnician zootehnist - cercetare
+4084 213233 tehnician zootehnist - exploatare
+4085 311530 tehnician/ tehnician responsabil afacere, metode gestiune mijloace si utilaje
+4086 311529 tehnician/ tehnician responsabil afacere, metode implantare
+4087 311532 tehnician/ tehnician responsabil afacere, metode logistica
+4088 311533 tehnician/ tehnician responsabil afacere, metode organizarea si masurarea muncii
+4089 311531 tehnician/ tehnician responsabil afacere, metode pregatire de industrializare
+4090 313902 tehnician-operator la roboti industriali
+4091 311933 tehnolog alimentatie publica
+4092 264218 tehnoredactor
+4093 343507 tehnoredactor
+4094 413107 telebanker
+4095 413104 telefaxist
+4096 422304 telefonist
+4097 422305 telefonist instructor
+4098 133039 telefonist- sef
+4099 422306 telegrafist (teleimprimatorist
+4100 133040 telegrafist- sef
+4101 331106 teleoperator financiar-bancar
+4102 413105 teletipist
+4103 413106 telexist
+4104 223008 terapeut în terapii complementare
+4105 263419 terapeut ocupational
+4106 264310 terminolog
+4107 812141 termist-tratamentist
+4108 812138 termist-tratamentist de piese semifabricate, finite
+4109 812137 termist-tratamentist de produse brute, forjate, turnate sau laminate
+4110 835008 timonier maritim/ fluvial
+4111 721303 tinichigiu carosier
+4112 721305 tinichigiu de santier
+4113 721304 tinichigiu industrial
+4114 721312 tinichigiu în constructii
+4115 721309 tinichigiu restaurator
+4116 721310 tinichigiu sisteme de acoperisuri si învelitori
+4117 721311 tinichigiu sisteme de ventilatie
+4118 721306 tinichigiu structurist de aviatie
+4119 732218 tipograf flexograf
+4120 732215 tipograf print digital si offset
+4121 732201 tipograf turnator la masinile de turnat text
+4122 732207 tipograf-tiparitor
+4123 817213 tocatorist-defibratorist
+4124 612103 tocator de furaje
+4125 811211 tocator la masini de maruntit roci
+4126 721108 topitor aliaje tipografie
+4127 721109 topitor fonta si neferoase
+4128 816006 topitor grasimi comestibile si de uz industrial
+4129 815103 topitor in si cânepa
+4130 812111 topitor la concentrate miniere
+4131 818101 topitor sticla
+4132 812126 topitor, turnator metale pretioase
+4133 721110 topitor, turnator metale si aliaje neferoase
+4134 311804 topograf
+4135 834101 tractorist
+4136 834404 tractorist portuar
+4137 343517 traducator (studii medii
+4138 264306 traducator (studii superioare
+4139 731710 traforator manual lemn
+4140 264307 translator
+4141 264311 translator emisie
+4142 265905 trapezist
+4143 311802 trasator
+4144 311805 trasator naval - desenator
+4145 311806 trasator optic
+4146 817216 tratamentist PFL
+4147 731118 tratamentist piese optice
+4148 811406 tratamentist produse din azbociment
+4149 815606 tragator fete pe calapod
+4150 731503 tragator, slefuitor, gradator nivele
+4151 812147 trefilator, tragator
+4152 263634 treibar
+4153 432107 trezorier (studii medii
+4154 241228 trezorier (studii superioare
+4155 731817 tricoter manual
+4156 816003 tripier
+4157 811107 trolist
+4158 721417 tubulator naval
+4159 812115 turnator fonta
+4160 721111 turnator fonta pe banda
+4161 721112 turnator formator
+4162 818118 turnator geam
+4163 721115 turnator metale si neferoase
+4164 721114 turnator modelier
+4165 712302 turnator ornamentalist
+4166 721113 turnator pregatitor otelarie
+4167 731403 turnator produse ceramice
+4168 732116 turnator valuri
+4169 731816 tesator
+4170 731829 tesator manual
+4171 731822 tesator restaurator manual covoare
+4172 731307 tintuitor
+4173 962904 ucenic
+4174 932910 umplutor sifoane
+4175 723305 ungator-gresor
+4176 216401 urbanist
+4177 722316 uscator electrozi de sudura
+4178 813105 uscator în industria chimica
+4179 752104 uscator, aburitor material lemnos
+4180 751402 uscator-deshidrator legume, fructe
+4181 516203 valet
+4182 816012 valorificator glande
+4183 522101 vânzator
+4184 521201 vânzator ambulant de produse alimentare
+4185 952001 vânzator ambulant de produse nealimentare
+4186 523002 vânzator de bilete
+4187 522305 vânzator de produse naturiste
+4188 952002 vânzator de ziare
+4189 524301 vânzator la domiciliul clientului pe baza de comanda
+4190 815427 vaporizator la imprimerie
+4191 921303 vacar
+4192 814202 valtar calandru mase plastice
+4193 814121 valtar cauciuc electroizolant
+4194 432329 veghetor încarcare-descarcare
+4195 731805 velator-matisor
+4196 421105 verificator bani
+4197 712607 verificator canale subterane
+4198 432330 verificator documente expeditie
+4199 421106 verificator valori
+4200 263635 vestitor
+4201 263636 vicar
+4202 111235 viceconsul
+4203 111227 viceguvernator
+4204 111128 vicepresedinte (la Înalta Curte de Casatie si Justitie, Curtea de Apel, tribunale si judecatorii
+4205 111413 vicepresedinte asociatie nationala cooperatista
+4206 111422 vicepresedinte asociatie patronala
+4207 111416 vicepresedinte asociatie teritoriala de organizatii cooperatiste
+4208 142005 vicepresedinte cooperativa de consum
+4209 111231 vicepresedinte institutie publica
+4210 111420 vicepresedinte organizatie cooperatista
+4211 111403 vicepresedinte organizatie politica
+4212 111424 vicepresedinte organizatie profesionala nationala
+4213 111427 vicepresedinte organizatie profesionala, filiala judeteana/ municipiu
+4214 111409 vicepresedinte organizatie sindicala
+4215 111303 viceprimar
+4216 962401 vidanjor-curatitor canale
+4217 265232 video-jockey
+4218 343518 videojurnalist (studii medii
+4219 265436 videojurnalist (studii superioare
+4220 441107 videotecar
+4221 816044 vinificator-pivnicer
+4222 611208 viticultor
+4223 713204 vopsitor
+4224 713205 vopsitor auto
+4225 713202 vopsitor industrial
+4226 815508 vopsitor îmbracaminte din blana
+4227 752101 vopsitor lemn
+4228 814104 vulcanizator de produse industriale din cauciuc
+4229 814119 vulcanizator la autoclava
+4230 814118 vulcanizator piese din cauciuc la prese
+4231 815115 zdrobitor si uleiator textile
+4232 264219 ziarist
+4233 711202 zidar cosuri fabrica
+4234 711203 zidar pietrar
+4235 711206 zidar restaurator
+4236 711205 zidar rosar-tencuitor
+4237 711204 zidar samotor
+4238 732109 zincograf
+4239 213115 zoolog
+4240 713102 zugrav
